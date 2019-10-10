@@ -5,9 +5,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Unofficial This American Life Tracker</title>
-    <link rel="stylesheet" href="../public/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>THIS IS A TEST LOGIN SCREEN</h1>
+    <nav class="flex1 centered flex-row">
+
+        <div id="nav-left" class="flex1 centered flex-column">
+            <img id="navLogo"  src="img/talLogo.png" alt="This American life logo">
+        </div>
+
+        <div id="navSpacer" class="flex8"></div>
+
+        <div id="nav-right" class="flex1 centered flex-row">
+            <ul id="navMenu">
+                <li><a href="#">Login</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+        </div>
+
+
+    </nav>
+
+
+    <div id="content" class="flex8 title flex-column centered">
+        <h3 class="flex2">The Best Way to Keep Track of Your Listening History</h3>
+
+            <div id="loginForm" class="flex6 flex-column">
+                <form action="submit">
+                        UserName:<input type="text">
+                        Password:<input type="text">
+                </form>
+            </div>
+
+            <div class="flex2" id="about">
+                <p>This project started by filling a need to keep track of which episodes of 'This American Life' I have listened to
+                    as well as a way to keep track of my ratings of those episodes.
+                </p>
+            </div>
+    </div>
+
+    <div id="footer" class="flex1">
+        <p>Footer Goes Here</p>
+    </div>
 </body>
 </html>
