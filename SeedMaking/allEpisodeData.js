@@ -1,5 +1,37 @@
 let allEpisodeData = [
   {
+    number: "688",
+    title: "The Out Crowd",
+    description:
+      'Reports from the frontlines of the Trump administration\'s "Remain in Mexico" asylum policy. We hear from asylum seekers waiting across the border in Mexico, in a makeshift refugee camp,  and from the officers who sent them there to wait in the first place. ',
+    date: "November 15, 2019",
+    image:
+      "https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/the_out_crowd_lola_dupre.png?itok=U_C8I8kx",
+    acts: [
+      {
+        title: "Prologue",
+        producers: "Ira Glass",
+        description:
+          "Host Ira Glass visits refugee camps we don’t call refugee camps—right on our country’s doorstep. (14 minutes)  ",
+        song: ""
+      },
+      {
+        title: "Goodbye, Stranger",
+        producers: "Molly O’Toole",
+        description:
+          "Los Angeles Times reporter Molly O’Toole talks to U.S. asylum officers—the people who end up sending migrants back to Mexico. And they don’t feel good about it. This story is a collaboration with the Los Angeles Times. Read Molly's story here. (23 minutes)",
+        song: ""
+      },
+      {
+        title: "The Long Way Home",
+        producers: "Emily Green",
+        description:
+          "Reporter Emily Green happens to meet a man being sent back to Mexico who tells her he’s afraid of being kidnapped—and then, he gets kidnapped. (18 minutes)",
+        song: "“These Are My People” by Johnny Cash "
+      }
+    ]
+  },
+  {
     number: "687",
     title: "Small Things Considered",
     description:
