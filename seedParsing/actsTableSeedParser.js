@@ -7,7 +7,7 @@ let producerSeedData = []
 
 allEpisodeData.allEpisodeData.map(extractActData)
 
-console.log(producerSeedData)
+console.dir(producerSeedData, {depth: null, maxArrayLength: null})
 
 function extractActData (individualEpisode) {
 
@@ -19,7 +19,7 @@ function extractActData (individualEpisode) {
             act_number: individualEpisode.number + "." + actNumber,
             act_title: individualEpisode.acts[actNumber].title,
             producers: individualEpisode.acts[actNumber].producers.toString(),
-            description: individualEpisode.acts[actNumber].description,
+            act_description: individualEpisode.acts[actNumber].description,
             act_song: individualEpisode.acts[actNumber].song
         }
 
@@ -40,6 +40,8 @@ function extractActData (individualEpisode) {
         }
     }
 }
+
+
 
 module.exports = {
     actSeedData: actSeedData,

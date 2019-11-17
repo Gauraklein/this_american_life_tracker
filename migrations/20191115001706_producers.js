@@ -3,7 +3,7 @@ exports.up = function(knex) {
         table.integer('episode_number')
         table.foreign('episode_number').references("episodes.episode_number")
         table.string('episode_title')
-        table.integer('act_number')
+        table.string('act_number')
         table.foreign('act_number').references("acts.act_number")
         table.string('act_title')
         table.string('producer')

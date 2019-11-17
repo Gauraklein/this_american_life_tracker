@@ -25,7 +25,7 @@ extractEpisodeinfo = (individualEpisode) => {
 
 allEpisodeData.allEpisodeData.map(extractEpisodeinfo)
 
-console.log(episodeSeedData)
+console.dir(episodeSeedData, {depth: null, maxArrayLength: null})
 
 module.exports = {
     episodeSeedData: episodeSeedData

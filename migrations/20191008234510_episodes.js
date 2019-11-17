@@ -5,7 +5,7 @@ exports.up = function(knex) {
         table.string('episode_title')
         table.string('episode_description', 1000)
         table.date('date_published')
-        table.string('image_url')
+        table.string('image')
         table.string('podcast_url')
         table.integer('number_of_acts')
         table.string('slug')
