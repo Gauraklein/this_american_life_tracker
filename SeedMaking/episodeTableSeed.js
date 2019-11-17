@@ -11,7 +11,7 @@ extractEpisodeinfo = (individualEpisode) => {
     let individualEpisodeObject = {
         episode_number: individualEpisode.number,
         episode_title: individualEpisode.title,
-        description: individualEpisode.description,
+        episode_description: individualEpisode.description,
         date_published: individualEpisode.date,
         image: individualEpisode.image,
         podcast_url: "http://assets.thisamericanlife.co/podcasts/" + individualEpisode.number + ".mp3",

@@ -3,7 +3,7 @@ exports.up = function(knex) {
     return knex.schema.createTable('episodes', (table) => {
         table.integer('episode_number').primary().unique()
         table.string('episode_title')
-        table.string('description', 1000)
+        table.string('episode_description', 1000)
         table.date('date_published')
         table.string('image_url')
         table.string('podcast_url')

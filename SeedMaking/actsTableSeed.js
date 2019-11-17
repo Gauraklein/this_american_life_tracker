@@ -16,11 +16,11 @@ function extractActData (individualEpisode) {
         let individualActObject = {
             episode_number: individualEpisode.number,
             episode_title: individualEpisode.title,
-            act_number: actNumber,
+            act_number: individualEpisode.number + "." + actNumber,
             act_title: individualEpisode.acts[actNumber].title,
             producers: individualEpisode.acts[actNumber].producers.toString(),
             description: individualEpisode.acts[actNumber].description,
-            song: individualEpisode.acts[actNumber].song
+            act_song: individualEpisode.acts[actNumber].song
         }
 
         actSeedData.push(individualActObject)
@@ -30,7 +30,7 @@ function extractActData (individualEpisode) {
             let individualProducerObject = {
                 episode_number: individualEpisode.number,
                 episode_title: individualEpisode.title,
-                act_number: actNumber,
+                act_number: individualEpisode.number + "." + actNumber,
                 act_title: individualEpisode.acts[actNumber].title,
                 producer: individualEpisode.acts[actNumber].producers[producerNumber]
             }
