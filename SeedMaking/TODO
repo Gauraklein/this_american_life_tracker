@@ -1,0 +1,3 @@
+1. Run scraper to gather all producer data
+2. Write parser to properly add producers to the seed data
+3. seed data to fill out table
