@@ -24,6 +24,8 @@ Wanted a simple way to track which episodes of 'This American Life' I've already
 - Rate episodes
 - Get recommended episodes based on user rating
 
+---
+
 ### Technologies used
 
 **Backend**
