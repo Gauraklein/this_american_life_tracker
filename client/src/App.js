@@ -45,9 +45,9 @@ const Nav = (props) => {
           <img className="navLogo"  src={logo} alt="This American life logo" />
       </div>
 
-    <div class="flex8 navSpacer"></div>
+    <div className="flex8 navSpacer"></div>
 
-    <div class="flex1 nav-right centered flex-row">
+    <div className="flex1 nav-right centered flex-row">
         <ul className="navMenu">
             <li><a href="#">Login</a></li>
             <li><a href="#about">About</a></li>
@@ -70,7 +70,7 @@ const LoginBody = (props) => {
                     </form>
                 </div>
                 
-                <div class="flex2" id="about">
+                <div className="flex2" id="about">
                 <p>This project started by filling a need to keep track of which episodes of 'This American Life' I have listened to
                      as well as a way to keep track of my ratings of those episodes.
                  </p>

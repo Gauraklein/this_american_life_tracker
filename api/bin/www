@@ -7,6 +7,7 @@
 var app = require('../app');
 var debug = require('debug')('api:server');
 var http = require('http');
+const db = require('../db.js')
 
 /**
  * Get port from environment and store in Express.
@@ -22,7 +23,7 @@ app.set('port', port);
 var server = http.createServer(app);
 
 /**
- * Listen on provided port, on all network interfaces.
+ * Listen on provided por on all network interfaces.
  */
 
 server.listen(port);
