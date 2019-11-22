@@ -2,6 +2,7 @@ import React from 'react';
 import { Component } from 'react'
 import logo from './talLogo.png';
 import './App.css';
+const moment = require("moment")
 
 class App extends Component {
   constructor(props) {
@@ -39,18 +40,32 @@ export default App;
 const EpisodeContainer = ({episodes}) => {
   return (
     <div className="episodeCardContainer centered flex8 flex-wrap flex-row">
-    <p>{episodes.map(renderEpisodeCard)}</p>
+    {episodes.map(renderEpisodeCard)}
   </div>
   )
 }
 
 const renderEpisodeCard = (episodeMetadata) => {
 
+  if (episodeMetadata.image == null) {
+    episodeMetadata.image = logo
+  }
+
+  let publishDate = moment(episodeMetadata.date_published).format('MMM Do YYYY')
+  
+
   return (
 
-      <div className="episodeCard flex1 flex-column">
+      <div className="episodeCard flex-column">
 
-        <h1>Episode {episodeMetadata.episode_number}: {episodeMetadata.episode_title}</h1>
+        <div className="episodeImgContainer">
+
+          <img src={episodeMetadata.image} alt="Episode Image" className="episodeImage"/>
+
+        </div>
+
+        <h5>Episode {episodeMetadata.episode_number}: {episodeMetadata.episode_title}</h5>
+        <p>Date Published: {publishDate}</p>
 
       </div>
 

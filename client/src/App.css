@@ -78,6 +78,20 @@ li {
 
 /* CONTENT  */
 
-.episodeCard {
+.episodeCardContainer {
+    overflow: scroll;
+}
 
+.episodeCard {
+   border: 3px solid black;
+   border-radius: 5px;
+   max-width: 150px;
+   height: auto;
+   margin: 5px;
+}
+
+.episodeImage {
+    max-width: 150px;
+    height: 150px;
+    object-fit: cover;
 }
