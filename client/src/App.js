@@ -6,13 +6,15 @@ import './App.css';
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = { apiResponse: ""}
+    this.state = { apiResponse: []}
   }
 
   callAPI() {
     fetch("http://localhost:9000/testApi")
-    .then(res => res.text())
+    .then(res => res.json())
     .then(res => this.setState({ apiResponse: res }))
+    .then(res => console.log(this.state, 'this is the state'))
+    // .then(console.log('fetched data', this.state.apiResponse))
     .catch(err => err);
   }
 
@@ -24,10 +26,7 @@ class App extends Component {
     return (
       <div className="App">
           <Nav />
-          <LoginBody />
-          <div className="centered flex2">
-            <p className="App-intro">{this.state.apiResponse}</p>
-          </div>
+          <EpisodeContainer episodes={this.state.apiResponse} />
           <Footer />
       </div>
     )
@@ -36,6 +35,30 @@ class App extends Component {
 }
 
 export default App;
+
+const EpisodeContainer = ({episodes}) => {
+  return (
+    <div className="episodeCardContainer centered flex8 flex-wrap flex-row">
+    <p>{episodes.map(renderEpisodeCard)}</p>
+  </div>
+  )
+}
+
+const renderEpisodeCard = (episodeMetadata) => {
+
+  return (
+
+      <div className="episodeCard flex1 flex-column">
+
+        <h1>Episode {episodeMetadata.episode_number}: {episodeMetadata.episode_title}</h1>
+
+      </div>
+
+  )
+
+}
+
+
 
 const Nav = (props) => {
   return (
@@ -90,20 +113,3 @@ const Footer = (props) => {
   )
 }
 
-{/* // const Login = (props) => { */}
-{/* //   return (
- 
-
-
-//    
-
-//             <div class="flex2" id="about">
-//                 <p>This project started by filling a need to keep track of which episodes of 'This American Life' I have listened to
-//                     as well as a way to keep track of my ratings of those episodes.
-//                 </p>
-//             </div>
-//     </div> }
-
-{/* //     
-//   )
-// } */}

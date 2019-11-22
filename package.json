@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "client": "cd client && npm start",
-    "server": "cd api/bin && nodemon www",
+    "server": "nodemon server.js",
     "start": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
   },
   "author": "Gaura Klein",
@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "concurrently": "^5.0.0",
+    "cors": "^2.8.5",
+    "json-stringify-safe": "^5.0.1",
     "pg": "^7.14.0",
     "pg-native": "^3.0.0",
     "save": "^2.4.0"
