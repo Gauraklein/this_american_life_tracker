@@ -3,7 +3,14 @@ const path = require('path')
 const mustache = require('mustache')
 const express = require('express')
 const app = express()
-const { db } = require("./db.js")
+const { db } = require("./db")
+const stringify = require('json-stringify-safe')
+// const knex = require('knex')({
+//     client: 'pg',
+//     connection: {
+//         database: 'thisamericanlifetracker'
+//     }
+//   });
 
 //port 3000
 
@@ -14,7 +21,7 @@ const port = 9000
 //login template
 
 // const loginTemplate = fs.readFileSync('./templates/login.html', 'utf8')
-app.use(express.urlencoded())
+// app.use(express.urlencoded())
 
 app.use(express.static(path.join(__dirname, 'public')));
 
@@ -25,17 +32,23 @@ app.use(express.static(path.join(__dirname, 'public')));
 
   app.get('/testApi', function(req, res, next) {
 
-    console.log(getEpisodes())
-    console.log('fetching')
+    getEpisodes()
+    .then((episodeData) => {
+        res.send(episodeData.rows)
+    } )
+    // const episodes = JSON.stringify(getEpisodes())
+    // console.log('fetching')
+    // res.json(episodes.toPlainObject())
     // console.log(JSON.stringify(getEpisodes()))
-    res.send('ALL EPISODES GO HERE', getEpisodes());
+    // res.send('ALL EPISODES GO HERE', getEpisodes());
 });
 
 const getEpisodes = () => {
-    return db.raw(`
-    SELECT *
-    FROM episodes
-    WHERE episode_number = 1`)
+    return db.raw(
+        `select *
+        from episodes
+        where episode_number = 1`
+    )
 }
 
 app.listen(port, function () {

@@ -3,11 +3,18 @@ const db = require("knex")(dbConfigs.development);
 
 db.raw("SELECT 1")
 .then((result) => {
-        log.info("Successfully connected to the database.")
+        console.log("Successfully connected to the database.")
     })
     .catch((err) => {
-        log.error("Failed to connect to the database.")
+        console.log("Failed to connect to the database.")
     })
+
+// db.raw(`select *
+// from episodes
+// where episode_number = 1`)
+// .then((result) => {
+//   console.log(result.rows)
+// })
 
 module.exports = {
   db: db
