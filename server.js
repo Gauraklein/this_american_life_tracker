@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const mustache = require('mustache')
 const express = require('express')
+var cors = require('cors');
 const app = express()
 const { db } = require("./db")
 const stringify = require('json-stringify-safe')
@@ -23,6 +24,7 @@ const port = 9000
 // const loginTemplate = fs.readFileSync('./templates/login.html', 'utf8')
 // app.use(express.urlencoded())
 
+app.use(cors())
 app.use(express.static(path.join(__dirname, 'public')));
 
 // app.get('/', function (req, res) {
@@ -47,7 +49,7 @@ const getEpisodes = () => {
     return db.raw(
         `select *
         from episodes
-        where episode_number = 1`
+        where episode_number = 1 OR episode_number = 2`
     )
 }
 

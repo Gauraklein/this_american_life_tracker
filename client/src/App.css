@@ -36,6 +36,10 @@ li {
     flex-direction: row;
 }
 
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
 .centered {
     align-items: center;
     justify-content: center;
@@ -74,3 +78,6 @@ li {
 
 /* CONTENT  */
 
+.episodeCard {
+
+}
