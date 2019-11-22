@@ -1,4 +1,4 @@
-const dbConfigs = require("../knexfile.js");
+const dbConfigs = require("./knexfile.js");
 const db = require("knex")(dbConfigs.development);
 
 db.raw("SELECT 1")

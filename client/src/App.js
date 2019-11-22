@@ -90,20 +90,3 @@ const Footer = (props) => {
   )
 }
 
-{/* // const Login = (props) => { */}
-{/* //   return (
- 
-
-
-//    
-
-//             <div class="flex2" id="about">
-//                 <p>This project started by filling a need to keep track of which episodes of 'This American Life' I have listened to
-//                     as well as a way to keep track of my ratings of those episodes.
-//                 </p>
-//             </div>
-//     </div> }
-
-{/* //     
-//   )
-// } */}
