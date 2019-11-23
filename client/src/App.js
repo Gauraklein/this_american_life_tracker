@@ -63,29 +63,27 @@ const renderEpisodeCard = (episodeMetadata) => {
 
   return (
 
-    <div className="example-2 card">
+    <div className="episodeCardStyle card">
     <div className="wrapper" style={wrapperStyle}>
-      <div className="header">
-        <div className="date">
-          {publishDate}
-        </div>
-        <ul className="menu-content">
-          <li>
-            <a href="#" className="fa fa-bookmark-o"></a>
-          </li>
-          <li><a href="#" className="fa fa-heart-o"><span>18</span></a></li>
-          <li><a href="#" className="fa fa-comment-o"><span>3</span></a></li>
-        </ul>
+      <div className="date">
+        {publishDate}
       </div>
       <div className="data">
         <div className="content">
-  <span className="author">Episode {episodeMetadata.episode_number}</span>
+        <div className="readMoreFooter">
+        <span className="author">Episode {episodeMetadata.episode_number}</span>
+
+      <a href="#" className="button">Read more</a>
+
+      </div>
           <h1 className="title"><a href="#">{episodeMetadata.episode_title}</a></h1>
-  <p className="text">{episodeMetadata.episode_description}</p>
-          <a href="#" className="button">Read more</a>
+          <p className="text">{episodeMetadata.episode_description}</p>
+        
         </div>
       </div>
-    </div>
+
+      
+  </div>
   </div>
 
   )
