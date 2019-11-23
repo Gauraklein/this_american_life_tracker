@@ -435,3 +435,14 @@ h1 {
 .readMoreFooter {
  width: 100%;
 }
+
+
+/* SCROLL REVEAL SCROLL REVEAL SCROLL REVEAL  */
+
+html.sr .load-hidden {
+  visibility: hidden;
+}
+
+html.sr .widget {
+  visibility: hidden;
+}
