@@ -47,27 +47,46 @@ const EpisodeContainer = ({episodes}) => {
 
 const renderEpisodeCard = (episodeMetadata) => {
 
-  if (episodeMetadata.image == null) {
-    episodeMetadata.image = logo
+  let backgroundImage = episodeMetadata.image
+
+  if (backgroundImage == null) {
+    backgroundImage = logo
   }
 
   let publishDate = moment(episodeMetadata.date_published).format('MMM Do YYYY')
   
+  let wrapperStyle = {
+    backgroundImage: "url(" + backgroundImage + ")",
+    backgroundSize: "cover",
+    backgroundPosition: "center"
+  };
 
   return (
 
-      <div className="episodeCard flex-column">
-
-        <div className="episodeImgContainer">
-
-          <img src={episodeMetadata.image} alt="Episode Image" className="episodeImage"/>
-
+    <div className="example-2 card">
+    <div className="wrapper" style={wrapperStyle}>
+      <div className="header">
+        <div className="date">
+          {publishDate}
         </div>
-
-        <h5>Episode {episodeMetadata.episode_number}: {episodeMetadata.episode_title}</h5>
-        <p>Date Published: {publishDate}</p>
-
+        <ul className="menu-content">
+          <li>
+            <a href="#" className="fa fa-bookmark-o"></a>
+          </li>
+          <li><a href="#" className="fa fa-heart-o"><span>18</span></a></li>
+          <li><a href="#" className="fa fa-comment-o"><span>3</span></a></li>
+        </ul>
       </div>
+      <div className="data">
+        <div className="content">
+  <span className="author">Episode {episodeMetadata.episode_number}</span>
+          <h1 className="title"><a href="#">{episodeMetadata.episode_title}</a></h1>
+  <p className="text">{episodeMetadata.episode_description}</p>
+          <a href="#" className="button">Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
   )
 
@@ -77,7 +96,7 @@ const renderEpisodeCard = (episodeMetadata) => {
 
 const Nav = (props) => {
   return (
-    <nav className="flex1 centered flex-row">
+    <nav className="navBar flex1 flex-row">
 
       <div className="nav-left flex1 centered flex-column">
           <img className="navLogo"  src={logo} alt="This American life logo" />
