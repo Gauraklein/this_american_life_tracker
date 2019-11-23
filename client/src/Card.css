@@ -1,120 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
-
-/* GLOBAL  */
-
-.App {
-    font-family: 'Libre Baskerville', serif;
-    background: rgb(236, 0, 0);
-    color: white;
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    padding: 10px;
-}
-
-ul {
-    list-style: none;
-}
-
-li {
-    margin: 5px;
-}
-
-a {
-    text-decoration: none;
-    color: white;
-}
-
-li {
-    display: inline;
-}
-
-.flex-column {
-    display: flex;
-    flex-direction: column;
-    
-}
-
-.flex-row {
-    display: flex;
-    flex-direction: row;
-}
-
-.flex-wrap {
-    flex-wrap: wrap;
-}
-
-.centered {
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
-.flex1 {
-    flex: 1;
-}
-
-.flex2 {
-    flex: 2;
-}
-
-.flex4 {
-    flex: 4;
-}
-
-.flex6 {
-    flex: 6;
-}
-
-.flex8 {
-    flex: 8;
-}
-
-.flex9 {
-    flex: 9;
-}
-
-/* NAV SECTION  */
-
-.navBar {
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
-.navLogo {
-    max-width: 96px;
-}
-
-/* CONTENT  */
-
-.episodeCardContainer {
-    overflow: scroll;
-}
-
-.episodeCard {
-   border: 3px solid black;
-   border-radius: 5px;
-   width: 200px;
-   height: 48%;
-   margin: 5px;
-}
-
-.episodeImage {
-    max-width: 200px;
-    height: 200px;
-    object-fit: cover;
-}
-
-.episodeDetails {
-    font-size: .5em;
-}
-
-
-
-
-/* CARDS CARDS CARDS */
-
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
 * {
   -webkit-box-sizing: border-box;
@@ -148,8 +31,6 @@ h1 {
   float: left;
   padding: 0 1.7rem;
   width: 50%;
-  margin: 10px;
-  max-width:500px;
 }
 
 .card .menu-content {
@@ -172,7 +53,7 @@ h1 {
 }
 
 .card .menu-content a {
-  color: black;
+  color: #fff;
 }
 
 .card .menu-content span {
@@ -187,7 +68,7 @@ h1 {
 }
 
 .card .wrapper {
-  background-color: black;
+  background-color: #fff;
   min-height: 540px;
   position: relative;
   overflow: hidden;
@@ -199,34 +80,6 @@ h1 {
   -webkit-transform: translateY(0);
           transform: translateY(0);
 }
-
-.card .wrapper:hover .text {
-  color: black;
-  -webkit-animation-name: fadeIn; /* Safari 4.0 - 8.0 */
-  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
-  animation-name: fadeIn;
-  animation-duration: 1s;
-}
-
-.card .wrapper:hover .button {
-  color: black;
-  -webkit-animation-name: fadeIn; /* Safari 4.0 - 8.0 */
-  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
-  animation-name: fadeIn;
-  animation-duration: 1s;
-
-}
-
-@-webkit-keyframes fadeIn {
-  from {color: white;}
-  to {color: black;}
-}
-
-@keyframes fadeIn {
-  from {color: white;}
-  to {color: black;}
-}
-
 
 .card .data {
   position: absolute;
@@ -248,26 +101,15 @@ h1 {
 
 .card .author {
   font-size: 12px;
-  color: black;
-  text-align: left;
-  float: left;
-  margin: 5px;
-  margin-left: 10px;
 }
 
 .card .title {
-  margin-top: 20px;
-  text-align: center;
-  
-
+  margin-top: 10px;
 }
 
 .card .text {
   height: 70px;
   margin: 0;
-  color: black;
-  font-size: .9em;
-  overflow: auto;
 }
 
 .card input[type='checkbox'] {
@@ -280,8 +122,7 @@ h1 {
 }
 
 .episodeCardStyle .wrapper {
-  /* border: 3px solid black; */
-  border-radius: 10px;
+  background: url(https://images.unsplash.com/photo-1496979551903-46e46589a88b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cda12b505afa1beb06e49d89014cbd65&auto=format&fit=crop&w=634&q=80) 20% 1%/cover no-repeat;
 }
 
 .episodeCardStyle .date {
@@ -291,7 +132,6 @@ h1 {
   background-color: #77d7b9;
   color: #fff;
   padding: 0.8em;
-  border-radius: 0 1px 10px 1px;
 }
 
 .episodeCardStyle .date span {
@@ -315,13 +155,13 @@ h1 {
 }
 
 .episodeCardStyle .content {
-  background-color: white;
+  background-color: #fff;
   -webkit-box-shadow: 0 5px 30px 10px rgba(0, 0, 0, 0.3);
           box-shadow: 0 5px 30px 10px rgba(0, 0, 0, 0.3);
 }
 
 .episodeCardStyle .title a {
-  color: black;
+  color: gray;
 }
 
 .episodeCardStyle .menu-button {
@@ -398,26 +238,76 @@ h1 {
   top: -10px;
 }
 
-.episodeCardStyle .button {
-
-  /* display: block; */
-  /* width: 100%; */
-  margin: 5px;
-  margin-top: 7px;
-  /* margin-right: 20px; */
-  float: right;
-  text-align: center;
-  font-size: 12px;
-  /* color: black; */
-  line-height: 1;
-  position: relative;
-  /* font-weight: 700; */
+.example-2 .wrapper {
+  background: url(https://tvseriescritic.files.wordpress.com/2016/10/stranger-things-bicycle-lights-children.jpg) center/cover no-repeat;
 }
 
-.episodeCardStyle .button::after {
+.example-2 .wrapper:hover .menu-content span {
+  -webkit-transform: translate(-50%, -10px);
+          transform: translate(-50%, -10px);
+  opacity: 1;
+}
+
+.example-2 .header {
+  color: #fff;
+  padding: 1em;
+}
+
+.example-2 .header::before, .example-2 .header::after {
+  content: '';
+  display: table;
+}
+
+.example-2 .header::after {
+  clear: both;
+}
+
+.example-2 .header .date {
+  float: left;
+  font-size: 12px;
+}
+
+.example-2 .menu-content {
+  float: right;
+}
+
+.example-2 .menu-content li {
+  margin: 0 5px;
+  position: relative;
+}
+
+.example-2 .menu-content span {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  opacity: 0;
+}
+
+.example-2 .data {
+  color: #fff;
+  -webkit-transform: translateY(calc(70px + 4em));
+          transform: translateY(calc(70px + 4em));
+}
+
+.example-2 .title a {
+  color: #fff;
+}
+
+.example-2 .button {
+  display: block;
+  width: 100px;
+  margin: 2em auto 1em;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+  line-height: 1;
+  position: relative;
+  font-weight: 700;
+}
+
+.example-2 .button::after {
   content: '\2192';
   opacity: 0;
-  /* position: absolute; */
+  position: absolute;
   right: 0;
   top: 50%;
   -webkit-transform: translate(0, -50%);
@@ -426,23 +316,9 @@ h1 {
   transition: all 0.3s;
 }
 
-.episodeCardStyle .button:hover::after {
+.example-2 .button:hover::after {
   -webkit-transform: translate(5px, -50%);
           transform: translate(5px, -50%);
   opacity: 1;
 }
-
-.readMoreFooter {
- width: 100%;
-}
-
-
-/* SCROLL REVEAL SCROLL REVEAL SCROLL REVEAL  */
-
-html.sr .load-hidden {
-  visibility: hidden;
-}
-
-html.sr .widget {
-  visibility: hidden;
-}
+/*# sourceMappingURL=Card.css.map */

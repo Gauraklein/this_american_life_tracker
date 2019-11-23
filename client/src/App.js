@@ -2,6 +2,8 @@ import React from 'react';
 import { Component } from 'react'
 import logo from './talLogo.png';
 import './App.css';
+import Fade from 'react-reveal/Fade'
+
 const moment = require("moment")
 
 class App extends Component {
@@ -15,6 +17,7 @@ class App extends Component {
     .then(res => res.json())
     .then(res => this.setState({ apiResponse: res }))
     .then(res => console.log(this.state, 'this is the state'))
+   
     // .then(console.log('fetched data', this.state.apiResponse))
     .catch(err => err);
   }
@@ -27,7 +30,9 @@ class App extends Component {
     return (
       <div className="App">
           <Nav />
-          <EpisodeContainer episodes={this.state.apiResponse} />
+          
+            <EpisodeContainer episodes={this.state.apiResponse} />
+          
           <Footer />
       </div>
     )
@@ -38,7 +43,9 @@ class App extends Component {
 export default App;
 
 const EpisodeContainer = ({episodes}) => {
+  
   return (
+    
     <div className="episodeCardContainer centered flex8 flex-wrap flex-row">
     {episodes.map(renderEpisodeCard)}
   </div>
@@ -47,27 +54,48 @@ const EpisodeContainer = ({episodes}) => {
 
 const renderEpisodeCard = (episodeMetadata) => {
 
-  if (episodeMetadata.image == null) {
-    episodeMetadata.image = logo
+  let backgroundImage = episodeMetadata.image
+
+  if (backgroundImage == null) {
+    backgroundImage = logo
   }
 
   let publishDate = moment(episodeMetadata.date_published).format('MMM Do YYYY')
   
+  let wrapperStyle = {
+    backgroundImage: "url(" + backgroundImage + ")",
+    backgroundSize: "cover",
+    backgroundPosition: "center"
+  };
+
+  let fadeDuration = Math.floor(Math.random() * 2001)
 
   return (
+    <Fade big cascade duration={fadeDuration}>
+    <div className="episodeCardStyle card">
+    <div className="wrapper" style={wrapperStyle}>
+      <div className="date">
+        {publishDate}
+      </div>
+      <div className="data">
+        <div className="content">
+        <div className="readMoreFooter">
+        <span className="author">Episode {episodeMetadata.episode_number}</span>
 
-      <div className="episodeCard flex-column">
-
-        <div className="episodeImgContainer">
-
-          <img src={episodeMetadata.image} alt="Episode Image" className="episodeImage"/>
-
-        </div>
-
-        <h5>Episode {episodeMetadata.episode_number}: {episodeMetadata.episode_title}</h5>
-        <p>Date Published: {publishDate}</p>
+      <a href="#" className="button">Read more</a>
 
       </div>
+          <h1 className="title"><a href="#">{episodeMetadata.episode_title}</a></h1>
+          <p className="text">{episodeMetadata.episode_description}</p>
+        
+        </div>
+      </div>
+
+      
+  </div>
+  </div>
+
+  </Fade>
 
   )
 
@@ -77,7 +105,7 @@ const renderEpisodeCard = (episodeMetadata) => {
 
 const Nav = (props) => {
   return (
-    <nav className="flex1 centered flex-row">
+    <nav className="navBar flex1 flex-row">
 
       <div className="nav-left flex1 centered flex-column">
           <img className="navLogo"  src={logo} alt="This American life logo" />
