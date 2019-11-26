@@ -118,9 +118,31 @@ passport.deserializeUser(function(id, done) {
     .catch(error => done(error, false));
 });
 
+// LOGOUT
 
-app.get("/", function(req, res, next) {
-  res.send("HOW DID WE END UP HERE?")
+app.get('/logout', function(req, res){
+  req.logout();
+  console.log('logged Out')
+  res.redirect('/login');
+});
+
+
+// SIGN UP
+
+app.get('/signup', function(req, res){
+  res.sendFile(path.join(__dirname + '/signup.html'));
+})
+
+app.post('/signup', function(req, res){
+  db('users')
+    .insert({
+      username: req.body.username,
+      email: req.body.email,
+      password: req.body.password
+    })
+    .then(function(){
+      res.send('user added')
+    })
 })
 
 
