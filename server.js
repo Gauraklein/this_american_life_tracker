@@ -22,14 +22,51 @@ const port = 9000
 //--------------------------------------\\
 
 app.use(passport.initialize());
+// app.use(flash())
+app.use(
+  session({
+    secret: "Good Luck Gaura",
+    resave: false,
+    saveUninitialized: true,
+    cookie: {}
+  })
+  );
 app.use(passport.session());
-
-
 app.use(cors())
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(bodyParser.urlencoded({ extended: true })); //For body parser
+app.use(bodyParser.urlencoded({ extended: false})); //For body parser
 app.use(bodyParser.json());
 
+
+
+passport.use(
+  new LocalStrategy((username, password, done) => {
+    console.log("got auth request");
+    db("users")
+      .where({ username: username })
+      // .orwhere({ email: username })
+      .then(res => {
+        // console.log(userRows)
+        const user = res[0];
+        // console.log(user);
+        if (!user) {
+          console.log("User not found");
+          done(null, false);
+        } 
+        
+        if (bcrypt.compareSync(user.password, password)) {
+          console.log("Wrong Password");
+          done(null, false);
+        } else
+        console.log("User found", user);
+        return done(null, user);
+      })
+      .catch(err => {
+        console.error("Local strategy error - ", err);
+        return err;
+      });
+  })
+);
 
 
   app.get('/testApi', function(req, res, next) {
@@ -47,6 +84,40 @@ app.use(bodyParser.json());
 app.get('/login', function(req, res, next) {
     res.sendFile(path.join(__dirname + '/login.html'));
 })
+
+app.post("/login", (req, res, next) => {
+  passport.authenticate("local", (err, user, info) => {
+    if (info) {
+      return res.send(info.message);
+    }
+    if (err) {
+      return next(err);
+    }
+    if (!user) {
+      return res.send("/no-user");
+    }
+    req.login(user, err => {
+      if (err) {
+        return next(err);
+      }
+      return res.send("/home" + JSON.stringify(req.session));
+    });
+  })(req, res, next);
+});
+
+
+passport.serializeUser(function(user, done) {
+  done(null, user.id);
+});
+passport.deserializeUser(function(id, done) {
+  db("users")
+    .where({ id: id })
+    .then(res => {
+      done(null, res[0]);
+    })
+    .catch(error => done(error, false));
+});
+
 
 app.get("/", function(req, res, next) {
   res.send("HOW DID WE END UP HERE?")
