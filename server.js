@@ -73,7 +73,11 @@ passport.use(
 
     getEpisodes()
     .then((episodeData) => {
-        res.send(episodeData.rows)
+      return episodeData.rows.sort((a, b) => (a.episode_number < b.episode_number) ? 1 : -1)
+    })
+    .then((sortedEpisodes) => {
+      // console.log(episodeData)
+        res.send(sortedEpisodes)
     } )
     
 });
