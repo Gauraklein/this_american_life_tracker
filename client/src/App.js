@@ -1,6 +1,8 @@
 import React from 'react';
 import { Component } from 'react'
 import './App.css';
+import { connect } from 'react-redux'
+import { callApiAction} from './actions/episodeActions'
 
 // COMPONENTS 
 import { EpisodeContainer } from './Components/EpisodeContainer'
@@ -14,26 +16,17 @@ class App extends Component {
     this.state = { allEpisodesArray: []}
   }
 
-  callAPI() {
-    fetch("http://localhost:9000/allEpisodes")
-    .then(res => res.json())
-    .then(res => this.setState({ allEpisodesArray: res }))
-    .then(res => console.log(this.state, 'this is the state'))
-   
-    // .then(console.log('fetched data', this.state.apiResponse))
-    .catch(err => err);
-  }
-
   componentDidMount() {
-    this.callAPI();
+    this.props.callAPI();
   }
 
   render() {
+    console.log(this.props)
     return (
       <div className="App">
           <Nav />
           
-            <EpisodeContainer episodes={this.state.allEpisodesArray} />
+            <EpisodeContainer episodes={this.props.allEpisodesArray} />
           
           <Footer />
       </div>
@@ -42,7 +35,18 @@ class App extends Component {
 
 }
 
-export default App;
+const mapStateToProps = (state) => {
+  return {
+    allEpisodesArray: state.allEpisodesArray
+  }
+}
+  function mapDispatchToProps(dispatch) {
+   return {
+    callAPI: () => dispatch(callApiAction())
+   };
+  }
+
+export default connect(mapStateToProps, mapDispatchToProps)(App);
 
 
 
