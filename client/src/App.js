@@ -1,6 +1,7 @@
 import React from 'react';
 import { Component } from 'react'
 import './App.css';
+import { connect } from 'react-redux'
 
 // COMPONENTS 
 import { EpisodeContainer } from './Components/EpisodeContainer'
@@ -42,7 +43,19 @@ class App extends Component {
 
 }
 
-export default App;
+function mapStateToProps(state) {
+  return {
+    count: state
+   };
+  }
+  function mapDispatchToProps(dispatch) {
+   return {
+    increment: () => dispatch({type: 'INCREMENT'}),
+    decrement: () => dispatch({type: 'DECREMENT'})
+   };
+  }
+
+export default connect(mapStateToProps, mapDispatchToProps)(App);
 
 
 
