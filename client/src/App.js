@@ -11,13 +11,13 @@ import { Footer } from './Components/Footer'
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = { apiResponse: []}
+    this.state = { allEpisodesArray: []}
   }
 
   callAPI() {
-    fetch("http://localhost:9000/testApi")
+    fetch("http://localhost:9000/allEpisodes")
     .then(res => res.json())
-    .then(res => this.setState({ apiResponse: res }))
+    .then(res => this.setState({ allEpisodesArray: res }))
     .then(res => console.log(this.state, 'this is the state'))
    
     // .then(console.log('fetched data', this.state.apiResponse))
@@ -33,7 +33,7 @@ class App extends Component {
       <div className="App">
           <Nav />
           
-            <EpisodeContainer episodes={this.state.apiResponse} />
+            <EpisodeContainer episodes={this.state.allEpisodesArray} />
           
           <Footer />
       </div>

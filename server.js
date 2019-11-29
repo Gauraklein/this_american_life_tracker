@@ -69,7 +69,7 @@ passport.use(
 );
 
 
-  app.get('/testApi', function(req, res, next) {
+  app.get('/allEpisodes', function(req, res, next) {
 
     getEpisodes()
     .then((episodeData) => {
