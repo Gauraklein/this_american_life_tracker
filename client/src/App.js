@@ -3,6 +3,7 @@ import { Component } from 'react'
 import './App.css';
 import { connect } from 'react-redux'
 import { callApiAction} from './actions/episodeActions'
+import { LoginModal} from './Components/LoginModal/LoginModal'
 
 // COMPONENTS 
 import { EpisodeContainer } from './Components/EpisodeContainer'
@@ -25,9 +26,13 @@ class App extends Component {
     return (
       <div className="App">
           <Nav />
-          
+
+            <LoginModal />
+
             <EpisodeContainer episodes={this.props.allEpisodesArray} />
-          
+
+           
+
           <Footer />
       </div>
     )
