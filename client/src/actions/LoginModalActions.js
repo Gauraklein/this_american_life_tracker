@@ -1,8 +1,8 @@
 
 
-export const toggleLoginModal = (props) => {
+export const toggleLoginModal = () => {
     console.log('login action triggered')
-    console.log(props)
+    // console.log(props)
     return (dispatch) => {
        
             dispatch({

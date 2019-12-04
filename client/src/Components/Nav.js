@@ -18,7 +18,7 @@ export const Nav = (props) => {
       <div className="flex1 nav-right centered flex-row">
           <ul className="navMenu">
               
-              <li><a href="#" onClick={props.props.toggleLoginModal}>Login</a></li>
+              <li><a href="#" onClick={props.toggleLoginModal}>Login</a></li>
               <li><a href="#about">About</a></li>
           </ul>
       </div>

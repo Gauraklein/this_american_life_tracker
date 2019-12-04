@@ -30,6 +30,7 @@ const rootReducer = (state = initState, action) => {
             }
 
         } else {
+            console.log(state, 'reducer')
             return {
                 ...state,
                 isLoginOpen: false

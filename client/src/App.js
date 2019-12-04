@@ -29,9 +29,9 @@ class App extends Component {
     console.log(this.props, "props")
     return (
       <div className="App">
-          <Nav props={this.props}/>
+          <Nav {...this.props}/>
 
-            <LoginModal />
+            <LoginModal {...this.props} />
 
             <EpisodeContainer episodes={this.props.allEpisodesArray} />
 
@@ -46,7 +46,10 @@ class App extends Component {
 
 const mapStateToProps = (state) => {
   return {
-    allEpisodesArray: state.allEpisodesArray
+    allEpisodesArray: state.allEpisodesArray,
+    isLoading: state.isLoading,
+    isLoginOpen: state.isLoginOpen
+
   }
 }
   function mapDispatchToProps(dispatch) {

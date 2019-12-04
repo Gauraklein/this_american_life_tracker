@@ -6,8 +6,9 @@ import styles from './LoginModal.css'
 
 export const LoginModal = (props) => {
 
+    console.log(props, 'loginModal props', checkLogin(props))
     return (
-      <div className={"modalBody " + (props.isLoginOpen ? "": "hidden")}>
+      <div className={"modalBody " + checkLogin(props)}>
 
         <div className="loginText">
           <h3>Login here!</h3>
@@ -25,3 +26,11 @@ export const LoginModal = (props) => {
     )
   }
 
+function checkLogin (props) {
+  console.log('checklogin is running')
+  if (props.isLoginOpen === true) {
+    return ""
+  } else {
+    return "hidden"
+  }
+}
