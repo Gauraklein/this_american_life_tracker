@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './LoginModal.css'
 
-console.log(styles.modalBody)
+// console.log(styles.modalBody)
 
 
 export const LoginModal = (props) => {

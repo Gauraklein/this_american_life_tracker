@@ -1,9 +1,11 @@
 import React from 'react';
 import logo from './../talLogo.png';
+
 import { connect } from 'react-redux'
-import { toggleLoginModal } from '../actions/LoginModalActions'
+// import { toggleLoginModal } from '../actions/LoginModalActions'
 
 export const Nav = (props) => {
+  // console.log(props, 'nav props')
     return (
       <nav className="navBar flex1 flex-row">
   
@@ -16,7 +18,7 @@ export const Nav = (props) => {
       <div className="flex1 nav-right centered flex-row">
           <ul className="navMenu">
               
-              <li><a href="#" onClick={showLogin}>Login</a></li>
+              <li><a href="#" onClick={props.props.toggleLoginModal}>Login</a></li>
               <li><a href="#about">About</a></li>
           </ul>
       </div>
@@ -24,13 +26,13 @@ export const Nav = (props) => {
     )
   }
 
-  const showLogin = (e) => {
+  const showLogin = (props) => {
     console.log("login Clicked")
-    toggleLoginModal()
+    props.toggleLoginModal()
     // dispatch({
     //   type: 'TOGGLE_LOGIN'
     // })
 
   }
 
-export default connect()(Nav)
+ 

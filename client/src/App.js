@@ -1,20 +1,24 @@
 import React from 'react';
 import { Component } from 'react'
 import './App.css';
+
 import { connect } from 'react-redux'
 import { callApiAction} from './actions/episodeActions'
-import { LoginModal} from './Components/LoginModal/LoginModal'
+import { toggleLoginModal } from './actions/LoginModalActions'
+
 
 // COMPONENTS 
 import { EpisodeContainer } from './Components/EpisodeContainer'
 import { Nav } from './Components/Nav'
 import { Footer } from './Components/Footer'
+import { LoginModal } from './Components/LoginModal/LoginModal'
+
 
 
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = { allEpisodesArray: []}
+    // this.state = { allEpisodesArray: []}
   }
 
   componentDidMount() {
@@ -22,10 +26,10 @@ class App extends Component {
   }
 
   render() {
-    console.log(this.props)
+    console.log(this.props, "props")
     return (
       <div className="App">
-          <Nav />
+          <Nav props={this.props}/>
 
             <LoginModal />
 
@@ -47,7 +51,8 @@ const mapStateToProps = (state) => {
 }
   function mapDispatchToProps(dispatch) {
    return {
-    callAPI: () => dispatch(callApiAction())
+    callAPI: () => dispatch(callApiAction()),
+    toggleLoginModal: () => dispatch(toggleLoginModal())
    };
   }
 

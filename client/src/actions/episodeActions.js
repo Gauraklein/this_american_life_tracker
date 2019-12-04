@@ -3,7 +3,7 @@ export const callApiAction = () => {
     fetch("http://localhost:9000/allEpisodes")
       .then(res => res.json())
       .then(episodes => {
-        console.log(episodes);
+        console.log(episodes, 'from api call');
         dispatch({
           type: "CALLAPI",
           payload: episodes

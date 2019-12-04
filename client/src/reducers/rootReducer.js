@@ -8,7 +8,7 @@ const initState = {
 
 const rootReducer = (state = initState, action) => {
 
-    console.log(action)
+    console.log(action.type, '----- action type')
 
     if (action.type === 'CALLAPI') {
         
@@ -20,10 +20,10 @@ const rootReducer = (state = initState, action) => {
     }
 
     if (action.type === "TOGGLE_LOGIN") {
-        console.log('this action has been called')
+        console.log('login action has been called')
 
         if (!state.isLoginOpen) {
-            console.log(state)
+            console.log(state, 'reducer')
             return {
                 ...state,
                 isLoginOpen: true
