@@ -133,7 +133,7 @@ passport.deserializeUser(function(id, done) {
 
 app.get('/logout', function(req, res){
   req.logout();
-  console.log('logged Out')
+  // console.log('logged Out')
   res.send('logged out');
 });
 

@@ -23,7 +23,7 @@ export const LoginModal = (props) => {
           <span>Password: <input type="text" name="password" id="password" /> </span>
           </div>
           <span className="centered flex1"><button onClick={props.loginUser} className="loginButton" type="submit">Login</button></span>
-          <span className="centered flex1"><button onClick={props.logoutUser} className="loginButton" type="submit">Logout</button></span>
+          <span className="centered flex1"><button onClick={props.logoutUser} className="logoutButton" type="submit">Logout</button></span>
       </div>
      </div>
     )

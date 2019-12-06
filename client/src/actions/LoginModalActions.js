@@ -31,9 +31,11 @@ export const loginUser = (username, password) => {
    .then(res => res.json())
    .then((res) => {
      console.log(res)
+      if (res === 'post response') {
       dispatch({
         type: "LOGINUSER"
       })
+    }
    })
    .catch((err) => {
      console.log(err, 'this is the error')
@@ -46,7 +48,7 @@ export const logoutUser = () => {
     fetch("http://localhost:9000/logout")
     .then((res) => res.json())
     .then((res) => {
-      console.log(res, 'this is the logout res')
+      console.log(JSON.stringify(res.body))
       dispatch({
         type: "LOGOUTUSER"
       })
