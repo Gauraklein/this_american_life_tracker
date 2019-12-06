@@ -39,6 +39,21 @@ app.use(bodyParser.urlencoded({ extended: true})); //For body parser
 app.use(bodyParser.json());
 
 
+// All episodes 
+
+app.get('/allEpisodes', function(req, res, next) {
+  console.log('episodes loading')
+  getEpisodes()
+  .then((episodeData) => {
+    return episodeData.rows.sort((a, b) => (a.episode_number < b.episode_number) ? 1 : -1)
+  })
+  .then((sortedEpisodes) => {
+    // console.log(episodeData)
+      res.send(sortedEpisodes)
+  } )
+  
+});
+
 
 passport.use(
   new LocalStrategy((username, password, done) => {
@@ -56,10 +71,10 @@ passport.use(
         } 
         
         if (bcrypt.compareSync(user.password, password)) {
-          console.log("Wrong Password");
+          console.log("correct password");
           done(null, false);
         } else
-        console.log("User found", user);
+        console.log("wrong password");
         return done(null, user);
       })
       .catch(err => {
@@ -70,18 +85,7 @@ passport.use(
 );
 
 
-  app.get('/allEpisodes', function(req, res, next) {
-    console.log('episodes loading')
-    getEpisodes()
-    .then((episodeData) => {
-      return episodeData.rows.sort((a, b) => (a.episode_number < b.episode_number) ? 1 : -1)
-    })
-    .then((sortedEpisodes) => {
-      // console.log(episodeData)
-        res.send(sortedEpisodes)
-    } )
-    
-});
+
 
 
 //login route
@@ -107,7 +111,7 @@ app.post("/login", (req, res, next) => {
       if (err) {
         return next(err);
       }
-      return res.json('logged in');
+      return res.json('post response');
     });
   })(req, res, next);
 });
