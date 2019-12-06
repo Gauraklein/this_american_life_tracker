@@ -1,13 +1,16 @@
 export const callApiAction = () => {
-  return (dispatch, getState) => {
+  return (dispatch) => {
     fetch("http://localhost:9000/allEpisodes")
       .then(res => res.json())
       .then(episodes => {
-        console.log(episodes, 'from api call');
+        // console.log(episodes, 'from api call');
         dispatch({
           type: "CALLAPI",
           payload: episodes
         });
+      })
+      .catch((err) => {
+        console.log(err, 'this is the error')
       });
   };
 };

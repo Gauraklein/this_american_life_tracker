@@ -1,8 +1,7 @@
 import React from 'react';
 import logo from './../talLogo.png';
 
-import { connect } from 'react-redux'
-// import { toggleLoginModal } from '../actions/LoginModalActions'
+
 
 export const Nav = (props) => {
   // console.log(props, 'nav props')
@@ -26,13 +25,6 @@ export const Nav = (props) => {
     )
   }
 
-  const showLogin = (props) => {
-    console.log("login Clicked")
-    props.toggleLoginModal()
-    // dispatch({
-    //   type: 'TOGGLE_LOGIN'
-    // })
-
-  }
+  
 
  

@@ -9,6 +9,7 @@ const bodyParser = require("body-parser");
 const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
 const bcrypt = require("bcrypt");
+const saltRounds = 10;
 
 
 
@@ -34,7 +35,7 @@ app.use(
 app.use(passport.session());
 app.use(cors())
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(bodyParser.urlencoded({ extended: false})); //For body parser
+app.use(bodyParser.urlencoded({ extended: true})); //For body parser
 app.use(bodyParser.json());
 
 
@@ -70,7 +71,7 @@ passport.use(
 
 
   app.get('/allEpisodes', function(req, res, next) {
-
+    console.log('episodes loading')
     getEpisodes()
     .then((episodeData) => {
       return episodeData.rows.sort((a, b) => (a.episode_number < b.episode_number) ? 1 : -1)
@@ -90,21 +91,23 @@ app.get('/login', function(req, res, next) {
 })
 
 app.post("/login", (req, res, next) => {
+  console.log('something is being posted to login')
+  console.log(req.body)
   passport.authenticate("local", (err, user, info) => {
     if (info) {
-      return res.send(info.message);
+      return res.send(info);
     }
     if (err) {
       return next(err);
     }
     if (!user) {
-      return res.send("/no-user");
+      return res.send("user not found");
     }
     req.login(user, err => {
       if (err) {
         return next(err);
       }
-      return res.send("/home" + JSON.stringify(req.session));
+      return res.json('logged in');
     });
   })(req, res, next);
 });
@@ -127,7 +130,7 @@ passport.deserializeUser(function(id, done) {
 app.get('/logout', function(req, res){
   req.logout();
   console.log('logged Out')
-  res.redirect('/login');
+  res.send('logged out');
 });
 
 
@@ -142,7 +145,7 @@ app.post('/signup', function(req, res){
     .insert({
       username: req.body.username,
       email: req.body.email,
-      password: req.body.password
+      password: bcrypt.hashSync(req.body.password, saltRounds)
     })
     .then(function(){
       res.send('user added')

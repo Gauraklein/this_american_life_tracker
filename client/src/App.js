@@ -4,7 +4,7 @@ import './App.css';
 
 import { connect } from 'react-redux'
 import { callApiAction} from './actions/episodeActions'
-import { toggleLoginModal } from './actions/LoginModalActions'
+import { toggleLoginModal, loginUser, logoutUser } from './actions/LoginModalActions'
 
 
 // COMPONENTS 
@@ -26,7 +26,7 @@ class App extends Component {
   }
 
   render() {
-    console.log(this.props, "props")
+    // console.log(this.props, "props")
     return (
       <div className="App">
           <Nav {...this.props}/>
@@ -48,14 +48,17 @@ const mapStateToProps = (state) => {
   return {
     allEpisodesArray: state.allEpisodesArray,
     isLoading: state.isLoading,
-    isLoginOpen: state.isLoginOpen
+    isLoginOpen: state.isLoginOpen,
+    isUserLoggedIn: state.isUserLoggedIn
 
   }
 }
   function mapDispatchToProps(dispatch) {
    return {
     callAPI: () => dispatch(callApiAction()),
-    toggleLoginModal: () => dispatch(toggleLoginModal())
+    toggleLoginModal: () => dispatch(toggleLoginModal()),
+    loginUser: () => dispatch(loginUser()),
+    logoutUser: () => dispatch(logoutUser())
    };
   }
 
