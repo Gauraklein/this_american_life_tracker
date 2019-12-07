@@ -64,7 +64,7 @@ app.get('/login', function(req, res, next) {
 
 app.post("/login", passport.authenticate('local', {
   successRedirect: '/',
-  failureRedirect: '/signup'
+  failureRedirect: '/notloggedin'
 }));
 
 
@@ -73,7 +73,7 @@ app.post("/login", passport.authenticate('local', {
 
 app.get('/logout', function(req, res){
   req.logout();
-  // console.log('logged Out')
+  console.log(req.session.passport.user)
   res.send('logged out');
 });
 
@@ -112,6 +112,9 @@ app.get('/allEpisodes', function(req, res, next) {
   
 });
 
+app.get('/notloggedin', function(req,res, next) {
+  res.send('you are not logged in')
+})
 /// FUNCTiONS \\\\\\
 const getEpisodes = () => {
     return db.raw(
@@ -119,6 +122,21 @@ const getEpisodes = () => {
         from episodes
         `
     )
+}
+
+function checkAuthenticated(req, res, next) {
+  if (req.isAuthenticated()) {
+    return next()
+  }
+
+  return res.redirect('/notloggedin')
+}
+
+function checkNotAuthenticated(req, res, next) {
+  if (req.isAuthenticated()) {
+    return res.redirect('/')
+
+  }
 }
 
 app.listen(port, function () {
