@@ -15,11 +15,14 @@ export const toggleLoginModal = () => {
 
 export const loginUser = (username, password) => {
 
-  const inputUsername = document.getElementById('username').value
+  const inputEmail = document.getElementById('email').value
   const inputPassword = document.getElementById('password').value
+
+  console.log(inputEmail)
+  console.log(inputPassword)
   const loginURL = 'http://localhost:9000/login'
   const loginBody = JSON.stringify({
-    "username": inputUsername,
+    "email": inputEmail,
     "password": inputPassword
   })
  return (dispatch) => {

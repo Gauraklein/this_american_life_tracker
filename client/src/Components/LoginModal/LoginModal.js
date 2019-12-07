@@ -18,9 +18,9 @@ export const LoginModal = (props) => {
 
         <div className="loginForm" >
           <div className="loginInputs flex4 flex-column centered">
-          <span> Username: <input type="text" name="username" id="username" /> </span>
+          <span> <label htmlFor="email">Email: </label><input type="text" name="email" id="email" /> </span>
   
-          <span>Password: <input type="text" name="password" id="password" /> </span>
+          <span> <label htmlFor="password">Password: </label><input type="text" name="password" id="password" /> </span>
           </div>
           <span className="centered flex1"><button onClick={props.loginUser} className="loginButton" type="submit">Login</button></span>
           <span className="centered flex1"><button onClick={props.logoutUser} className="logoutButton" type="submit">Logout</button></span>

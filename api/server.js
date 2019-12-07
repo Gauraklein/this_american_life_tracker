@@ -10,9 +10,19 @@ const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
 const bcrypt = require("bcrypt");
 const saltRounds = 10;
+const initializePassport = require('./passport-config')
+const flash = require('express-flash')
 
+initializePassport(passport, getUserByEmail)
 
-
+function getUserByEmail (email) {
+  return db.raw(
+    `SELECT *
+      FROM users
+        WHERE email = '${email}'
+    `
+  )
+}
 
 
 const port = 9000
@@ -22,16 +32,16 @@ const port = 9000
 //               PASSPORT               \\
 //--------------------------------------\\
 
-app.use(passport.initialize());
-// app.use(flash())
+app.use(flash())
 app.use(
   session({
-    secret: "Good Luck Gaura",
+    secret: "secret",
     resave: false,
-    saveUninitialized: true,
+    saveUninitialized: false,
     cookie: {}
   })
   );
+app.use(passport.initialize());
 app.use(passport.session());
 app.use(cors())
 app.use(express.static(path.join(__dirname, 'public')));
@@ -55,34 +65,6 @@ app.get('/allEpisodes', function(req, res, next) {
 });
 
 
-passport.use(
-  new LocalStrategy((username, password, done) => {
-    console.log("got auth request");
-    db("users")
-      .where({ username: username })
-      // .orwhere({ email: username })
-      .then(res => {
-        // console.log(userRows)
-        const user = res[0];
-        // console.log(user);
-        if (!user) {
-          console.log("User not found");
-          done(null, false);
-        } 
-        
-        if (bcrypt.compareSync(user.password, password)) {
-          console.log("correct password");
-          done(null, false);
-        } else
-        console.log("wrong password");
-        return done(null, user);
-      })
-      .catch(err => {
-        console.error("Local strategy error - ", err);
-        return err;
-      });
-  })
-);
 
 
 
@@ -94,27 +76,10 @@ app.get('/login', function(req, res, next) {
     res.sendFile(path.join(__dirname + '/login.html'));
 })
 
-app.post("/login", (req, res, next) => {
-  console.log('something is being posted to login')
-  console.log(req.body)
-  passport.authenticate("local", (err, user, info) => {
-    if (info) {
-      return res.send(info);
-    }
-    if (err) {
-      return next(err);
-    }
-    if (!user) {
-      return res.send("user not found");
-    }
-    req.login(user, err => {
-      if (err) {
-        return next(err);
-      }
-      return res.json('post response');
-    });
-  })(req, res, next);
-});
+app.post("/login", passport.authenticate('local', {
+  successFlash: true,
+  failureFlash: true
+}));
 
 
 passport.serializeUser(function(user, done) {
@@ -248,4 +213,35 @@ app.listen(port, function () {
   //     });
   //   })(req, res, next);
   // });
+
+
+  // passport.use(
+  //   new LocalStrategy((username, password, done) => {
+  //     console.log("got auth request");
+  //     db("users")
+  //       .where({ username: username })
+  //       // .orwhere({ email: username })
+  //       .then(res => {
+  //         // console.log(userRows)
+  //         const user = res[0];
+  //         // console.log(user);
+  //         if (!user) {
+  //           console.log("User not found");
+  //           done(null, false);
+  //         } 
+          
+  //         if (bcrypt.compareSync(user.password, password)) {
+  //           console.log("correct password");
+  //           done(null, false);
+  //         } else
+  //         console.log("wrong password");
+  //         return done(null, user);
+  //       })
+  //       .catch(err => {
+  //         console.error("Local strategy error - ", err);
+  //         return err;
+  //       });
+  //   })
+  // );
+  
   
