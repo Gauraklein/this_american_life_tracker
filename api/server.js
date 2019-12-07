@@ -73,7 +73,7 @@ app.post("/login", passport.authenticate('local', {
 
 app.get('/logout', function(req, res){
   req.logout();
-  console.log(req.session.passport.user)
+  // console.log(req.session.passport.user)
   res.send('logged out');
 });
 
