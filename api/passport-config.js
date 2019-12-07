@@ -2,22 +2,22 @@
 const { db } = require("./db")
 const LocalStrategy = require('passport-local').Strategy
 const bcrypt = require('bcrypt')
-const saltRounds = 10;
 
 
-function initialize(passport, getUserByEmail) {
+
+function initialize(passport, getUserByEmail, getUserById) {
     // console.log(getUserByEmail)
     const authenticateUser = async (email, password, done) => {
-        console.log(email, password, 'this is the email and password coming from the form')
+        // console.log(email, password, 'this is the email and password coming from the form')
         const user = await getUserByEmail(email)
-        const encryptedPassword = bcrypt.hashSync(password, saltRounds)
-        console.log(encryptedPassword, 'this is the encrypted password')
+       
+        
             if (user == null) {
                 return done(null, false, { message: 'no user with that email'})
             }
-            console.log(user.rows, 'this is the user object coming from get user by email')
+            
         try {
-            if (await bcrypt.compare(password, user.rows.password)) {
+            if (await bcrypt.compare(password, user.rows[0].password)) {
                 return done(null, user)
             } else {
                 return done(null, false, {message: 'Password incorrect'})
@@ -28,9 +28,16 @@ function initialize(passport, getUserByEmail) {
     }
 
     passport.use(new LocalStrategy({ usernameField: 'email'}, authenticateUser))
+    
+    passport.serializeUser((user, done) => {
+        console.log(user.rows[0], 'this is from serialize user')
+        return done(null, user.rows[0].id)
+    })
 
-    passport.serializeUser((user, done) => {})
-    passport.deserializeUser((user, done) => {})
+    passport.deserializeUser((id, done) => {
+        console.log(id, 'from deserialize user')
+        return done(null, getUserById(id))
+    })
 
 }
 

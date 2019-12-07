@@ -13,7 +13,7 @@ const saltRounds = 10;
 const initializePassport = require('./passport-config')
 const flash = require('express-flash')
 
-initializePassport(passport, getUserByEmail)
+initializePassport(passport, getUserByEmail, getUserById)
 
 function getUserByEmail (email) {
   return db.raw(
@@ -24,6 +24,10 @@ function getUserByEmail (email) {
   )
 }
 
+function getUserById (id) {
+  return db("users")
+      .where({ id: id }) 
+}
 
 const port = 9000
 
@@ -48,51 +52,23 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.urlencoded({ extended: true})); //For body parser
 app.use(bodyParser.json());
 
-
-// All episodes 
-
-app.get('/allEpisodes', function(req, res, next) {
-  console.log('episodes loading')
-  getEpisodes()
-  .then((episodeData) => {
-    return episodeData.rows.sort((a, b) => (a.episode_number < b.episode_number) ? 1 : -1)
-  })
-  .then((sortedEpisodes) => {
-    // console.log(episodeData)
-      res.send(sortedEpisodes)
-  } )
-  
-});
-
-
-
-
-
-
-
+ 
 //login route
+
+app.get('/', function(req, res) {
+  res.send('i think you made it')
+})
 
 app.get('/login', function(req, res, next) {
     res.sendFile(path.join(__dirname + '/login.html'));
 })
 
 app.post("/login", passport.authenticate('local', {
-  successFlash: true,
-  failureFlash: true
+  successRedirect: '/',
+  failureRedirect: '/signup'
 }));
 
 
-passport.serializeUser(function(user, done) {
-  done(null, user.id);
-});
-passport.deserializeUser(function(id, done) {
-  db("users")
-    .where({ id: id })
-    .then(res => {
-      done(null, res[0]);
-    })
-    .catch(error => done(error, false));
-});
 
 // LOGOUT
 
@@ -121,6 +97,21 @@ app.post('/signup', function(req, res){
     })
 })
 
+
+// All episodes 
+
+app.get('/allEpisodes', function(req, res, next) {
+  console.log('episodes loading')
+  getEpisodes()
+  .then((episodeData) => {
+    return episodeData.rows.sort((a, b) => (a.episode_number < b.episode_number) ? 1 : -1)
+  })
+  .then((sortedEpisodes) => {
+    // console.log(episodeData)
+      res.send(sortedEpisodes)
+  } )
+  
+});
 
 /// FUNCTiONS \\\\\\
 const getEpisodes = () => {
@@ -180,6 +171,8 @@ app.listen(port, function () {
   // app.use(bodyParser.json());
   // app.use(bodyParser.urlencoded({ extended: true }));
   // app.use(express.static("public"));
+
+
   // passport.serializeUser(function(user, done) {
   //   done(null, user.id);
   // });
@@ -191,6 +184,8 @@ app.listen(port, function () {
   //     })
   //     .catch(error => done(error, false));
   // });
+
+
 
   // Login Routes from attaboy
 
