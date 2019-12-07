@@ -11,13 +11,14 @@ function initialize(passport, getUserByEmail, getUserById) {
         // console.log(email, password, 'this is the email and password coming from the form')
         const user = await getUserByEmail(email)
        
+        // console.log(user, 'this is from getuserbyemal')
         
             if (user == null) {
                 return done(null, false, { message: 'no user with that email'})
             }
             
         try {
-            if (await bcrypt.compare(password, user.rows[0].password)) {
+            if (await bcrypt.compare(password, user[0].password)) {
                 return done(null, user)
             } else {
                 return done(null, false, {message: 'Password incorrect'})
@@ -27,15 +28,20 @@ function initialize(passport, getUserByEmail, getUserById) {
         } 
     }
 
+    /// passport.use
+
     passport.use(new LocalStrategy({ usernameField: 'email'}, authenticateUser))
     
+
+    //// passport.serialize
+
     passport.serializeUser((user, done) => {
-        console.log(user.rows[0], 'this is from serialize user')
-        return done(null, user.rows[0].id)
+        // console.log(user.rows[0], 'this is from serialize user')
+        return done(null, user[0])
     })
 
     passport.deserializeUser((id, done) => {
-        console.log(id, 'from deserialize user')
+        // console.log(id, 'from deserialize user')
         return done(null, getUserById(id))
     })
 

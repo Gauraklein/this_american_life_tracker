@@ -16,12 +16,10 @@ const flash = require('express-flash')
 initializePassport(passport, getUserByEmail, getUserById)
 
 function getUserByEmail (email) {
-  return db.raw(
-    `SELECT *
-      FROM users
-        WHERE email = '${email}'
-    `
-  )
+  return db("users")
+    .where({
+      email: email
+    })
 }
 
 function getUserById (id) {
@@ -56,6 +54,7 @@ app.use(bodyParser.json());
 //login route
 
 app.get('/', function(req, res) {
+  console.log(req.session.passport.user, 'this is from req')
   res.send('i think you made it')
 })
 
