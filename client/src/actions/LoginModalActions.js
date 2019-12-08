@@ -21,10 +21,10 @@ export const loginUser = (username, password) => {
   console.log(inputEmail)
   console.log(inputPassword)
   const loginURL = 'http://localhost:9000/login'
-  const loginBody = JSON.stringify({
+  const loginBody = {
     "email": inputEmail,
     "password": inputPassword
-  })
+  }
  return (dispatch) => {
    fetch(loginURL, {
      method: 'POST',
