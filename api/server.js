@@ -9,10 +9,23 @@ const bodyParser = require("body-parser");
 const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
 const bcrypt = require("bcrypt");
+const saltRounds = 10;
+const initializePassport = require('./passport-config')
+const flash = require('express-flash')
 
+initializePassport(passport, getUserByEmail, getUserById)
 
+function getUserByEmail (email) {
+  return db("users")
+    .where({
+      email: email
+    })
+}
 
-
+function getUserById (id) {
+  return db("users")
+      .where({ id: id }) 
+}
 
 const port = 9000
 
@@ -21,113 +34,48 @@ const port = 9000
 //               PASSPORT               \\
 //--------------------------------------\\
 
-app.use(passport.initialize());
-// app.use(flash())
+app.use(flash())
 app.use(
   session({
-    secret: "Good Luck Gaura",
+    secret: "secret",
     resave: false,
-    saveUninitialized: true,
+    saveUninitialized: false,
     cookie: {}
   })
   );
+app.use(passport.initialize());
 app.use(passport.session());
 app.use(cors())
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(bodyParser.urlencoded({ extended: false})); //For body parser
+app.use(bodyParser.urlencoded({ extended: true})); //For body parser
 app.use(bodyParser.json());
 
-
-
-passport.use(
-  new LocalStrategy((username, password, done) => {
-    console.log("got auth request");
-    db("users")
-      .where({ username: username })
-      // .orwhere({ email: username })
-      .then(res => {
-        // console.log(userRows)
-        const user = res[0];
-        // console.log(user);
-        if (!user) {
-          console.log("User not found");
-          done(null, false);
-        } 
-        
-        if (bcrypt.compareSync(user.password, password)) {
-          console.log("Wrong Password");
-          done(null, false);
-        } else
-        console.log("User found", user);
-        return done(null, user);
-      })
-      .catch(err => {
-        console.error("Local strategy error - ", err);
-        return err;
-      });
-  })
-);
-
-
-  app.get('/allEpisodes', function(req, res, next) {
-
-    getEpisodes()
-    .then((episodeData) => {
-      return episodeData.rows.sort((a, b) => (a.episode_number < b.episode_number) ? 1 : -1)
-    })
-    .then((sortedEpisodes) => {
-      // console.log(episodeData)
-        res.send(sortedEpisodes)
-    } )
-    
-});
-
-
+ 
 //login route
+
+app.get('/', function(req, res) {
+  console.log(req.session.passport.user, 'this is from req')
+  res.send('i think you made it')
+})
 
 app.get('/login', function(req, res, next) {
     res.sendFile(path.join(__dirname + '/login.html'));
 })
 
-app.post("/login", (req, res, next) => {
-  passport.authenticate("local", (err, user, info) => {
-    if (info) {
-      return res.send(info.message);
-    }
-    if (err) {
-      return next(err);
-    }
-    if (!user) {
-      return res.send("/no-user");
-    }
-    req.login(user, err => {
-      if (err) {
-        return next(err);
-      }
-      return res.send("/home" + JSON.stringify(req.session));
-    });
-  })(req, res, next);
-});
+app.post("/login", passport.authenticate('local', {
+  
+  successRedirect: '/',
+  failureRedirect: '/notloggedin'
+}));
 
 
-passport.serializeUser(function(user, done) {
-  done(null, user.id);
-});
-passport.deserializeUser(function(id, done) {
-  db("users")
-    .where({ id: id })
-    .then(res => {
-      done(null, res[0]);
-    })
-    .catch(error => done(error, false));
-});
 
 // LOGOUT
 
 app.get('/logout', function(req, res){
   req.logout();
-  console.log('logged Out')
-  res.redirect('/login');
+  // console.log(req.session.passport.user)
+  res.send('logged out');
 });
 
 
@@ -142,7 +90,7 @@ app.post('/signup', function(req, res){
     .insert({
       username: req.body.username,
       email: req.body.email,
-      password: req.body.password
+      password: bcrypt.hashSync(req.body.password, saltRounds)
     })
     .then(function(){
       res.send('user added')
@@ -150,6 +98,24 @@ app.post('/signup', function(req, res){
 })
 
 
+// All episodes 
+
+app.get('/allEpisodes', function(req, res, next) {
+  console.log('episodes loading')
+  getEpisodes()
+  .then((episodeData) => {
+    return episodeData.rows.sort((a, b) => (a.episode_number < b.episode_number) ? 1 : -1)
+  })
+  .then((sortedEpisodes) => {
+    // console.log(episodeData)
+      res.send(sortedEpisodes)
+  } )
+  
+});
+
+app.get('/notloggedin', function(req,res, next) {
+  res.send('you are not logged in')
+})
 /// FUNCTiONS \\\\\\
 const getEpisodes = () => {
     return db.raw(
@@ -157,6 +123,21 @@ const getEpisodes = () => {
         from episodes
         `
     )
+}
+
+function checkAuthenticated(req, res, next) {
+  if (req.isAuthenticated()) {
+    return next()
+  }
+
+  return res.redirect('/notloggedin')
+}
+
+function checkNotAuthenticated(req, res, next) {
+  if (req.isAuthenticated()) {
+    return res.redirect('/')
+
+  }
 }
 
 app.listen(port, function () {
@@ -208,6 +189,8 @@ app.listen(port, function () {
   // app.use(bodyParser.json());
   // app.use(bodyParser.urlencoded({ extended: true }));
   // app.use(express.static("public"));
+
+
   // passport.serializeUser(function(user, done) {
   //   done(null, user.id);
   // });
@@ -219,6 +202,8 @@ app.listen(port, function () {
   //     })
   //     .catch(error => done(error, false));
   // });
+
+
 
   // Login Routes from attaboy
 
@@ -241,4 +226,35 @@ app.listen(port, function () {
   //     });
   //   })(req, res, next);
   // });
+
+
+  // passport.use(
+  //   new LocalStrategy((username, password, done) => {
+  //     console.log("got auth request");
+  //     db("users")
+  //       .where({ username: username })
+  //       // .orwhere({ email: username })
+  //       .then(res => {
+  //         // console.log(userRows)
+  //         const user = res[0];
+  //         // console.log(user);
+  //         if (!user) {
+  //           console.log("User not found");
+  //           done(null, false);
+  //         } 
+          
+  //         if (bcrypt.compareSync(user.password, password)) {
+  //           console.log("correct password");
+  //           done(null, false);
+  //         } else
+  //         console.log("wrong password");
+  //         return done(null, user);
+  //       })
+  //       .catch(err => {
+  //         console.error("Local strategy error - ", err);
+  //         return err;
+  //       });
+  //   })
+  // );
+  
   

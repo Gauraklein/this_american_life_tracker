@@ -1,19 +1,24 @@
 import React from 'react';
 import { Component } from 'react'
 import './App.css';
+
 import { connect } from 'react-redux'
 import { callApiAction} from './actions/episodeActions'
+import { toggleLoginModal, loginUser, logoutUser } from './actions/LoginModalActions'
+
 
 // COMPONENTS 
 import { EpisodeContainer } from './Components/EpisodeContainer'
 import { Nav } from './Components/Nav'
 import { Footer } from './Components/Footer'
+import { LoginModal } from './Components/LoginModal/LoginModal'
+
 
 
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = { allEpisodesArray: []}
+    // this.state = { allEpisodesArray: []}
   }
 
   componentDidMount() {
@@ -21,13 +26,17 @@ class App extends Component {
   }
 
   render() {
-    console.log(this.props)
+    // console.log(this.props, "props")
     return (
       <div className="App">
-          <Nav />
-          
+          <Nav {...this.props}/>
+
+            <LoginModal {...this.props} />
+
             <EpisodeContainer episodes={this.props.allEpisodesArray} />
-          
+
+           
+
           <Footer />
       </div>
     )
@@ -37,12 +46,19 @@ class App extends Component {
 
 const mapStateToProps = (state) => {
   return {
-    allEpisodesArray: state.allEpisodesArray
+    allEpisodesArray: state.allEpisodesArray,
+    isLoading: state.isLoading,
+    isLoginOpen: state.isLoginOpen,
+    isUserLoggedIn: state.isUserLoggedIn
+
   }
 }
   function mapDispatchToProps(dispatch) {
    return {
-    callAPI: () => dispatch(callApiAction())
+    callAPI: () => dispatch(callApiAction()),
+    toggleLoginModal: () => dispatch(toggleLoginModal()),
+    loginUser: () => dispatch(loginUser()),
+    logoutUser: () => dispatch(logoutUser())
    };
   }
 

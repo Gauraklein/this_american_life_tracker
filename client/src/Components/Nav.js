@@ -1,7 +1,10 @@
 import React from 'react';
 import logo from './../talLogo.png';
 
+
+
 export const Nav = (props) => {
+  // console.log(props, 'nav props')
     return (
       <nav className="navBar flex1 flex-row">
   
@@ -13,10 +16,15 @@ export const Nav = (props) => {
   
       <div className="flex1 nav-right centered flex-row">
           <ul className="navMenu">
-              <li><a href="#">Login</a></li>
+              
+              <li><a href="#" onClick={props.toggleLoginModal}>Login</a></li>
               <li><a href="#about">About</a></li>
           </ul>
       </div>
     </nav>
     )
   }
+
+  
+
+ 
