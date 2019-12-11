@@ -17,9 +17,18 @@ export const callApiAction = () => {
 
 export const handleEpisodeClick = (episodeId) => {
   console.log('clicked', episodeId)
-  // return (dispatch) => {
-  //     return 
-  // }
+  return (dispatch) => {
+      console.log('got to return statement')
+      fetch(`http://localhost:9000/episodeview/${episodeId}`)
+      // .then(res=> res.json())
+      .then(episodeMetadata => {
+        console.log(episodeMetadata)
+        dispatch({
+          type: "VIEW_EPISODE_METADATA",
+          payload: episodeMetadata
+        })
+      })
+  }
 }
 
 // function callAPI () {

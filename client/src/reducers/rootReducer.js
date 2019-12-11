@@ -4,7 +4,8 @@ const initState = {
     ],
     isLoading: false,
     isLoginOpen: false,
-    isUserLoggedin: false
+    isUserLoggedIn: false,
+    isEpisodeMetadataOpen: false
 }
 
 const rootReducer = (state = initState, action) => {
@@ -68,7 +69,7 @@ const rootReducer = (state = initState, action) => {
 
     // EPISODE METADATA TOGGLE
 
-    if (action.type === "TOGGLE_EPISODE_METADATA") {
+    if (action.type === "VIEW_EPISODE_METADATA") {
         console.log('Episode metadata toggle')
         
         if (state.isEpisodeMetadataOpen) {

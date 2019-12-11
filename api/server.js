@@ -116,7 +116,30 @@ app.get('/allEpisodes', function(req, res, next) {
 app.get('/notloggedin', function(req,res, next) {
   res.send('you are not logged in')
 })
+
+
+// EPISODE METADATA
+
+app.get('/episodeview/:episodeId', function(req, res, next) {
+  console.log(req.params, 'this is the param')
+  getEpisodeMetadata(req.params.episodeId)
+  .then((episodeMetadata) => {
+    console.log(episodeMetadata.rows)
+    res.send(episodeMetadata.rows)
+  })
+  
+})
 /// FUNCTiONS \\\\\\
+
+const getEpisodeMetadata = (episodeId) => {
+  return db.raw(`
+  SELECT * 
+  FROM episodes
+    LEFT JOIN acts
+      ON episodes.episode_number = acts.episode_number
+        WHERE episodes.episode_number = '${episodeId}'
+  `)
+}
 
 const getEpisodes = () => {
     return db.raw(

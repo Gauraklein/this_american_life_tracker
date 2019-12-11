@@ -31,7 +31,7 @@ class App extends Component {
     // console.log(this.props, "props")
     return (
       <div className="App">
-          <Nav {...this.props}/>
+            <Nav {...this.props}/>
 
             <LoginModal {...this.props} />
 

@@ -1,26 +1,32 @@
 import React from "react";
 import logo from "./../talLogo.png";
 import Fade from "react-reveal/Fade";
-import { PresignedPost } from "aws-sdk/clients/s3";
-import { handleEpisodeClick } from "../actions/episodeActions"
+// import { PresignedPost } from "aws-sdk/clients/s3";
+// import { handleEpisodeClick } from "../actions/episodeActions"
 // import styles from './EpisodeContainer.css';
 const moment = require("moment");
 
 // episode container component
 
 export const EpisodeContainer = (props) => {
+
+  console.log(props)
+
   return (
     <div className="episodeCardContainer centered flex8 flex-wrap flex-row">
-      {props.allEpisodesArray.map(renderEpisodeCard)}
+      {
+      
+        props.allEpisodesArray.map((episode) => <EpisodeCard {...episode} handleEpisodeClick= {props.handleEpisodeClick} />)
+      
+      }
     </div>
   );
 };
 
 //function to render episode card
 
-const renderEpisodeCard = (episodeMetadata) => {
+const EpisodeCard = (episodeMetadata) => {
 
-  // console.log(props)
 
   let backgroundImage = episodeMetadata.image;
 
@@ -44,7 +50,7 @@ const renderEpisodeCard = (episodeMetadata) => {
     <Fade big cascade duration={fadeDuration}>
       <div className="episodeCardStyle card">
       
-        <div id={episodeMetadata.episode_number}  onClick={handleEpisodeClick.bind(this, episodeMetadata.episode_number)} className="wrapper episodeCardClickable" style={wrapperStyle}>
+        <div id={episodeMetadata.episode_number}  onClick={episodeMetadata.handleEpisodeClick.bind(this, episodeMetadata.episode_number)} className="wrapper episodeCardClickable" style={wrapperStyle}>
           <div className="date">{publishDate}</div>
           <div className="data">
             <div className="content">
@@ -53,7 +59,7 @@ const renderEpisodeCard = (episodeMetadata) => {
                   Episode {episodeMetadata.episode_number}
                 </span>
 
-                <a href="#" onClick={handleEpisodeClick.bind(this, episodeMetadata.episode_number)} className="button">
+                <a href="#" className="button">
                   Read more
                 </a>
               </div>
