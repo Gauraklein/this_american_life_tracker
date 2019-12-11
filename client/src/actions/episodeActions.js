@@ -15,6 +15,13 @@ export const callApiAction = () => {
   };
 };
 
+export const handleEpisodeClick = (episodeId) => {
+  console.log('clicked', episodeId)
+  // return (dispatch) => {
+  //     return 
+  // }
+}
+
 // function callAPI () {
 //     fetch("http://localhost:9000/allEpisodes")
 //     .then(res => res.json())

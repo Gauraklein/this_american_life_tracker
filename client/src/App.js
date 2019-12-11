@@ -1,9 +1,10 @@
 import React from 'react';
 import { Component } from 'react'
 import './App.css';
+import 'redux'
 
 import { connect } from 'react-redux'
-import { callApiAction} from './actions/episodeActions'
+import { callApiAction, handleEpisodeClick} from './actions/episodeActions'
 import { toggleLoginModal, loginUser, logoutUser } from './actions/LoginModalActions'
 
 
@@ -23,6 +24,7 @@ class App extends Component {
 
   componentDidMount() {
     this.props.callAPI();
+    // console.log(this.state, 'this is the state')
   }
 
   render() {
@@ -33,7 +35,7 @@ class App extends Component {
 
             <LoginModal {...this.props} />
 
-            <EpisodeContainer episodes={this.props.allEpisodesArray} />
+            <EpisodeContainer {...this.props} />
 
            
 
@@ -49,7 +51,8 @@ const mapStateToProps = (state) => {
     allEpisodesArray: state.allEpisodesArray,
     isLoading: state.isLoading,
     isLoginOpen: state.isLoginOpen,
-    isUserLoggedIn: state.isUserLoggedIn
+    isUserLoggedIn: state.isUserLoggedIn,
+    isEpisodeMetadataOpen: state.isEpisodeMetadataOpen
 
   }
 }
@@ -58,7 +61,8 @@ const mapStateToProps = (state) => {
     callAPI: () => dispatch(callApiAction()),
     toggleLoginModal: () => dispatch(toggleLoginModal()),
     loginUser: () => dispatch(loginUser()),
-    logoutUser: () => dispatch(logoutUser())
+    logoutUser: () => dispatch(logoutUser()),
+    handleEpisodeClick: (id) => dispatch(handleEpisodeClick(id))
    };
   }
 

@@ -11,6 +11,9 @@ const rootReducer = (state = initState, action) => {
 
     console.log(action.type, '----- action type')
 
+    
+
+
     // LOADS EPISODES
 
     if (action.type === 'CALLAPI') {
@@ -60,6 +63,24 @@ const rootReducer = (state = initState, action) => {
         return {
             ...state,
             isUserLoggedin: false
+        }
+    }
+
+    // EPISODE METADATA TOGGLE
+
+    if (action.type === "TOGGLE_EPISODE_METADATA") {
+        console.log('Episode metadata toggle')
+        
+        if (state.isEpisodeMetadataOpen) {
+            return {
+                ...state,
+                isEpisodeMetadataOpen: false
+            }
+        } else {
+            return {
+                ...state,
+                isEpisodeMetadataOpen: true
+            }
         }
     }
     // this is the original state

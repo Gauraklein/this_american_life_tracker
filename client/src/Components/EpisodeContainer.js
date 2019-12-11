@@ -1,18 +1,27 @@
 import React from "react";
 import logo from "./../talLogo.png";
 import Fade from "react-reveal/Fade";
+import { PresignedPost } from "aws-sdk/clients/s3";
+import { handleEpisodeClick } from "../actions/episodeActions"
 // import styles from './EpisodeContainer.css';
 const moment = require("moment");
 
-export const EpisodeContainer = ({ episodes }) => {
+// episode container component
+
+export const EpisodeContainer = (props) => {
   return (
     <div className="episodeCardContainer centered flex8 flex-wrap flex-row">
-      {episodes.map(renderEpisodeCard)}
+      {props.allEpisodesArray.map(renderEpisodeCard)}
     </div>
   );
 };
 
-const renderEpisodeCard = episodeMetadata => {
+//function to render episode card
+
+const renderEpisodeCard = (episodeMetadata) => {
+
+  // console.log(props)
+
   let backgroundImage = episodeMetadata.image;
 
   if (backgroundImage == null) {
@@ -35,7 +44,7 @@ const renderEpisodeCard = episodeMetadata => {
     <Fade big cascade duration={fadeDuration}>
       <div className="episodeCardStyle card">
       
-        <div className="wrapper" style={wrapperStyle}>
+        <div id={episodeMetadata.episode_number}  onClick={handleEpisodeClick.bind(this, episodeMetadata.episode_number)} className="wrapper episodeCardClickable" style={wrapperStyle}>
           <div className="date">{publishDate}</div>
           <div className="data">
             <div className="content">
@@ -44,7 +53,7 @@ const renderEpisodeCard = episodeMetadata => {
                   Episode {episodeMetadata.episode_number}
                 </span>
 
-                <a href="#" className="button">
+                <a href="#" onClick={handleEpisodeClick.bind(this, episodeMetadata.episode_number)} className="button">
                   Read more
                 </a>
               </div>

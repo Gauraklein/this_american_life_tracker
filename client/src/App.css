@@ -5,11 +5,17 @@
 .App {
     font-family: 'Libre Baskerville', serif;
     background: rgb(236, 0, 0);
+    /* background: linear-gradient(180deg, rgba(236,0,0,1) 35%, rgba(255,255,255,1) 26%); */
     color: white;
     display: flex;
     flex-direction: column;
     height: 100vh;
     padding: 10px;
+}
+
+#footer {
+  background: rgb(236, 0, 0);
+  width: 100%;
 }
 
 ul {

@@ -117,6 +117,7 @@ app.get('/notloggedin', function(req,res, next) {
   res.send('you are not logged in')
 })
 /// FUNCTiONS \\\\\\
+
 const getEpisodes = () => {
     return db.raw(
         `select *
