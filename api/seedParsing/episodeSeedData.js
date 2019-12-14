@@ -5,7 +5,7 @@
     date_published: 'November 15, 2019',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/the_out_crowd_lola_dupre.png?itok=U_C8I8kx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/688.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/688.mp3',
     number_of_acts: 3,
     slug: '/688/The Out Crowd' },
   { episode_number: '687',
@@ -15,7 +15,7 @@
     date_published: 'November 8, 2019',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/microscript_0.jpg?itok=dYgTjwHo',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/687.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/687.mp3',
     number_of_acts: 4,
     slug: '/687/Small Things Considered' },
   { episode_number: '686',
@@ -25,7 +25,7 @@
     date_published: 'October 18, 2019',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/yu_show_image_ig.jpg?itok=o-wi_Y1w',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/686.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/686.mp3',
     number_of_acts: 7,
     slug: '/686/Umbrellas Up' },
   { episode_number: '685',
@@ -35,7 +35,7 @@
     date_published: 'October 11, 2019',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/west_indian_day_parade12.png?itok=VLqS0vzv',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/685.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/685.mp3',
     number_of_acts: 5,
     slug: '/685/We Come From Small Places' },
   { episode_number: '684',
@@ -45,7 +45,7 @@
     date_published: 'September 27, 2019',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal_firemen16x9.jpg?itok=XFeQyY_q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/684.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/684.mp3',
     number_of_acts: 2,
     slug: '/684/Burn It Down' },
   { episode_number: '683',
@@ -55,7 +55,7 @@
     date_published: 'September 20, 2019',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/beer_summit_social_0.png?itok=LlKX0aiR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/683.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/683.mp3',
     number_of_acts: 3,
     slug: '/683/Beer Summit' },
   { episode_number: '682',
@@ -64,7 +64,7 @@
      'What if someone told you about a type of therapy that could help you work through unhealed trauma in just ten sessions? Some people knock through it in two weeks. Jaime Lowe tried the therapy—and recorded it.',
     date_published: 'August 23, 2019',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/682.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/682.mp3',
     number_of_acts: 3,
     slug: '/682/Ten Sessions' },
   { episode_number: '681',
@@ -74,7 +74,7 @@
     date_published: 'August 16, 2019',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/escape_from_the_lab_0.jpg?itok=eV2D-1EA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/681.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/681.mp3',
     number_of_acts: 4,
     slug: '/681/Escape From the Lab' },
   { episode_number: '680',
@@ -84,7 +84,7 @@
     date_published: 'July 26, 2019',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/weight_of_words_jennifer_heuer.jpg?itok=BLD5IUuX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/680.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/680.mp3',
     number_of_acts: 4,
     slug: '/680/The Weight Of Words' },
   { episode_number: '679',
@@ -94,7 +94,7 @@
     date_published: 'July 12, 2019',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/aerith_cosplay_death_scene_by_adella-16x9_0.jpg?itok=VD42lMXA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/679.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/679.mp3',
     number_of_acts: 3,
     slug: '/679/Save the Girl' },
   { episode_number: '678',
@@ -104,7 +104,7 @@
     date_published: 'July 5, 2019',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/img_3635.jpg?itok=p2cyB8eh',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/678.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/678.mp3',
     number_of_acts: 7,
     slug: '/678/The Wannabes' },
   { episode_number: '677',
@@ -113,7 +113,7 @@
      'Stories of those unexpected moments when we see who we really are.',
     date_published: 'June 14, 2019',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/677.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/677.mp3',
     number_of_acts: 3,
     slug: '/677/Seeing Yourself In the Wild' },
   { episode_number: '676',
@@ -122,7 +122,7 @@
      'Adults telling kids who they are, and kids wondering — are they right?',
     date_published: 'May 31, 2019',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/676.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/676.mp3',
     number_of_acts: 3,
     slug: '/676/Here’s Looking at You, Kid' },
   { episode_number: '675',
@@ -131,7 +131,7 @@
      'What it\'s like to be momentarily big on the small screen. ',
     date_published: 'May 17, 2019',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/675.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/675.mp3',
     number_of_acts: 4,
     slug: '/675/I’m on TV??' },
   { episode_number: '674',
@@ -141,7 +141,7 @@
     date_published: 'May 10, 2019',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/final_guldig_16x9.jpg?itok=x18yVAa-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/674.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/674.mp3',
     number_of_acts: 4,
     slug: '/674/Get a Spine!' },
   { episode_number: '673',
@@ -151,7 +151,7 @@
     date_published: 'April 19, 2019',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/margot-family.jpg?itok=wURLG-uA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/673.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/673.mp3',
     number_of_acts: 4,
     slug: '/673/Left Behind' },
   { episode_number: '672',
@@ -161,7 +161,7 @@
     date_published: 'April 5, 2019',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/836401440-672.jpg?itok=H7pBzrdE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/672.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/672.mp3',
     number_of_acts: 3,
     slug: '/672/No Fair!' },
   { episode_number: '671',
@@ -171,7 +171,7 @@
     date_published: 'March 29, 2019',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal-671-mattchase.jpg?itok=RZM3Pu17',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/671.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/671.mp3',
     number_of_acts: 3,
     slug: '/671/Anything Can Be Anything' },
   { episode_number: '670',
@@ -181,7 +181,7 @@
     date_published: 'March 15, 2019',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/this-american-life-2c.jpg?itok=l4AnEkhX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/670.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/670.mp3',
     number_of_acts: 3,
     slug: '/670/Beware the Jabberwock' },
   { episode_number: '669',
@@ -191,7 +191,7 @@
     date_published: 'March 1, 2019',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/669.jpg?itok=Xa8aRakY',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/669.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/669.mp3',
     number_of_acts: 3,
     slug: '/669/Scrambling to Get Off the Ice' },
   { episode_number: '668',
@@ -201,7 +201,7 @@
     date_published: 'February 15, 2019',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/timlecks-502254239.jpg?itok=czdw5XMr',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/668.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/668.mp3',
     number_of_acts: 4,
     slug: '/668/The Long Fuse' },
   { episode_number: '667',
@@ -211,7 +211,7 @@
     date_published: 'February 1, 2019',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/this-american-life-wartimeradio-mattchase.jpg?itok=MnAZlJZs',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/667.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/667.mp3',
     number_of_acts: 3,
     slug: '/667/Wartime Radio' },
   { episode_number: '666',
@@ -221,7 +221,7 @@
     date_published: 'January 18, 2019',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/le_songe_de_tartini_bw.jpg?itok=IPSGASJr',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/666.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/666.mp3',
     number_of_acts: 4,
     slug: '/666/The Theme That Shall Not Be Named' },
   { episode_number: '665',
@@ -231,7 +231,7 @@
     date_published: 'January 11, 2019',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/thursdaymayonvolcanoeruption006.jpg?itok=WNQOm2FV',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/665.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/665.mp3',
     number_of_acts: 3,
     slug: '/665/Before Things Went to Hell' },
   { episode_number: '664',
@@ -241,7 +241,7 @@
     date_published: 'December 28, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/gettyimages-949823486.jpg?itok=2H1vAeWy',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/664.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/664.mp3',
     number_of_acts: 4,
     slug: '/664/The Room of Requirement' },
   { episode_number: '663',
@@ -251,7 +251,7 @@
     date_published: 'December 7, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/tal_documents_profile_mcquade.jpg?itok=AEmqAvV4',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/663.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/663.mp3',
     number_of_acts: 4,
     slug: '/663/How I Read It' },
   { episode_number: '662',
@@ -261,7 +261,7 @@
     date_published: 'November 16, 2018',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/gettyimages-82091345.jpg?itok=BVqAIkHI',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/662.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/662.mp3',
     number_of_acts: 3,
     slug: '/662/Where There Is a Will' },
   { episode_number: '661',
@@ -271,7 +271,7 @@
     date_published: 'November 9, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/bishop_2.png?itok=QCW_FOnU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/661.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/661.mp3',
     number_of_acts: 3,
     slug: '/661/But That\'s What Happened' },
   { episode_number: '660',
@@ -281,7 +281,7 @@
     date_published: 'November 2, 2018',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/istock-106582919.jpg?itok=lvqCYYir',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/660.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/660.mp3',
     number_of_acts: 4,
     slug: '/660/Hoaxing Yourself (2018)' },
   { episode_number: '659',
@@ -291,7 +291,7 @@
     date_published: 'October 12, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/notebook-vertical.jpg?itok=A9ewUebs',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/659.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/659.mp3',
     number_of_acts: 3,
     slug: '/659/Before the Next One' },
   { episode_number: '658',
@@ -301,7 +301,7 @@
     date_published: 'October 5, 2018',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/tal_unhappydeciders_mcquade.jpg?itok=je6KJO9N',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/658.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/658.mp3',
     number_of_acts: 3,
     slug: '/658/The Unhappy Deciders' },
   { episode_number: '657',
@@ -311,7 +311,7 @@
     date_published: 'September 21, 2018',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/img_3081.jpg?itok=azYB41DD',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/657.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/657.mp3',
     number_of_acts: 3,
     slug: '/657/The Runaways' },
   { episode_number: '656',
@@ -321,7 +321,7 @@
     date_published: 'September 14, 2018',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/tijuana-book-blurred-final.jpg?itok=urc-Oa18',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/656.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/656.mp3',
     number_of_acts: 6,
     slug: '/656/Let Me Count the Ways' },
   { episode_number: '655',
@@ -331,7 +331,7 @@
     date_published: 'August 24, 2018',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/_dsf7205-16x9.jpg?itok=Uohj4CiY',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/655.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/655.mp3',
     number_of_acts: 5,
     slug: '/655/The Not-So-Great Unknown' },
   { episode_number: '654',
@@ -341,7 +341,7 @@
     date_published: 'August 10, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/654.gif?itok=ojr9Q5Me',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/654.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/654.mp3',
     number_of_acts: 8,
     slug: '/654/The Feather Heist' },
   { episode_number: '653',
@@ -351,7 +351,7 @@
     date_published: 'August 3, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/gettyimages-879398070_social.jpg?itok=tKCGNSBL',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/653.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/653.mp3',
     number_of_acts: 4,
     slug: '/653/Crime Scene (2018)' },
   { episode_number: '652',
@@ -361,7 +361,7 @@
     date_published: 'July 20, 2018',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/gettyimages-983778648_comp_1024.jpg?itok=yL_txaOQ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/652.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/652.mp3',
     number_of_acts: 3,
     slug: '/652/ICE Capades' },
   { episode_number: '651',
@@ -371,7 +371,7 @@
     date_published: 'July 13, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/tal_vertical.jpg?itok=huqIhX0z',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/651.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/651.mp3',
     number_of_acts: 4,
     slug: '/651/If You Build It, Will They Come?' },
   { episode_number: '650',
@@ -381,7 +381,7 @@
     date_published: 'June 29, 2018',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/introsus-godoy-abortion.png?itok=PRNAKZVK',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/650.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/650.mp3',
     number_of_acts: 3,
     slug: '/650/Change You Can Maybe Believe In' },
   { episode_number: '649',
@@ -390,7 +390,7 @@
      'Democrats are desperate to retake part of Congress. Their best shot is the House. This fall, they’ll be slugging it out with Republicans—but in the meantime, they’re slugging it out with each other. The progressive and moderate wings of the Democratic party are going head-to-head in Democratic primaries all over the country right now, wrestling over what the party should be and stand for. This week, we have the story of a candidate in one primary like that.',
     date_published: 'June 22, 2018',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/649.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/649.mp3',
     number_of_acts: 3,
     slug: '/649/It\'s My Party and I\'ll Try If I Want To' },
   { episode_number: '648',
@@ -399,7 +399,7 @@
      'Stories about people trying to learn something when no one is clear what the lesson is supposed to be. ',
     date_published: 'June 8, 2018',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/648.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/648.mp3',
     number_of_acts: 4,
     slug: '/648/Unteachable Moment' },
   { episode_number: '647',
@@ -408,7 +408,7 @@
      'A security guard at the airport notices something going wrong on the tarmac, and takes it upon herself to fix it. It’s way harder than she expects. ',
     date_published: 'May 25, 2018',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/647.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/647.mp3',
     number_of_acts: 3,
     slug: '/647/LaDonna' },
   { episode_number: '646',
@@ -418,7 +418,7 @@
     date_published: 'May 18, 2018',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/lettertodealer_4x3_2.jpg?itok=JuTm0NuP',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/646.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/646.mp3',
     number_of_acts: 4,
     slug: '/646/The Secret of My Death' },
   { episode_number: '645',
@@ -428,7 +428,7 @@
     date_published: 'May 4, 2018',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/guldig_final_v2.jpg?itok=0ZafFY4k',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/645.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/645.mp3',
     number_of_acts: 3,
     slug: '/645/My Effing First Amendment' },
   { episode_number: '644',
@@ -437,7 +437,7 @@
      'Stories about people who accidentally bump into unsettling facts of history in settings meant to teach them history. What they end up learning is very different from what they’re supposed to.',
     date_published: 'April 27, 2018',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/644.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/644.mp3',
     number_of_acts: 3,
     slug: '/644/Random Acts of History' },
   { episode_number: '643',
@@ -447,7 +447,7 @@
     date_published: 'April 13, 2018',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/gettyimages-899204390-web.jpg?itok=Y9tPZlg_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/643.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/643.mp3',
     number_of_acts: 4,
     slug: '/643/Damned If You Do…' },
   { episode_number: '642',
@@ -457,7 +457,7 @@
     date_published: 'April 6, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/ap_18083458279497.jpg?itok=zkSCbjPB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/642.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/642.mp3',
     number_of_acts: 5,
     slug: '/642/The Impossible Dream' },
   { episode_number: '641',
@@ -467,7 +467,7 @@
     date_published: 'March 16, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/frankie-quinn-ireland-peaceline.png?itok=E2cubvbE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/641.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/641.mp3',
     number_of_acts: 5,
     slug: '/641/The Walls' },
   { episode_number: '640',
@@ -477,7 +477,7 @@
     date_published: 'March 2, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal_fivewomen_final_3.jpg?itok=OjoONQzi',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/640.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/640.mp3',
     number_of_acts: 8,
     slug: '/640/Five Women' },
   { episode_number: '639',
@@ -487,7 +487,7 @@
     date_published: 'February 23, 2018',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/154_2018_2_0.jpg?itok=E1QgE_tT',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/639.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/639.mp3',
     number_of_acts: 4,
     slug: '/639/In Dog We Trust (2018)' },
   { episode_number: '638',
@@ -497,7 +497,7 @@
     date_published: 'February 9, 2018',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/dominic_bugatto-romancefinal.jpg?itok=BsXL1FLI',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/638.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/638.mp3',
     number_of_acts: 5,
     slug: '/638/Rom-Com' },
   { episode_number: '637',
@@ -507,7 +507,7 @@
     date_published: 'February 2, 2018',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/637-jennifer-heuer.jpg?itok=5F7Bu0OU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/637.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/637.mp3',
     number_of_acts: 3,
     slug: '/637/Words You Can\'t Say' },
   { episode_number: '636',
@@ -517,7 +517,7 @@
     date_published: 'January 19, 2018',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/pernice-jobishard-final.jpg?itok=QPiQIAFk',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/636.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/636.mp3',
     number_of_acts: 3,
     slug: '/636/I Thought It Would Be Easier' },
   { episode_number: '635',
@@ -527,7 +527,7 @@
     date_published: 'January 12, 2018',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/chip_in_the_brain-owen_freeman.jpg?itok=VH9SIDf6',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/635.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/635.mp3',
     number_of_acts: 3,
     slug: '/635/Chip in My Brain' },
   { episode_number: '634',
@@ -537,7 +537,7 @@
     date_published: 'December 22, 2017',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/gettyimages-50663437_master_2.jpg?itok=r99WQz9a',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/634.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/634.mp3',
     number_of_acts: 3,
     slug: '/634/Human Error in Volatile Situations' },
   { episode_number: '633',
@@ -547,7 +547,7 @@
     date_published: 'December 15, 2017',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/633-lg_0.jpg?itok=in6zaJ4W',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/633.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/633.mp3',
     number_of_acts: 5,
     slug: '/633/Our Town - Part Two' },
   { episode_number: '632',
@@ -557,7 +557,7 @@
     date_published: 'December 8, 2017',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/632-portrait.png?itok=eJkO5HTX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/632.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/632.mp3',
     number_of_acts: 3,
     slug: '/632/Our Town - Part One' },
   { episode_number: '631',
@@ -566,7 +566,7 @@
     date_published: 'November 10, 2017',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/631.jpg?itok=cv2K0ozL',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/631.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/631.mp3',
     number_of_acts: 3,
     slug: '/631/So a Monkey and a Horse Walk Into a Bar' },
   { episode_number: '630',
@@ -575,7 +575,7 @@
      'There are so many facts about the world that we take for granted—without ever questioning how we know them. Of course the earth revolves around the sun. Of course my dog loves me. But how exactly do we know things like that are true? This week, stories of people trying to unspool some of life’s certainties, and what they find.',
     date_published: 'October 27, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/630.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/630.mp3',
     number_of_acts: 5,
     slug: '/630/Things I Mean to Know' },
   { episode_number: '629',
@@ -585,7 +585,7 @@
     date_published: 'October 20, 2017',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/629-landscape.png?itok=uP07juFN',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/629.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/629.mp3',
     number_of_acts: 4,
     slug: '/629/Expect Delays' },
   { episode_number: '628',
@@ -595,7 +595,7 @@
     date_published: 'October 13, 2017',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/628.jpg?itok=Ome1Pojg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/628.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/628.mp3',
     number_of_acts: 4,
     slug: '/628/In the Shadow of the City 2017' },
   { episode_number: '627',
@@ -605,7 +605,7 @@
     date_published: 'October 6, 2017',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/627.jpg?itok=QBnUXzrO',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/627.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/627.mp3',
     number_of_acts: 5,
     slug: '/627/Suitable for Children' },
   { episode_number: '626',
@@ -615,7 +615,7 @@
     date_published: 'September 22, 2017',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/626.jpg?itok=dR-LUaU_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/626.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/626.mp3',
     number_of_acts: 3,
     slug: '/626/White Haze' },
   { episode_number: '625',
@@ -625,7 +625,7 @@
     date_published: 'September 8, 2017',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/625-portrait.png?itok=uYEIebcG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/625.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/625.mp3',
     number_of_acts: 3,
     slug: '/625/Essay B' },
   { episode_number: '624',
@@ -635,7 +635,7 @@
     date_published: 'September 1, 2017',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/624.jpg?itok=V9h9M2a7',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/624.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/624.mp3',
     number_of_acts: 3,
     slug: '/624/Private Geography' },
   { episode_number: '623',
@@ -645,7 +645,7 @@
     date_published: 'August 18, 2017',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/623.jpg?itok=QXxK2qzr',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/623.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/623.mp3',
     number_of_acts: 5,
     slug: '/623/We Are in the Future' },
   { episode_number: '622',
@@ -655,7 +655,7 @@
     date_published: 'August 4, 2017',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/622.jpg?itok=Ah8eft1p',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/622.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/622.mp3',
     number_of_acts: 4,
     slug: '/622/Who You Gonna Call?' },
   { episode_number: '621',
@@ -664,7 +664,7 @@
      'Two towns where people got really upset about undocumented immigrants, even though in both places, that did not seem to be the most important thing happening at all. One of the towns, a small town in Alaska, has no undocumented immigrants at all, but the possibility of them arriving put the whole town at each other’s throats.',
     date_published: 'July 21, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/621.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/621.mp3',
     number_of_acts: 3,
     slug: '/621/Fear and Loathing in Homer and Rockville' },
   { episode_number: '620',
@@ -673,7 +673,7 @@
      'Most of the time, we show the world a pretty superficial version of ourselves. "How about that weather?" But this week—people who try to go deeper, to get to something real, in some unexpected places: war, magic and porn.',
     date_published: 'July 14, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/620.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/620.mp3',
     number_of_acts: 4,
     slug: '/620/To Be Real' },
   { episode_number: '619',
@@ -683,7 +683,7 @@
     date_published: 'June 30, 2017',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/619.jpeg?itok=sQeNDiOt',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/619.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/619.mp3',
     number_of_acts: 3,
     slug: '/619/The Magic Show' },
   { episode_number: '618',
@@ -692,7 +692,7 @@
      'A polygraph operator and his strange journey. And other stories.',
     date_published: 'June 9, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/618.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/618.mp3',
     number_of_acts: 2,
     slug: '/618/Mr. Lie Detector' },
   { episode_number: '617',
@@ -700,7 +700,7 @@
     episode_description: 'Three people grapple with the question, “Are we alone?”',
     date_published: 'May 19, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/617.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/617.mp3',
     number_of_acts: 4,
     slug: '/617/Fermi’s Paradox' },
   { episode_number: '616',
@@ -710,7 +710,7 @@
     date_published: 'May 5, 2017',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/616.gif?itok=fGvAyZva',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/616.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/616.mp3',
     number_of_acts: 3,
     slug: '/616/I Am Not a Pirate' },
   { episode_number: '615',
@@ -720,7 +720,7 @@
     date_published: 'April 28, 2017',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/615-sub.jpg?itok=DroNUgsr',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/615.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/615.mp3',
     number_of_acts: 3,
     slug: '/615/The Beginning of Now' },
   { episode_number: '614',
@@ -729,7 +729,7 @@
      'Since Russia meddled in our election, there\'s been concern that the fake news and disinformation that\'s so prevalent there could be taking hold in this country. But is that hyperbole? This week we look at what it\'s actually like to live in the confusing information landscape that is Putin\'s Russia.',
     date_published: 'April 14, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/614.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/614.mp3',
     number_of_acts: 5,
     slug: '/614/The Other Mr. President' },
   { episode_number: '613',
@@ -738,7 +738,7 @@
      'Stories of people who decide that they are the best person for the job, no matter how dangerous. Including a story about a stay-at-home mom with a history of gun running for a guerilla organization, and a surgeon who does surgery...on himself.',
     date_published: 'March 31, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/613.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/613.mp3',
     number_of_acts: 3,
     slug: '/613/OK, I’ll Do It' },
   { episode_number: '612',
@@ -748,7 +748,7 @@
     date_published: 'March 17, 2017',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/612.jpg?itok=ToMrZt1J',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/612.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/612.mp3',
     number_of_acts: 5,
     slug: '/612/Ask a Grown-Up' },
   { episode_number: '611',
@@ -757,7 +757,7 @@
      'A show about rules and what happens when they’re vague and randomly enforced.',
     date_published: 'March 3, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/611.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/611.mp3',
     number_of_acts: 3,
     slug: '/611/Vague and Confused' },
   { episode_number: '610',
@@ -767,7 +767,7 @@
     date_published: 'February 17, 2017',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/610.jpg?itok=qlad9KQu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/610.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/610.mp3',
     number_of_acts: 4,
     slug: '/610/Grand Gesture' },
   { episode_number: '609',
@@ -777,7 +777,7 @@
     date_published: 'February 3, 2017',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/609.jpg?itok=HtkrWGDD',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/609.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/609.mp3',
     number_of_acts: 6,
     slug: '/609/It’s Working Out Very Nicely' },
   { episode_number: '608',
@@ -787,7 +787,7 @@
     date_published: 'January 20, 2017',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/608.jpg?itok=Q-VC59kv',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/608.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/608.mp3',
     number_of_acts: 7,
     slug: '/608/The Revolution Starts At Noon' },
   { episode_number: '607',
@@ -796,7 +796,7 @@
      'We’ve fought two wars since 9/11. We got help from tens of thousands of Iraqis and Afghans—some were targeted or killed because they helped us. We owe these people. We’ve passed laws that say so. So why has it been so hard for us to get many of them to safety?',
     date_published: 'January 6, 2017',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/607.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/607.mp3',
     number_of_acts: 3,
     slug: '/607/Didn’t We Solve This One?' },
   { episode_number: '606',
@@ -806,7 +806,7 @@
     date_published: 'December 23, 2016',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/606.jpg?itok=OJ49l7XN',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/606.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/606.mp3',
     number_of_acts: 3,
     slug: '/606/Just What I Wanted' },
   { episode_number: '605',
@@ -816,7 +816,7 @@
     date_published: 'December 16, 2016',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/605.jpg?itok=HmJ_rIj4',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/605.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/605.mp3',
     number_of_acts: 5,
     slug: '/605/Kid Logic (2016)' },
   { episode_number: '604',
@@ -826,7 +826,7 @@
     date_published: 'December 9, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/604.jpg?itok=MtXOZFW1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/604.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/604.mp3',
     number_of_acts: 3,
     slug: '/604/20 Years Later' },
   { episode_number: '603',
@@ -836,7 +836,7 @@
     date_published: 'December 2, 2016',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/603.jpg?itok=akaRoXs0',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/603.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/603.mp3',
     number_of_acts: 4,
     slug: '/603/Once More, With Feeling' },
   { episode_number: '602',
@@ -846,7 +846,7 @@
     date_published: 'November 11, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/630-portrait.png?itok=7WxIry98',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/602.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/602.mp3',
     number_of_acts: 12,
     slug: '/602/The Sun Comes Up' },
   { episode_number: '601',
@@ -856,7 +856,7 @@
     date_published: 'November 4, 2016',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/601-2-landscape.jpg?itok=kUqr1JML',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/601.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/601.mp3',
     number_of_acts: 5,
     slug: '/601/Master of Her Domain… Name' },
   { episode_number: '600',
@@ -866,7 +866,7 @@
     date_published: 'October 28, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/600-4x2.jpg?itok=yHXxi5Wx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/600.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/600.mp3',
     number_of_acts: 3,
     slug: '/600/Will I Know Anyone at This Party? ' },
   { episode_number: '599',
@@ -876,7 +876,7 @@
     date_published: 'October 21, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/599-2-landscape.jpg?itok=X8XYhH62',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/599.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/599.mp3',
     number_of_acts: 5,
     slug: '/599/Seriously?' },
   { episode_number: '598',
@@ -885,7 +885,7 @@
      'San Francisco’s Spider-Man burglar was remarkable. He dropped into buildings from skylights, leapt 10 feet from one roof to another. But mostly, his talent got him into trouble. This week, his story, and stories of other undesirable talents.',
     date_published: 'October 7, 2016',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/598.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/598.mp3',
     number_of_acts: 4,
     slug: '/598/My Undesirable Talent ' },
   { episode_number: '597',
@@ -895,7 +895,7 @@
     date_published: 'September 23, 2016',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/597.jpg?itok=qm69nsaM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/597.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/597.mp3',
     number_of_acts: 3,
     slug: '/597/One Last Thing Before I Go' },
   { episode_number: '596',
@@ -904,7 +904,7 @@
      'This week, stories about people trying their best to turn themselves into something else—like a badger. Or a professional comedian, in a language they didn’t grow up speaking.',
     date_published: 'September 9, 2016',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/596.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/596.mp3',
     number_of_acts: 3,
     slug: '/596/Becoming a Badger' },
   { episode_number: '595',
@@ -913,7 +913,7 @@
      'What do you do when you\'re thrown into a situation you’re not prepared for? And while you’re flailing around—what happens to the people who depend on you? This week we present stories of people who find themselves in over their heads, including an attorney who knows little about criminal law assigned to defend a young man facing twenty years in prison.',
     date_published: 'August 26, 2016',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/595.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/595.mp3',
     number_of_acts: 3,
     slug: '/595/Deep End of the Pool' },
   { episode_number: '594',
@@ -923,7 +923,7 @@
     date_published: 'August 12, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/594.jpg?itok=Wkz6djUU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/594.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/594.mp3',
     number_of_acts: 4,
     slug: '/594/My Summer Self' },
   { episode_number: '593',
@@ -933,7 +933,7 @@
     date_published: 'August 5, 2016',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/593.jpg?itok=OGrLqUw6',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/593.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/593.mp3',
     number_of_acts: 6,
     slug: '/593/Don’t Have to Live Like a Refugee' },
   { episode_number: '592',
@@ -943,7 +943,7 @@
     date_published: 'July 29, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/592.jpg?itok=an2WRuGX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/592.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/592.mp3',
     number_of_acts: 4,
     slug: '/592/Are We There Yet?' },
   { episode_number: '591',
@@ -952,7 +952,7 @@
      'Stories of people trying to make sure they get what they paid for, from political change to bedroom slippers. We follow a donor as he vets presidential candidates, and go inside a company wrestling with the consequences of its "no questions asked,” lifetime return policy.',
     date_published: 'July 15, 2016',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/591.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/591.mp3',
     number_of_acts: 4,
     slug: '/591/Get Your Money\'s Worth' },
   { episode_number: '590',
@@ -961,7 +961,7 @@
      'Stories of people making the wrong choice, even though the right one is staring them squarely in the eye. Basketball players making a conscious decision to not do the thing that makes them better, pollsters refusing to see the truth of Donald Trump, and more.',
     date_published: 'June 24, 2016',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/590.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/590.mp3',
     number_of_acts: 4,
     slug: '/590/Choosing Wrong' },
   { episode_number: '589',
@@ -970,7 +970,7 @@
      'The way people talk about being fat is shifting. With one-third of Americans classified as overweight, and another third as obese, and almost none of us losing weight and keeping it off, maybe it’s time to rethink the way we see being fat. A show inspired by Lindy West’s book Shrill.',
     date_published: 'June 17, 2016',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/589.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/589.mp3',
     number_of_acts: 6,
     slug: '/589/Tell Me I’m Fat' },
   { episode_number: '588',
@@ -980,7 +980,7 @@
     date_published: 'June 3, 2016',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/588.jpg?itok=L9Ev5ayQ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/588.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/588.mp3',
     number_of_acts: 4,
     slug: '/588/Mind Games (2016)' },
   { episode_number: '587',
@@ -990,7 +990,7 @@
     date_published: 'May 27, 2016',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/587.jpg?itok=Er29-oHR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/587.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/587.mp3',
     number_of_acts: 5,
     slug: '/587/The Perils of Intimacy' },
   { episode_number: '586',
@@ -1000,7 +1000,7 @@
     date_published: 'May 6, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/586.jpg?itok=WG4a7Blj',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/586.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/586.mp3',
     number_of_acts: 3,
     slug: '/586/Who Do We Think We Are?' },
   { episode_number: '585',
@@ -1010,7 +1010,7 @@
     date_published: 'April 22, 2016',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/585.jpg?itok=T7eH_fWn',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/585.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/585.mp3',
     number_of_acts: 4,
     slug: '/585/In Defense of Ignorance' },
   { episode_number: '584',
@@ -1020,7 +1020,7 @@
     date_published: 'April 8, 2016',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/584.jpg?itok=I0B2HLmw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/584.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/584.mp3',
     number_of_acts: 4,
     slug: '/584/For Your Reconsideration' },
   { episode_number: '583',
@@ -1030,7 +1030,7 @@
     date_published: 'March 25, 2016',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/583.png?itok=_hFRsWL4',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/583.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/583.mp3',
     number_of_acts: 5,
     slug: '/583/It’ll Make Sense When You’re Older' },
   { episode_number: '582',
@@ -1040,7 +1040,7 @@
     date_published: 'March 11, 2016',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/582-landscape.png?itok=FpbePoRd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/582.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/582.mp3',
     number_of_acts: 4,
     slug: '/582/When the Beasts Come Marching In' },
   { episode_number: '581',
@@ -1050,7 +1050,7 @@
     date_published: 'February 26, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/581.jpg?itok=U4eulfyJ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/581.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/581.mp3',
     number_of_acts: 3,
     slug: '/581/Anatomy of Doubt ' },
   { episode_number: '580',
@@ -1060,7 +1060,7 @@
     date_published: 'February 19, 2016',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/580.jpg?itok=jYQwmfs2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/580.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/580.mp3',
     number_of_acts: 3,
     slug: '/580/That\'s One Way to Do It' },
   { episode_number: '579',
@@ -1070,7 +1070,7 @@
     date_published: 'February 12, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/579.jpg?itok=_Wxapzd6',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/579.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/579.mp3',
     number_of_acts: 3,
     slug: '/579/My Damn Mind' },
   { episode_number: '578',
@@ -1080,7 +1080,7 @@
     date_published: 'January 29, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/578.jpg?itok=0T0yuUBs',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/578.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/578.mp3',
     number_of_acts: 5,
     slug: '/578/I Thought I Knew You' },
   { episode_number: '577',
@@ -1090,7 +1090,7 @@
     date_published: 'January 15, 2016',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/577.jpg?itok=ZEPTYfh0',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/577.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/577.mp3',
     number_of_acts: 4,
     slug: '/577/Something Only I Can See' },
   { episode_number: '576',
@@ -1100,7 +1100,7 @@
     date_published: 'December 25, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/576.jpg?itok=pyWX5aIl',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/576.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/576.mp3',
     number_of_acts: 4,
     slug: '/576/Say Yes To Christmas' },
   { episode_number: '575',
@@ -1109,7 +1109,7 @@
     date_published: 'December 18, 2015',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/575.jpg?itok=8XR56c-S',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/575.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/575.mp3',
     number_of_acts: 5,
     slug: '/575/Poetry of Propaganda' },
   { episode_number: '574',
@@ -1118,7 +1118,7 @@
     date_published: 'December 11, 2015',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/574.JPG?itok=zNveVA54',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/574.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/574.mp3',
     number_of_acts: 6,
     slug: '/574/Sinatra’s 100th Birthday' },
   { episode_number: '573',
@@ -1128,7 +1128,7 @@
     date_published: 'November 27, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/573.jpg?itok=TPKlUP1K',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/573.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/573.mp3',
     number_of_acts: 5,
     slug: '/573/Status Update' },
   { episode_number: '572',
@@ -1138,7 +1138,7 @@
     date_published: 'November 6, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/572.jpg?itok=D8NQrrpU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/572.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/572.mp3',
     number_of_acts: 5,
     slug: '/572/Transformers' },
   { episode_number: '571',
@@ -1148,7 +1148,7 @@
     date_published: 'October 30, 2015',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/571.jpg?itok=rJKDwXY6',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/571.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/571.mp3',
     number_of_acts: 4,
     slug: '/571/The Heart Wants What It Wants' },
   { episode_number: '570',
@@ -1158,7 +1158,7 @@
     date_published: 'October 16, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/570.jpg?itok=g5grM_AF',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/570.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/570.mp3',
     number_of_acts: 3,
     slug: '/570/The Night in Question' },
   { episode_number: '569',
@@ -1168,7 +1168,7 @@
     date_published: 'October 9, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/569-landscape.jpg?itok=TPIy1SJx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/569.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/569.mp3',
     number_of_acts: 4,
     slug: '/569/Put a Bow on It' },
   { episode_number: '568',
@@ -1178,7 +1178,7 @@
     date_published: 'October 2, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/568.png?itok=pewxuJrP',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/568.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/568.mp3',
     number_of_acts: 4,
     slug: '/568/Human Spectacle 2015' },
   { episode_number: '567',
@@ -1188,7 +1188,7 @@
     date_published: 'September 18, 2015',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/567.jpg?itok=brE2qpZx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/567.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/567.mp3',
     number_of_acts: 3,
     slug: '/567/What’s Going On In There?' },
   { episode_number: '566',
@@ -1198,7 +1198,7 @@
     date_published: 'September 11, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/make_believe_show_photo_0.jpg?itok=I_ndBY40',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/566.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/566.mp3',
     number_of_acts: 3,
     slug: '/566/The Land of Make Believe' },
   { episode_number: '565',
@@ -1207,7 +1207,7 @@
     date_published: 'August 28, 2015',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/565.jpg?itok=HG6501ar',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/565.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/565.mp3',
     number_of_acts: 7,
     slug: '/565/Lower 9 + 10' },
   { episode_number: '564',
@@ -1217,7 +1217,7 @@
     date_published: 'August 14, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/564.png?itok=L2jDVt6i',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/564.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/564.mp3',
     number_of_acts: 3,
     slug: '/564/Too Soon?' },
   { episode_number: '563',
@@ -1227,7 +1227,7 @@
     date_published: 'August 7, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/563.jpg?itok=etW0swk6',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/563.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/563.mp3',
     number_of_acts: 3,
     slug: '/563/The Problem We All Live With - Part Two' },
   { episode_number: '562',
@@ -1237,7 +1237,7 @@
     date_published: 'July 31, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/562.png?itok=vlgIRhDe',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/562.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/562.mp3',
     number_of_acts: 3,
     slug: '/562/The Problem We All Live With - Part One' },
   { episode_number: '561',
@@ -1247,7 +1247,7 @@
     date_published: 'July 17, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/561.jpg?itok=YC4s_QZj',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/561.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/561.mp3',
     number_of_acts: 3,
     slug: '/561/NUMMI (2015)' },
   { episode_number: '560',
@@ -1257,7 +1257,7 @@
     date_published: 'July 3, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/560.jpg?itok=86mhBce2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/560.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/560.mp3',
     number_of_acts: 3,
     slug: '/560/Abdi and the Golden Ticket' },
   { episode_number: '559',
@@ -1267,7 +1267,7 @@
     date_published: 'June 26, 2015',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/559.jpg?itok=l4JISpIU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/559.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/559.mp3',
     number_of_acts: 5,
     slug: '/559/Captain\'s Log' },
   { episode_number: '558',
@@ -1277,7 +1277,7 @@
     date_published: 'May 29, 2015',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/558.jpg?itok=5vhvQY0U',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/558.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/558.mp3',
     number_of_acts: 5,
     slug: '/558/Game Face' },
   { episode_number: '557',
@@ -1287,7 +1287,7 @@
     date_published: 'May 15, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/557.jpg?itok=p4-4TIEF',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/557.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/557.mp3',
     number_of_acts: 4,
     slug: '/557/Birds & Bees' },
   { episode_number: '556',
@@ -1297,7 +1297,7 @@
     date_published: 'May 1, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/556-landscape.png?itok=iy5qLFlu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/556.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/556.mp3',
     number_of_acts: 5,
     slug: '/556/Same Bed, Different Dreams' },
   { episode_number: '555',
@@ -1307,7 +1307,7 @@
     date_published: 'April 24, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/555.jpg?itok=fAhBEO7Q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/555.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/555.mp3',
     number_of_acts: 4,
     slug: '/555/The Incredible Rarity of Changing Your Mind' },
   { episode_number: '554',
@@ -1317,7 +1317,7 @@
     date_published: 'April 10, 2015',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/554.JPG?itok=euHE_MNg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/554.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/554.mp3',
     number_of_acts: 4,
     slug: '/554/Not It!' },
   { episode_number: '553',
@@ -1327,7 +1327,7 @@
     date_published: 'April 3, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/553.jpg?itok=K_gcQx-A',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/553.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/553.mp3',
     number_of_acts: 4,
     slug: '/553/Stuck In The Middle (2015)' },
   { episode_number: '552',
@@ -1336,7 +1336,7 @@
     date_published: 'March 27, 2015',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/552.jpg?itok=j0fb7Sf4',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/552.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/552.mp3',
     number_of_acts: 4,
     slug: '/552/Need To Know Basis' },
   { episode_number: '551',
@@ -1345,7 +1345,7 @@
      'Yes fellas, lots of you think of yourselves as good guys. But what does it really take to be a good guy? We have stories of valiant men attempting to do good in challenging and not-so-challenging circumstances: in department stores, public buses, and at the bottom of a cave 900 feet underground.',
     date_published: 'March 20, 2015',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/551.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/551.mp3',
     number_of_acts: 5,
     slug: '/551/Good Guys 2015' },
   { episode_number: '550',
@@ -1355,7 +1355,7 @@
     date_published: 'March 13, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/keith_negley_3miles_final.jpg?itok=q58IiH7q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/550.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/550.mp3',
     number_of_acts: 3,
     slug: '/550/Three Miles' },
   { episode_number: '549',
@@ -1365,7 +1365,7 @@
     date_published: 'February 27, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/549.jpg?itok=-jPL5zjf',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/549.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/549.mp3',
     number_of_acts: 4,
     slug: '/549/Amateur Hour' },
   { episode_number: '548',
@@ -1375,7 +1375,7 @@
     date_published: 'February 13, 2015',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/548.jpg?itok=n0UClvkE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/548.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/548.mp3',
     number_of_acts: 3,
     slug: '/548/Cops See It Differently - Part Two' },
   { episode_number: '547',
@@ -1385,7 +1385,7 @@
     date_published: 'February 6, 2015',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/547.jpg?itok=vGkggiSU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/547.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/547.mp3',
     number_of_acts: 3,
     slug: '/547/Cops See It Differently - Part One' },
   { episode_number: '546',
@@ -1395,7 +1395,7 @@
     date_published: 'January 30, 2015',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/546-landscape.png?itok=z7h-TQCZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/546.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/546.mp3',
     number_of_acts: 3,
     slug: '/546/Burroughs 101' },
   { episode_number: '545',
@@ -1405,7 +1405,7 @@
     date_published: 'January 23, 2015',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/545.jpg?itok=LExJfv35',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/545.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/545.mp3',
     number_of_acts: 5,
     slug:
      '/545/If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS' },
@@ -1416,7 +1416,7 @@
     date_published: 'January 9, 2015',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/544.png?itok=DjHfsaaD',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/544.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/544.mp3',
     number_of_acts: 3,
     slug: '/544/Batman' },
   { episode_number: '543',
@@ -1425,7 +1425,7 @@
      'As New Year’s approaches and people are contemplating things they want to change about themselves, we have stories of people trying to wake themselves up, shake up their own lives, or wake up others. Including the story of a company – or maybe it\'s a movement – called WakeUpNow.',
     date_published: 'December 26, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/543.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/543.mp3',
     number_of_acts: 4,
     slug: '/543/Wake Up Now' },
   { episode_number: '542',
@@ -1435,7 +1435,7 @@
     date_published: 'December 12, 2014',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/michela_buttignol_wait_-_do_you_have_the_map-finaljpg.jpg?itok=tB6CePhz',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/542.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/542.mp3',
     number_of_acts: 4,
     slug: '/542/Wait—Do You Have The Map?' },
   { episode_number: '541',
@@ -1444,7 +1444,7 @@
     date_published: 'December 5, 2014',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/541.png?itok=C5AMXkkK',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/541.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/541.mp3',
     number_of_acts: 3,
     slug: '/541/Regrets, I\'ve Had a Few' },
   { episode_number: '540',
@@ -1453,7 +1453,7 @@
      'Stories about people and places that are fronting in order to hide the truth. We visit a bizarre store in Milwaukee called Fearless Distributing, government checkpoints scattered on highways out west, and a front in a doctor\'s office.',
     date_published: 'November 21, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/540.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/540.mp3',
     number_of_acts: 4,
     slug: '/540/A Front' },
   { episode_number: '539',
@@ -1462,7 +1462,7 @@
      'Most of us go from day to day just coasting on the status quo. If it ain’t broke, why fix it, right? But when routines just get too mundane or systems stop making sense, sometimes you just have to hold your breath…and jump. This week, stories of people who leap from their lives, their comfort zones…even through time.',
     date_published: 'November 7, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/539.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/539.mp3',
     number_of_acts: 4,
     slug: '/539/The Leap' },
   { episode_number: '538',
@@ -1472,7 +1472,7 @@
     date_published: 'October 17, 2014',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/538.jpg?itok=8Hdnl_Iw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/538.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/538.mp3',
     number_of_acts: 4,
     slug: '/538/Is This Working?' },
   { episode_number: '537',
@@ -1482,7 +1482,7 @@
     date_published: 'October 3, 2014',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/537.jpg?itok=xKc1VwM8',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/537.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/537.mp3',
     number_of_acts: 2,
     slug: '/537/The Alibi' },
   { episode_number: '536',
@@ -1491,7 +1491,7 @@
      'An unprecedented look inside one of the most powerful, secretive institutions in the country. The NY Federal Reserve is supposed to monitor big banks. But when Carmen Segarra was hired, what she witnessed inside the Fed was so alarming that she got a tiny recorder and started secretly taping.',
     date_published: 'September 26, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/536.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/536.mp3',
     number_of_acts: 3,
     slug: '/536/The Secret Recordings of Carmen Segarra' },
   { episode_number: '535',
@@ -1500,7 +1500,7 @@
      'This week we bring you little-known and surprising stories of how all sorts of institutions began. An updated version of a 2009 episode.',
     date_published: 'September 19, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/535.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/535.mp3',
     number_of_acts: 5,
     slug: '/535/Origin Story (2014)' },
   { episode_number: '534',
@@ -1509,7 +1509,7 @@
      'We take it for granted that the majority calls the shots. But in one NY school district, that idea — majority rules — has led to an all-out war. School board disputes are pretty common, but not like this one. This involves multimillion-dollar land deals, lawyers threatening to beat up parents, felony criminal charges, and the highest levels of state government. Meanwhile, the students are caught in the middle.',
     date_published: 'September 12, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/534.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/534.mp3',
     number_of_acts: 3,
     slug: '/534/A Not-So-Simple Majority' },
   { episode_number: '533',
@@ -1518,7 +1518,7 @@
     date_published: 'September 5, 2014',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/533.jpg?itok=BkY8gioe',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/533.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/533.mp3',
     number_of_acts: 4,
     slug: '/533/It\'s Not the Product, It\'s the Person' },
   { episode_number: '532',
@@ -1528,7 +1528,7 @@
     date_published: 'August 15, 2014',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/532.jpg?itok=NG5j-6Si',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/532.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/532.mp3',
     number_of_acts: 4,
     slug: '/532/Magic Words' },
   { episode_number: '531',
@@ -1538,7 +1538,7 @@
     date_published: 'July 25, 2014',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/531.jpg?itok=TgYGrVWH',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/531.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/531.mp3',
     number_of_acts: 4,
     slug: '/531/Got Your Back' },
   { episode_number: '530',
@@ -1548,7 +1548,7 @@
     date_published: 'July 18, 2014',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/530.jpg?itok=qm3KhTlG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/530.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/530.mp3',
     number_of_acts: 3,
     slug: '/530/Mind Your Own Business' },
   { episode_number: '529',
@@ -1558,7 +1558,7 @@
     date_published: 'June 27, 2014',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/529.png?itok=gMPa9Hya',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/529.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/529.mp3',
     number_of_acts: 4,
     slug: '/529/Human Spectacle' },
   { episode_number: '528',
@@ -1567,7 +1567,7 @@
      'Our most ambitious live show ever! We pulled together a massive team of theater pros at the Brooklyn Academy of Music\'s Opera House—nearly 50 singers, actors, dancers and musicians. The result? Journalism turned into a Broadway musical (hear the cast album), into opera. Mike Birbiglia, Sasheer Zamata, Stephin Merritt, Josh Hamilton, Lindsay Mendez, Lin-Manuel Miranda and others. Watch a video of the live performance or download it for $5.',
     date_published: 'June 20, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/528.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/528.mp3',
     number_of_acts: 5,
     slug: '/528/The Radio Drama Episode ' },
   { episode_number: '527',
@@ -1577,7 +1577,7 @@
     date_published: 'June 13, 2014',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/527.jpg?itok=yExwhBOQ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/527.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/527.mp3',
     number_of_acts: 4,
     slug: '/527/180 Degrees' },
   { episode_number: '526',
@@ -1586,7 +1586,7 @@
      'You\'ve been seeing yourself, getting to know what you look like, your whole life. So why does it often take an outsider to see things about you that are obvious, and set you straight?',
     date_published: 'May 23, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/526.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/526.mp3',
     number_of_acts: 4,
     slug: '/526/Is That What I Look Like?' },
   { episode_number: '525',
@@ -1596,7 +1596,7 @@
     date_published: 'May 9, 2014',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/525.jpg?itok=92B8jFXU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/525.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/525.mp3',
     number_of_acts: 4,
     slug: '/525/Call For Help' },
   { episode_number: '524',
@@ -1605,7 +1605,7 @@
     date_published: 'May 2, 2014',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/524.jpg?itok=BKpcdpkU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/524.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/524.mp3',
     number_of_acts: 6,
     slug: '/524/I Was So High' },
   { episode_number: '523',
@@ -1615,7 +1615,7 @@
     date_published: 'April 25, 2014',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/523.jpg?itok=SKl4dSoq',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/523.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/523.mp3',
     number_of_acts: 3,
     slug: '/523/Death and Taxes' },
   { episode_number: '522',
@@ -1625,7 +1625,7 @@
     date_published: 'April 11, 2014',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/522.jpg?itok=KBeHjgnT',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/522.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/522.mp3',
     number_of_acts: 3,
     slug: '/522/Tarred and Feathered' },
   { episode_number: '521',
@@ -1634,7 +1634,7 @@
     date_published: 'March 28, 2014',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/521.png?itok=UcX52-E1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/521.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/521.mp3',
     number_of_acts: 6,
     slug: '/521/Bad Baby' },
   { episode_number: '520',
@@ -1643,7 +1643,7 @@
     date_published: 'March 14, 2014',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/520.jpg?itok=oatpY1Vu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/520.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/520.mp3',
     number_of_acts: 4,
     slug: '/520/No Place Like Home' },
   { episode_number: '519',
@@ -1653,7 +1653,7 @@
     date_published: 'March 7, 2014',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/519.jpg?itok=H9diPqaq',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/519.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/519.mp3',
     number_of_acts: 4,
     slug: '/519/Dead Men Tell No Tales' },
   { episode_number: '518',
@@ -1662,7 +1662,7 @@
      'Mike Anderson was 36 years old, married, a suburban father of four. He owned a contracting business and built his family’s modest, three-bedroom house in St. Louis from the ground up. He volunteered at church on the weekends and coaches his son’s football team. All pretty normal, right? Except for one thing … which surfaced one day two summers ago.',
     date_published: 'February 14, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/518.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/518.mp3',
     number_of_acts: 6,
     slug: '/518/Except For That One Thing' },
   { episode_number: '517',
@@ -1672,7 +1672,7 @@
     date_published: 'January 31, 2014',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/517.JPG?itok=_mdSQ86e',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/517.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/517.mp3',
     number_of_acts: 5,
     slug: '/517/Day At The Beach' },
   { episode_number: '516',
@@ -1682,7 +1682,7 @@
     date_published: 'January 17, 2014',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/516.jpg?itok=sv92uufG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/516.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/516.mp3',
     number_of_acts: 4,
     slug: '/516/Stuck In The Middle' },
   { episode_number: '515',
@@ -1691,7 +1691,7 @@
      'Yes fellas, lots of you think of yourselves as good guys. But what does it really take to be a good guy? We have stories of valiant men attempting to do good in challenging circumstances: in war zones, department stores, public buses, and at the bottom of a cave 900 feet underground.',
     date_published: 'January 10, 2014',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/515.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/515.mp3',
     number_of_acts: 5,
     slug: '/515/Good Guys' },
   { episode_number: '514',
@@ -1700,7 +1700,7 @@
     date_published: 'December 20, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/514.jpg?itok=FS0wEM1f',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/514.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/514.mp3',
     number_of_acts: 4,
     slug: '/514/Thought That Counts' },
   { episode_number: '513',
@@ -1710,7 +1710,7 @@
     date_published: 'December 13, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/513.jpg?itok=mSW0ylfb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/513.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/513.mp3',
     number_of_acts: 11,
     slug: '/513/129 Cars' },
   { episode_number: '512',
@@ -1720,7 +1720,7 @@
     date_published: 'November 22, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/512.jpg?itok=wPnqqWjI',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/512.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/512.mp3',
     number_of_acts: 3,
     slug: '/512/House Rules' },
   { episode_number: '511',
@@ -1729,7 +1729,7 @@
     date_published: 'November 8, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/511.jpg?itok=WtDdbFcA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/511.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/511.mp3',
     number_of_acts: 7,
     slug: '/511/The Seven Things You’re Not Supposed to Talk About' },
   { episode_number: '510',
@@ -1739,7 +1739,7 @@
     date_published: 'November 1, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/510-landscape.jpg?itok=0VlVkg-X',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/510.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/510.mp3',
     number_of_acts: 5,
     slug: '/510/Fiasco!' },
   { episode_number: '509',
@@ -1748,7 +1748,7 @@
     date_published: 'October 25, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/509.jpg?itok=o8rZMK0X',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/509.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/509.mp3',
     number_of_acts: 4,
     slug: '/509/It Says So Right Here' },
   { episode_number: '508',
@@ -1758,7 +1758,7 @@
     date_published: 'October 18, 2013',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/508-landscape-2.jpg?itok=Lh7ngMAD',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/508.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/508.mp3',
     number_of_acts: 5,
     slug: '/508/Superpowers' },
   { episode_number: '507',
@@ -1767,7 +1767,7 @@
     date_published: 'October 11, 2013',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/507.jpg?itok=7YYKl_Md',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/507.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/507.mp3',
     number_of_acts: 3,
     slug: '/507/Confessions' },
   { episode_number: '506',
@@ -1777,7 +1777,7 @@
     date_published: 'October 4, 2013',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/506.JPG?itok=JuRWp-ng',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/506.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/506.mp3',
     number_of_acts: 4,
     slug: '/506/Secret Identity' },
   { episode_number: '505',
@@ -1787,7 +1787,7 @@
     date_published: 'September 20, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/505.jpg?itok=Qbh_CKAO',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/505.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/505.mp3',
     number_of_acts: 3,
     slug: '/505/Use Only as Directed' },
   { episode_number: '504',
@@ -1797,7 +1797,7 @@
     date_published: 'September 6, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/504.jpg?itok=Qe8MgDzN',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/504.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/504.mp3',
     number_of_acts: 4,
     slug: '/504/How I Got Into College' },
   { episode_number: '503',
@@ -1806,7 +1806,7 @@
     date_published: 'August 16, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/503.jpg?itok=aBHtrYlv',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/503.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/503.mp3',
     number_of_acts: 3,
     slug: '/503/I Was Just Trying To Help' },
   { episode_number: '502',
@@ -1816,7 +1816,7 @@
     date_published: 'August 9, 2013',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/502.jpg?itok=BmKuOlUp',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/502.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/502.mp3',
     number_of_acts: 3,
     slug: '/502/This Call May Be Recorded... To Save Your Life' },
   { episode_number: '501',
@@ -1825,7 +1825,7 @@
     date_published: 'July 26, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/501.jpg?itok=cGIVccF0',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/501.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/501.mp3',
     number_of_acts: 4,
     slug: '/501/The View From In Here' },
   { episode_number: '500',
@@ -1835,7 +1835,7 @@
     date_published: 'July 12, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/500.jpg?itok=y9VVx36L',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/500.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/500.mp3',
     number_of_acts: 3,
     slug: '/500/500!' },
   { episode_number: '499',
@@ -1845,7 +1845,7 @@
     date_published: 'June 28, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/499.jpg?itok=tiOxxiUA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/499.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/499.mp3',
     number_of_acts: 3,
     slug: '/499/Taking Names' },
   { episode_number: '498',
@@ -1854,7 +1854,7 @@
     date_published: 'June 21, 2013',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/498.jpg?itok=HHDAadh-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/498.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/498.mp3',
     number_of_acts: 4,
     slug: '/498/The One Thing You\'re Not Supposed To Do' },
   { episode_number: '497',
@@ -1864,7 +1864,7 @@
     date_published: 'June 14, 2013',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/497.jpg?itok=vNOJDWsA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/497.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/497.mp3',
     number_of_acts: 8,
     slug: '/497/This Week' },
   { episode_number: '496',
@@ -1873,7 +1873,7 @@
     date_published: 'May 31, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/496.jpg?itok=8bWE7V6T',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/496.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/496.mp3',
     number_of_acts: 3,
     slug: '/496/When Patents Attack... Part Two!' },
   { episode_number: '495',
@@ -1882,7 +1882,7 @@
     date_published: 'May 17, 2013',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/495.jpg?itok=AqHLXKab',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/495.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/495.mp3',
     number_of_acts: 4,
     slug: '/495/Hot In My Backyard' },
   { episode_number: '494',
@@ -1891,7 +1891,7 @@
     date_published: 'May 3, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/494.jpg?itok=eE914M-Z',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/494.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/494.mp3',
     number_of_acts: 4,
     slug: '/494/Hit the Road' },
   { episode_number: '493',
@@ -1901,7 +1901,7 @@
     date_published: 'April 19, 2013',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/493.jpg?itok=oNIEphXz',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/493.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/493.mp3',
     number_of_acts: 3,
     slug: '/493/Picture Show' },
   { episode_number: '492',
@@ -1911,7 +1911,7 @@
     date_published: 'April 12, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/492-landscape.png?itok=DxHYtM86',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/492.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/492.mp3',
     number_of_acts: 3,
     slug: '/492/Dr. Gilmer and Mr. Hyde' },
   { episode_number: '491',
@@ -1920,7 +1920,7 @@
     date_published: 'March 29, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/491.jpg?itok=7t8kfy6B',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/491.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/491.mp3',
     number_of_acts: 4,
     slug: '/491/Tribes' },
   { episode_number: '490',
@@ -1930,7 +1930,7 @@
     date_published: 'March 22, 2013',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/490-landscape.jpg?itok=VKoeKwUR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/490.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/490.mp3',
     number_of_acts: 3,
     slug: '/490/Trends With Benefits' },
   { episode_number: '489',
@@ -1940,7 +1940,7 @@
     date_published: 'March 1, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/489.jpg?itok=epDs9ZLq',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/489.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/489.mp3',
     number_of_acts: 6,
     slug: '/489/No Coincidence, No Story!' },
   { episode_number: '488',
@@ -1950,7 +1950,7 @@
     date_published: 'February 22, 2013',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/harper_high.jpg?itok=AXoTuyFh',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/488.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/488.mp3',
     number_of_acts: 7,
     slug: '/488/Harper High School - Part Two' },
   { episode_number: '487',
@@ -1960,7 +1960,7 @@
     date_published: 'February 15, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/487.jpg?itok=P8cQxnXF',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/487.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/487.mp3',
     number_of_acts: 4,
     slug: '/487/Harper High School - Part One' },
   { episode_number: '486',
@@ -1970,7 +1970,7 @@
     date_published: 'February 8, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/486.jpg?itok=1S1a8kG8',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/486.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/486.mp3',
     number_of_acts: 5,
     slug: '/486/Valentine’s Day' },
   { episode_number: '485',
@@ -1980,7 +1980,7 @@
     date_published: 'January 25, 2013',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/485.jpg?itok=MPLr-2VZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/485.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/485.mp3',
     number_of_acts: 3,
     slug: '/485/Surrogates' },
   { episode_number: '484',
@@ -1990,7 +1990,7 @@
     date_published: 'January 11, 2013',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/484-landscape.jpg?itok=B_4Dbpoo',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/484.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/484.mp3',
     number_of_acts: 3,
     slug: '/484/Doppelgängers' },
   { episode_number: '483',
@@ -1999,7 +1999,7 @@
     date_published: 'January 4, 2013',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/483.jpg?itok=OeJhbNwd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/483.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/483.mp3',
     number_of_acts: 3,
     slug: '/483/Self-Improvement Kick ' },
   { episode_number: '482',
@@ -2009,7 +2009,7 @@
     date_published: 'December 21, 2012',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/482.jpg?itok=QX3cvqDc',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/482.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/482.mp3',
     number_of_acts: 4,
     slug: '/482/Lights, Camera, Christmas!' },
   { episode_number: '481',
@@ -2019,7 +2019,7 @@
     date_published: 'December 7, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/481.jpg?itok=QSCaEzPI',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/481.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/481.mp3',
     number_of_acts: 7,
     slug: '/481/This Week' },
   { episode_number: '480',
@@ -2029,7 +2029,7 @@
     date_published: 'November 30, 2012',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/480.jpg?itok=RxfHWZqS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/480.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/480.mp3',
     number_of_acts: 4,
     slug: '/480/Animal Sacrifice' },
   { episode_number: '479',
@@ -2039,7 +2039,7 @@
     date_published: 'November 23, 2012',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/mankato.jpg?itok=fxPcVCAQ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/479.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/479.mp3',
     number_of_acts: 3,
     slug: '/479/Little War on the Prairie' },
   { episode_number: '478',
@@ -2048,7 +2048,7 @@
     date_published: 'November 2, 2012',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/478.png?itok=h_8JG3QU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/478.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/478.mp3',
     number_of_acts: 3,
     slug: '/478/Red State Blue State' },
   { episode_number: '477',
@@ -2058,7 +2058,7 @@
     date_published: 'October 19, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/477.jpg?itok=OVMSCDBZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/477.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/477.mp3',
     number_of_acts: 5,
     slug: '/477/Getting Away With It' },
   { episode_number: '476',
@@ -2068,7 +2068,7 @@
     date_published: 'October 5, 2012',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/476.jpg?itok=7DIlub-U',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/476.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/476.mp3',
     number_of_acts: 5,
     slug: '/476/What Doesn’t Kill You' },
   { episode_number: '475',
@@ -2077,7 +2077,7 @@
     date_published: 'September 28, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/475.jpg?itok=URw5fr1P',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/475.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/475.mp3',
     number_of_acts: 5,
     slug: '/475/Send a Message' },
   { episode_number: '474',
@@ -2087,7 +2087,7 @@
     date_published: 'September 14, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/474.jpg?itok=lYgadBp8',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/474.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/474.mp3',
     number_of_acts: 3,
     slug: '/474/Back to School' },
   { episode_number: '473',
@@ -2097,7 +2097,7 @@
     date_published: 'August 24, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/473.jpg?itok=pkz6Mf4u',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/473.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/473.mp3',
     number_of_acts: 2,
     slug: '/473/Loopholes' },
   { episode_number: '472',
@@ -2107,7 +2107,7 @@
     date_published: 'August 17, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/472-lg-b.png?itok=0ecERKmS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/472.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/472.mp3',
     number_of_acts: 9,
     slug: '/472/Our Friend David' },
   { episode_number: '471',
@@ -2117,7 +2117,7 @@
     date_published: 'August 10, 2012',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/471.jpg?itok=TeTtXHAU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/471.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/471.mp3',
     number_of_acts: 3,
     slug: '/471/The Convert' },
   { episode_number: '470',
@@ -2127,7 +2127,7 @@
     date_published: 'July 27, 2012',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/470.jpg?itok=O9OhcHdG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/470.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/470.mp3',
     number_of_acts: 3,
     slug: '/470/Show Me the Way' },
   { episode_number: '469',
@@ -2136,7 +2136,7 @@
     date_published: 'July 13, 2012',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/469.jpg?itok=48GfYorg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/469.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/469.mp3',
     number_of_acts: 4,
     slug: '/469/Hiding in Plain Sight' },
   { episode_number: '468',
@@ -2145,7 +2145,7 @@
     date_published: 'June 29, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/468.jpg?itok=zyIO5Y8U',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/468.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/468.mp3',
     number_of_acts: 4,
     slug: '/468/Switcheroo' },
   { episode_number: '467',
@@ -2155,7 +2155,7 @@
     date_published: 'June 22, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/467.jpg?itok=mCCedrzX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/467.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/467.mp3',
     number_of_acts: 3,
     slug: '/467/Americans in China' },
   { episode_number: '466',
@@ -2164,7 +2164,7 @@
     date_published: 'June 8, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/466.jpg?itok=ZlsrgpmM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/466.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/466.mp3',
     number_of_acts: 4,
     slug: '/466/Blackjack' },
   { episode_number: '465',
@@ -2174,7 +2174,7 @@
     date_published: 'May 25, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/465.jpg?itok=mWnhCnJY',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/465.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/465.mp3',
     number_of_acts: 3,
     slug: '/465/What Happened at Dos Erres' },
   { episode_number: '464',
@@ -2184,7 +2184,7 @@
     date_published: 'May 18, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/464.jpg?itok=DzthtAb6',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/464.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/464.mp3',
     number_of_acts: 5,
     slug: '/464/Invisible Made Visible' },
   { episode_number: '463',
@@ -2193,7 +2193,7 @@
     date_published: 'April 27, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/463.jpg?itok=gzeHjDqk',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/463.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/463.mp3',
     number_of_acts: 4,
     slug: '/463/Mortal Vs. Venial' },
   { episode_number: '462',
@@ -2202,7 +2202,7 @@
     date_published: 'April 13, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/462.jpg?itok=w3f00uwL',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/462.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/462.mp3',
     number_of_acts: 4,
     slug: '/462/Own Worst Enemy' },
   { episode_number: '461',
@@ -2212,7 +2212,7 @@
     date_published: 'March 30, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/461.jpg?itok=_bJDUXua',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/461.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/461.mp3',
     number_of_acts: 4,
     slug: '/461/Take the Money and Run for Office' },
   { episode_number: '460',
@@ -2222,7 +2222,7 @@
     date_published: 'March 16, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/460.jpg?itok=awQ4jAdZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/460.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/460.mp3',
     number_of_acts: 4,
     slug: '/460/Retraction' },
   { episode_number: '459',
@@ -2232,7 +2232,7 @@
     date_published: 'March 2, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/459.jpg?itok=PmeGZPxW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/459.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/459.mp3',
     number_of_acts: 4,
     slug: '/459/What Kind of Country' },
   { episode_number: '458',
@@ -2242,7 +2242,7 @@
     date_published: 'February 17, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/458.jpg?itok=qKOBr55_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/458.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/458.mp3',
     number_of_acts: 3,
     slug: '/458/Play the Part' },
   { episode_number: '457',
@@ -2252,7 +2252,7 @@
     date_published: 'February 10, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/457.jpg?itok=SOQEcpVt',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/457.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/457.mp3',
     number_of_acts: 5,
     slug: '/457/What I Did For Love' },
   { episode_number: '456',
@@ -2262,7 +2262,7 @@
     date_published: 'January 27, 2012',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/456.jpg?itok=LVZQjbzZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/456.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/456.mp3',
     number_of_acts: 3,
     slug: '/456/Reap What You Sow' },
   { episode_number: '455',
@@ -2271,7 +2271,7 @@
     date_published: 'January 20, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/455.jpg?itok=kOK8ZLu4',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/455.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/455.mp3',
     number_of_acts: 6,
     slug: '/455/Continental Breakup' },
   { episode_number: '454',
@@ -2281,7 +2281,7 @@
     date_published: 'January 6, 2012',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/454.jpg?itok=bNo5OZrv',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/454.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/454.mp3',
     number_of_acts: 4,
     slug: '/454/Mr. Daisey and the Apple Factory' },
   { episode_number: '453',
@@ -2290,7 +2290,7 @@
     date_published: 'December 16, 2011',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/453.jpg?itok=F4I6-J2p',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/453.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/453.mp3',
     number_of_acts: 3,
     slug: '/453/Nemeses' },
   { episode_number: '452',
@@ -2300,7 +2300,7 @@
     date_published: 'December 2, 2011',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/452.jpg?itok=s88iVnsb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/452.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/452.mp3',
     number_of_acts: 4,
     slug: '/452/Poultry Slam 2011' },
   { episode_number: '451',
@@ -2309,7 +2309,7 @@
     date_published: 'November 18, 2011',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/451.jpg?itok=ZWdSXjao',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/451.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/451.mp3',
     number_of_acts: 3,
     slug: '/451/Back to Penn State' },
   { episode_number: '450',
@@ -2319,7 +2319,7 @@
     date_published: 'November 11, 2011',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/450.jpg?itok=6K1oz16e',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/450.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/450.mp3',
     number_of_acts: 3,
     slug: '/450/So Crazy It Just Might Work' },
   { episode_number: '449',
@@ -2329,7 +2329,7 @@
     date_published: 'October 28, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/449.jpg?itok=EHyxx9Rn',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/449.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/449.mp3',
     number_of_acts: 7,
     slug: '/449/Middle School' },
   { episode_number: '448',
@@ -2338,7 +2338,7 @@
     date_published: 'October 7, 2011',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/448.jpg?itok=dT0ysije',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/448.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/448.mp3',
     number_of_acts: 3,
     slug: '/448/Adventure!' },
   { episode_number: '447',
@@ -2348,7 +2348,7 @@
     date_published: 'September 23, 2011',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/447.jpg?itok=QbwvHPUB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/447.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/447.mp3',
     number_of_acts: 3,
     slug: '/447/The Incredible Case of the P.I. Moms' },
   { episode_number: '446',
@@ -2358,7 +2358,7 @@
     date_published: 'September 16, 2011',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/446.jpg?itok=DFC6c_r9',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/446.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/446.mp3',
     number_of_acts: 5,
     slug: '/446/Living Without (2011)' },
   { episode_number: '445',
@@ -2368,7 +2368,7 @@
     date_published: 'September 9, 2011',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/445.jpg?itok=Bjkk3XTF',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/445.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/445.mp3',
     number_of_acts: 7,
     slug: '/445/Ten Years In' },
   { episode_number: '444',
@@ -2378,7 +2378,7 @@
     date_published: 'August 26, 2011',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/444-landscape.jpg?itok=_pJvlx05',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/444.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/444.mp3',
     number_of_acts: 3,
     slug: '/444/Gossip' },
   { episode_number: '443',
@@ -2388,7 +2388,7 @@
     date_published: 'August 12, 2011',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/443.jpg?itok=Vqp0RlVS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/443.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/443.mp3',
     number_of_acts: 4,
     slug: '/443/Amusement Park' },
   { episode_number: '442',
@@ -2397,7 +2397,7 @@
     date_published: 'July 29, 2011',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/442.jpg?itok=uiUUhi_V',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/442.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/442.mp3',
     number_of_acts: 3,
     slug: '/442/Thugs' },
   { episode_number: '441',
@@ -2407,7 +2407,7 @@
     date_published: 'July 22, 2011',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/441.jpg?itok=WBb_q-WQ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/441.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/441.mp3',
     number_of_acts: 3,
     slug: '/441/When Patents Attack!' },
   { episode_number: '440',
@@ -2417,7 +2417,7 @@
     date_published: 'July 8, 2011',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/440.jpg?itok=nxJWXzx-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/440.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/440.mp3',
     number_of_acts: 3,
     slug: '/440/Game Changer' },
   { episode_number: '439',
@@ -2426,7 +2426,7 @@
     date_published: 'June 24, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/439.jpg?itok=p_Qjeikp',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/439.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/439.mp3',
     number_of_acts: 4,
     slug: '/439/A House Divided' },
   { episode_number: '438',
@@ -2436,7 +2436,7 @@
     date_published: 'June 17, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/438.jpg?itok=V61-wz3E',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/438.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/438.mp3',
     number_of_acts: 5,
     slug: '/438/Father\'s Day 2011' },
   { episode_number: '437',
@@ -2445,7 +2445,7 @@
     date_published: 'June 3, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/437.jpg?itok=D5V4-9fG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/437.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/437.mp3',
     number_of_acts: 3,
     slug: '/437/Old Boys Network' },
   { episode_number: '436',
@@ -2455,7 +2455,7 @@
     date_published: 'May 27, 2011',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/436.jpg?itok=_vDGsP5N',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/436.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/436.mp3',
     number_of_acts: 4,
     slug: '/436/The Psychopath Test' },
   { episode_number: '435',
@@ -2464,7 +2464,7 @@
     date_published: 'May 13, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/435.jpg?itok=lS-eTKgK',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/435.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/435.mp3',
     number_of_acts: 5,
     slug: '/435/How To Create a Job' },
   { episode_number: '434',
@@ -2474,7 +2474,7 @@
     date_published: 'May 6, 2011',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/434.jpg?itok=rNaPe0ew',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/434.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/434.mp3',
     number_of_acts: 8,
     slug: '/434/This Week' },
   { episode_number: '433',
@@ -2483,7 +2483,7 @@
     date_published: 'April 15, 2011',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/433.jpg?itok=Y69BQf8H',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/433.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/433.mp3',
     number_of_acts: 5,
     slug: '/433/Fine Print 2011' },
   { episode_number: '432',
@@ -2493,7 +2493,7 @@
     date_published: 'April 8, 2011',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/432.jpg?itok=ivaluraU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/432.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/432.mp3',
     number_of_acts: 5,
     slug: '/432/Know When To Fold ‘Em' },
   { episode_number: '431',
@@ -2502,7 +2502,7 @@
     date_published: 'April 1, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/431.jpg?itok=LikOIb5B',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/431.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/431.mp3',
     number_of_acts: 4,
     slug: '/431/See No Evil' },
   { episode_number: '430',
@@ -2512,7 +2512,7 @@
     date_published: 'March 25, 2011',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/430.jpg?itok=926MQtv-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/430.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/430.mp3',
     number_of_acts: 2,
     slug: '/430/Very Tough Love' },
   { episode_number: '429',
@@ -2522,7 +2522,7 @@
     date_published: 'March 11, 2011',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/429.jpg?itok=--XTz8qb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/429.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/429.mp3',
     number_of_acts: 3,
     slug: '/429/Will They Know Me Back Home?' },
   { episode_number: '428',
@@ -2532,7 +2532,7 @@
     date_published: 'March 4, 2011',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/428.jpg?itok=ZZxGyivx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/428.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/428.mp3',
     number_of_acts: 5,
     slug: '/428/Oh You Shouldn\'t Have' },
   { episode_number: '427',
@@ -2542,7 +2542,7 @@
     date_published: 'February 11, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/427.png?itok=UeiSfcj9',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/427.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/427.mp3',
     number_of_acts: 2,
     slug: '/427/Original Recipe' },
   { episode_number: '426',
@@ -2552,7 +2552,7 @@
     date_published: 'February 4, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/426.jpg?itok=gCy7FZS1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/426.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/426.mp3',
     number_of_acts: 5,
     slug: '/426/Tough Room 2011' },
   { episode_number: '425',
@@ -2562,7 +2562,7 @@
     date_published: 'January 21, 2011',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/425.jpg?itok=ULm6IMRC',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/425.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/425.mp3',
     number_of_acts: 4,
     slug: '/425/Slow To React' },
   { episode_number: '424',
@@ -2572,7 +2572,7 @@
     date_published: 'January 14, 2011',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/424.jpg?itok=yCSedUsz',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/424.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/424.mp3',
     number_of_acts: 4,
     slug: '/424/Kid Politics' },
   { episode_number: '423',
@@ -2582,7 +2582,7 @@
     date_published: 'January 7, 2011',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/423.jpg?itok=wAL7P85x',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/423.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/423.mp3',
     number_of_acts: 3,
     slug: '/423/The Invention of Money' },
   { episode_number: '422',
@@ -2592,7 +2592,7 @@
     date_published: 'December 17, 2010',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/422.jpg?itok=2W6OwjNp',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/422.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/422.mp3',
     number_of_acts: 7,
     slug: '/422/Comedians of Christmas Comedy Special' },
   { episode_number: '421',
@@ -2602,7 +2602,7 @@
     date_published: 'December 3, 2010',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/421.jpg?itok=jg9a7OW9',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/421.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/421.mp3',
     number_of_acts: 3,
     slug: '/421/Last Man Standing' },
   { episode_number: '420',
@@ -2611,7 +2611,7 @@
     date_published: 'November 19, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/420.jpg?itok=jEFLgSVp',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/420.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/420.mp3',
     number_of_acts: 5,
     slug: '/420/Neighborhood Watch' },
   { episode_number: '419',
@@ -2621,7 +2621,7 @@
     date_published: 'November 12, 2010',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/raucci-16x9.jpg?itok=JO7rvu7p',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/419.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/419.mp3',
     number_of_acts: 3,
     slug: '/419/Petty Tyrant' },
   { episode_number: '418',
@@ -2631,7 +2631,7 @@
     date_published: 'November 5, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/418.png?itok=wjcG_91_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/418.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/418.mp3',
     number_of_acts: 6,
     slug: '/418/Toxie' },
   { episode_number: '417',
@@ -2640,7 +2640,7 @@
     date_published: 'October 29, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/417.jpg?itok=bKErwiYX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/417.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/417.mp3',
     number_of_acts: 3,
     slug: '/417/This Party Sucks' },
   { episode_number: '416',
@@ -2649,7 +2649,7 @@
     date_published: 'October 15, 2010',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/416.jpg?itok=0gnI2kYS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/416.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/416.mp3',
     number_of_acts: 5,
     slug: '/416/Iraq After Us' },
   { episode_number: '415',
@@ -2658,7 +2658,7 @@
     date_published: 'September 24, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/415.jpg?itok=yOAAI4xm',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/415.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/415.mp3',
     number_of_acts: 5,
     slug: '/415/Crybabies' },
   { episode_number: '414',
@@ -2668,7 +2668,7 @@
     date_published: 'September 10, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/414.jpg?itok=5GXSAcQE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/414.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/414.mp3',
     number_of_acts: 3,
     slug: '/414/Right to Remain Silent' },
   { episode_number: '413',
@@ -2677,7 +2677,7 @@
     date_published: 'July 30, 2010',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/413.jpg?itok=boMPIQOg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/413.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/413.mp3',
     number_of_acts: 8,
     slug: '/413/Georgia Rambler' },
   { episode_number: '412',
@@ -2687,7 +2687,7 @@
     date_published: 'July 16, 2010',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/412.jpg?itok=1n9MYjNP',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/412.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/412.mp3',
     number_of_acts: 5,
     slug: '/412/Million Dollar Idea' },
   { episode_number: '411',
@@ -2696,7 +2696,7 @@
     date_published: 'June 25, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/411.jpg?itok=1Y8Zcqlz',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/411.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/411.mp3',
     number_of_acts: 4,
     slug: '/411/First Contact' },
   { episode_number: '410',
@@ -2705,7 +2705,7 @@
     date_published: 'June 18, 2010',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/410.JPG?itok=qN7UN0dz',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/410.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/410.mp3',
     number_of_acts: 3,
     slug: '/410/Social Contract' },
   { episode_number: '409',
@@ -2715,7 +2715,7 @@
     date_published: 'June 4, 2010',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/409.jpg?itok=raKR7Ev0',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/409.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/409.mp3',
     number_of_acts: 4,
     slug: '/409/Held Hostage' },
   { episode_number: '408',
@@ -2725,7 +2725,7 @@
     date_published: 'May 21, 2010',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/istock-936558120.jpg?itok=eCa1mrKy',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/408.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/408.mp3',
     number_of_acts: 4,
     slug: '/408/Island Time ' },
   { episode_number: '407',
@@ -2734,7 +2734,7 @@
     date_published: 'May 7, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/407.jpg?itok=a7r-K41Q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/407.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/407.mp3',
     number_of_acts: 4,
     slug: '/407/The Bridge' },
   { episode_number: '406',
@@ -2744,7 +2744,7 @@
     date_published: 'April 23, 2010',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/406.jpg?itok=KTqWHBN2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/406.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/406.mp3',
     number_of_acts: 4,
     slug: '/406/True Urban Legends ' },
   { episode_number: '405',
@@ -2754,7 +2754,7 @@
     date_published: 'April 9, 2010',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/405.jpg?itok=odHt_Qdb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/405.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/405.mp3',
     number_of_acts: 3,
     slug: '/405/Inside Job' },
   { episode_number: '404',
@@ -2764,7 +2764,7 @@
     date_published: 'April 2, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/404.jpg?itok=MELqPx6E',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/404.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/404.mp3',
     number_of_acts: 5,
     slug: '/404/Enemy Camp (2010)' },
   { episode_number: '403',
@@ -2774,7 +2774,7 @@
     date_published: 'March 26, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/403.jpg?itok=0SPaUXRR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/403.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/403.mp3',
     number_of_acts: 3,
     slug: '/403/NUMMI (2010)' },
   { episode_number: '402',
@@ -2784,7 +2784,7 @@
     date_published: 'March 12, 2010',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/402.jpg?itok=lvA0k22M',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/402.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/402.mp3',
     number_of_acts: 3,
     slug: '/402/Save the Day' },
   { episode_number: '401',
@@ -2793,7 +2793,7 @@
     date_published: 'February 19, 2010',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/401.png?itok=gQoicghE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/401.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/401.mp3',
     number_of_acts: 3,
     slug: '/401/Parent Trap' },
   { episode_number: '400',
@@ -2803,7 +2803,7 @@
     date_published: 'February 12, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/400.jpg?itok=zajsh7vq',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/400.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/400.mp3',
     number_of_acts: 7,
     slug: '/400/Stories Pitched by Our Parents' },
   { episode_number: '399',
@@ -2812,7 +2812,7 @@
     date_published: 'January 22, 2010',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/399.jpg?itok=xCwnmXEf',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/399.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/399.mp3',
     number_of_acts: 4,
     slug: '/399/Contents Unknown' },
   { episode_number: '398',
@@ -2822,7 +2822,7 @@
     date_published: 'January 8, 2010',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/398.jpg?itok=6RX9lt0O',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/398.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/398.mp3',
     number_of_acts: 3,
     slug: '/398/Long Shot' },
   { episode_number: '397',
@@ -2831,7 +2831,7 @@
     date_published: 'January 1, 2010',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/397.jpg?itok=GKumBBr7',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/397.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/397.mp3',
     number_of_acts: 6,
     slug: '/397/2010' },
   { episode_number: '396',
@@ -2840,7 +2840,7 @@
     date_published: 'December 18, 2009',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/396.jpg?itok=5XKjbBPZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/396.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/396.mp3',
     number_of_acts: 5,
     slug: '/396/#1 Party School' },
   { episode_number: '395',
@@ -2849,7 +2849,7 @@
     date_published: 'November 27, 2009',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/395.jpg?itok=CUWMO67_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/395.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/395.mp3',
     number_of_acts: 6,
     slug: '/395/Middle of the Night' },
   { episode_number: '394',
@@ -2858,7 +2858,7 @@
     date_published: 'November 6, 2009',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/394.jpg?itok=qoGZQGBE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/394.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/394.mp3',
     number_of_acts: 5,
     slug: '/394/Bait and Switch' },
   { episode_number: '393',
@@ -2867,7 +2867,7 @@
     date_published: 'October 30, 2009',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/393.jpg?itok=z1jy6vVW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/393.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/393.mp3',
     number_of_acts: 5,
     slug: '/393/Infidelity' },
   { episode_number: '392',
@@ -2876,7 +2876,7 @@
     date_published: 'October 16, 2009',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/392.jpg?itok=eEONIS9i',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/392.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/392.mp3',
     number_of_acts: 5,
     slug: '/392/Someone Else\'s Money' },
   { episode_number: '391',
@@ -2886,7 +2886,7 @@
     date_published: 'October 9, 2009',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/391.jpg?itok=qpofhalw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/391.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/391.mp3',
     number_of_acts: 5,
     slug: '/391/More Is Less' },
   { episode_number: '390',
@@ -2896,7 +2896,7 @@
     date_published: 'September 25, 2009',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/390.jpg?itok=cL8-RhyB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/390.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/390.mp3',
     number_of_acts: 3,
     slug: '/390/Return To The Giant Pool of Money' },
   { episode_number: '389',
@@ -2906,7 +2906,7 @@
     date_published: 'September 11, 2009',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/389.jpg?itok=dDeXABmP',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/389.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/389.mp3',
     number_of_acts: 6,
     slug: '/389/Frenemies' },
   { episode_number: '388',
@@ -2916,7 +2916,7 @@
     date_published: 'September 4, 2009',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/uncropped/public/extras/rest_stop_5.jpg?itok=UKK4wJea',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/388.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/388.mp3',
     number_of_acts: 2,
     slug: '/388/Rest Stop' },
   { episode_number: '387',
@@ -2926,7 +2926,7 @@
     date_published: 'August 7, 2009',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/387.jpg?itok=dcOu0szO',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/387.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/387.mp3',
     number_of_acts: 4,
     slug: '/387/Arms Trader (2009)' },
   { episode_number: '386',
@@ -2935,7 +2935,7 @@
     date_published: 'July 24, 2009',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/386.jpg?itok=vAnyH-ts',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/386.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/386.mp3',
     number_of_acts: 5,
     slug: '/386/Fine Print' },
   { episode_number: '385',
@@ -2944,7 +2944,7 @@
     date_published: 'July 10, 2009',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/385.jpg?itok=2VXB4QNi',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/385.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/385.mp3',
     number_of_acts: 5,
     slug: '/385/Pro Se' },
   { episode_number: '384',
@@ -2953,7 +2953,7 @@
     date_published: 'June 26, 2009',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/384.jpg?itok=NwEe9Zck',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/384.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/384.mp3',
     number_of_acts: 5,
     slug: '/384/Fall Guy' },
   { episode_number: '383',
@@ -2963,7 +2963,7 @@
     date_published: 'June 19, 2009',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/383.jpg?itok=I-uroZ1a',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/383.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/383.mp3',
     number_of_acts: 5,
     slug: '/383/Origin Story (2009)' },
   { episode_number: '382',
@@ -2973,7 +2973,7 @@
     date_published: 'June 5, 2009',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/382-landscape_0.png?itok=EnHFKCFd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/382.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/382.mp3',
     number_of_acts: 3,
     slug: '/382/The Watchmen' },
   { episode_number: '381',
@@ -2982,7 +2982,7 @@
     date_published: 'May 22, 2009',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/381.jpg?itok=WBBVyimA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/381.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/381.mp3',
     number_of_acts: 5,
     slug: '/381/Turncoat' },
   { episode_number: '380',
@@ -2991,7 +2991,7 @@
     date_published: 'May 15, 2009',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/380.jpg?itok=IvjGHOMi',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/380.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/380.mp3',
     number_of_acts: 3,
     slug: '/380/No Map' },
   { episode_number: '379',
@@ -3001,7 +3001,7 @@
     date_published: 'May 1, 2009',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/379.png?itok=JqaEIWaH',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/379.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/379.mp3',
     number_of_acts: 4,
     slug: '/379/Return to the Scene of the Crime' },
   { episode_number: '378',
@@ -3010,7 +3010,7 @@
     date_published: 'April 17, 2009',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/378.jpg?itok=RdBVUQaq',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/378.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/378.mp3',
     number_of_acts: 5,
     slug: '/378/This I Used to Believe' },
   { episode_number: '377',
@@ -3019,7 +3019,7 @@
     date_published: 'March 27, 2009',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/377.jpg?itok=wKDGOg0r',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/377.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/377.mp3',
     number_of_acts: 4,
     slug: '/377/Scenes From a Recession' },
   { episode_number: '376',
@@ -3028,7 +3028,7 @@
     date_published: 'March 13, 2009',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/376.jpg?itok=finSxtCp',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/376.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/376.mp3',
     number_of_acts: 5,
     slug: '/376/Wrong Side of History' },
   { episode_number: '375',
@@ -3037,7 +3037,7 @@
     date_published: 'February 27, 2009',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/375.jpg?itok=hJY-Okye',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/375.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/375.mp3',
     number_of_acts: 4,
     slug: '/375/Bad Bank' },
   { episode_number: '374',
@@ -3047,7 +3047,7 @@
     date_published: 'February 13, 2009',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/374-landscape.jpg?itok=r3_8L-nV',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/374.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/374.mp3',
     number_of_acts: 3,
     slug: '/374/Somewhere Out There' },
   { episode_number: '373',
@@ -3056,7 +3056,7 @@
     date_published: 'January 30, 2009',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/373.jpg?itok=f5vvXlaE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/373.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/373.mp3',
     number_of_acts: 5,
     slug: '/373/The New Boss' },
   { episode_number: '372',
@@ -3066,7 +3066,7 @@
     date_published: 'January 16, 2009',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/372.jpg?itok=r6Q-51MJ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/372.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/372.mp3',
     number_of_acts: 7,
     slug: '/372/The Inauguration Show' },
   { episode_number: '371',
@@ -3075,7 +3075,7 @@
     date_published: 'December 26, 2008',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/371.jpg?itok=gwrAEmCj',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/371.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/371.mp3',
     number_of_acts: 5,
     slug: '/371/Scenes From a Mall' },
   { episode_number: '370',
@@ -3084,7 +3084,7 @@
     date_published: 'December 19, 2008',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/370.JPG?itok=Z-rcnKeR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/370.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/370.mp3',
     number_of_acts: 4,
     slug: '/370/Ruining It for the Rest of Us' },
   { episode_number: '369',
@@ -3094,7 +3094,7 @@
     date_published: 'November 28, 2008',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/369.jpg?itok=jDYboA01',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/369.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/369.mp3',
     number_of_acts: 6,
     slug: '/369/Poultry Slam 2008' },
   { episode_number: '368',
@@ -3103,7 +3103,7 @@
     date_published: 'November 7, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/368.jpg?itok=bI0S0UfM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/368.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/368.mp3',
     number_of_acts: 4,
     slug: '/368/Who Do You Think You Are?' },
   { episode_number: '367',
@@ -3113,7 +3113,7 @@
     date_published: 'October 24, 2008',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/367.jpg?itok=7GwZa79q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/367.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/367.mp3',
     number_of_acts: 6,
     slug: '/367/Ground Game' },
   { episode_number: '366',
@@ -3123,7 +3123,7 @@
     date_published: 'October 10, 2008',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/366.jpg?itok=_pH2vD70',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/366.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/366.mp3',
     number_of_acts: 5,
     slug: '/366/A Better Mousetrap (2008)' },
   { episode_number: '365',
@@ -3133,7 +3133,7 @@
     date_published: 'October 3, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/365.jpg?itok=vaJJ-oMs',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/365.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/365.mp3',
     number_of_acts: 5,
     slug: '/365/Another Frightening Show About the Economy' },
   { episode_number: '364',
@@ -3142,7 +3142,7 @@
     date_published: 'September 26, 2008',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/364.jpg?itok=XySivRkg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/364.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/364.mp3',
     number_of_acts: 4,
     slug: '/364/Going Big' },
   { episode_number: '363',
@@ -3151,7 +3151,7 @@
     date_published: 'September 12, 2008',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/363.jpg?itok=-hcM2VA2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/363.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/363.mp3',
     number_of_acts: 3,
     slug: '/363/Enforcers' },
   { episode_number: '362',
@@ -3161,7 +3161,7 @@
     date_published: 'August 22, 2008',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/362.jpg?itok=Kno3y5go',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/362.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/362.mp3',
     number_of_acts: 5,
     slug: '/362/Got You Pegged' },
   { episode_number: '361',
@@ -3171,7 +3171,7 @@
     date_published: 'August 8, 2008',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/361.jpg?itok=6iJfZTbi',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/361.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/361.mp3',
     number_of_acts: 6,
     slug: '/361/Fear of Sleep' },
   { episode_number: '360',
@@ -3181,7 +3181,7 @@
     date_published: 'July 25, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/owen_freeman_switched_at_birth_final.jpg?itok=3a07e5tX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/360.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/360.mp3',
     number_of_acts: 3,
     slug: '/360/Switched at Birth' },
   { episode_number: '359',
@@ -3190,7 +3190,7 @@
     date_published: 'July 18, 2008',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/359.jpg?itok=C08pRLfS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/359.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/359.mp3',
     number_of_acts: 3,
     slug: '/359/Life After Death' },
   { episode_number: '358',
@@ -3199,7 +3199,7 @@
     date_published: 'June 27, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/358.jpg?itok=Zl05z2y-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/358.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/358.mp3',
     number_of_acts: 4,
     slug: '/358/Social Engineering' },
   { episode_number: '357',
@@ -3208,7 +3208,7 @@
     date_published: 'June 13, 2008',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/357.jpg?itok=Dcsnrdiv',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/357.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/357.mp3',
     number_of_acts: 4,
     slug: '/357/The Truth Will Out' },
   { episode_number: '356',
@@ -3217,7 +3217,7 @@
     date_published: 'May 30, 2008',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/356.jpg?itok=X_uuTGGM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/356.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/356.mp3',
     number_of_acts: 3,
     slug: '/356/The Prosecutor' },
   { episode_number: '355',
@@ -3227,7 +3227,7 @@
     date_published: 'May 9, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/355.jpg?itok=AdaiX611',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/355.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/355.mp3',
     number_of_acts: 3,
     slug: '/355/The Giant Pool of Money' },
   { episode_number: '354',
@@ -3237,7 +3237,7 @@
     date_published: 'April 18, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/cryonics-mistakes_were_made-show_image.jpg?itok=B0PJShxI',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/354.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/354.mp3',
     number_of_acts: 3,
     slug: '/354/Mistakes Were Made' },
   { episode_number: '353',
@@ -3246,7 +3246,7 @@
     date_published: 'March 28, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/353.jpg?itok=Mi98F3eZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/353.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/353.mp3',
     number_of_acts: 4,
     slug: '/353/The Audacity of Government' },
   { episode_number: '352',
@@ -3256,7 +3256,7 @@
     date_published: 'March 14, 2008',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/352.jpg?itok=iCz3DzMY',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/352.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/352.mp3',
     number_of_acts: 3,
     slug: '/352/The Ghost of Bobby Dunbar' },
   { episode_number: '351',
@@ -3266,7 +3266,7 @@
     date_published: 'March 7, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal841948478.jpg?itok=LT-xxqld',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/351.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/351.mp3',
     number_of_acts: 5,
     slug: '/351/Return to Childhood' },
   { episode_number: '350',
@@ -3275,7 +3275,7 @@
     date_published: 'February 29, 2008',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/350.jpg?itok=EcOmVVNR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/350.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/350.mp3',
     number_of_acts: 4,
     slug: '/350/Human Resources' },
   { episode_number: '349',
@@ -3284,7 +3284,7 @@
     date_published: 'February 15, 2008',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/349.jpg?itok=4iAERJOx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/349.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/349.mp3',
     number_of_acts: 4,
     slug: '/349/Valentine’s Day 2008' },
   { episode_number: '348',
@@ -3293,7 +3293,7 @@
     date_published: 'February 8, 2008',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/348.png?itok=Zj6l_AcY',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/348.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/348.mp3',
     number_of_acts: 5,
     slug: '/348/Tough Room' },
   { episode_number: '347',
@@ -3302,7 +3302,7 @@
     date_published: 'January 18, 2008',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/347.jpg?itok=5mg4YYZB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/347.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/347.mp3',
     number_of_acts: 4,
     slug: '/347/Matchmakers' },
   { episode_number: '346',
@@ -3311,7 +3311,7 @@
     date_published: 'December 21, 2007',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/346.jpg?itok=46v9yQWG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/346.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/346.mp3',
     number_of_acts: 4,
     slug: '/346/Home Alone' },
   { episode_number: '345',
@@ -3320,7 +3320,7 @@
     date_published: 'December 14, 2007',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/345.jpg?itok=-9nJQRL0',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/345.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/345.mp3',
     number_of_acts: 5,
     slug: '/345/Ties That Bind' },
   { episode_number: '344',
@@ -3329,7 +3329,7 @@
     date_published: 'November 30, 2007',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/344.jpg?itok=dnw5y1bJ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/344.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/344.mp3',
     number_of_acts: 3,
     slug: '/344/The Competition' },
   { episode_number: '343',
@@ -3338,7 +3338,7 @@
     date_published: 'November 23, 2007',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/343.jpg?itok=fcDPqnSl',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/343.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/343.mp3',
     number_of_acts: 5,
     slug: '/343/Poultry Slam 2007' },
   { episode_number: '342',
@@ -3348,7 +3348,7 @@
     date_published: 'November 2, 2007',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/342.jpg?itok=kLkrPyEk',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/342.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/342.mp3',
     number_of_acts: 3,
     slug: '/342/How to Rest in Peace' },
   { episode_number: '341',
@@ -3358,7 +3358,7 @@
     date_published: 'October 5, 2007',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/341.jpg?itok=exLXADsJ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/341.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/341.mp3',
     number_of_acts: 4,
     slug: '/341/How to Talk to Kids' },
   { episode_number: '340',
@@ -3367,7 +3367,7 @@
     date_published: 'September 7, 2007',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/340.jpg?itok=I7zk3TAW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/340.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/340.mp3',
     number_of_acts: 4,
     slug: '/340/The Devil in Me' },
   { episode_number: '339',
@@ -3377,7 +3377,7 @@
     date_published: 'August 24, 2007',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/breakingup_anna_parini_0.jpeg?itok=gyQmq8bA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/339.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/339.mp3',
     number_of_acts: 5,
     slug: '/339/Break-Up' },
   { episode_number: '338',
@@ -3386,7 +3386,7 @@
     date_published: 'August 10, 2007',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/338.jpg?itok=KZE4JJ1_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/338.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/338.mp3',
     number_of_acts: 4,
     slug: '/338/The Spokesman' },
   { episode_number: '337',
@@ -3395,7 +3395,7 @@
     date_published: 'July 27, 2007',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/337.jpg?itok=29qjPp5y',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/337.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/337.mp3',
     number_of_acts: 3,
     slug: '/337/Man vs. History' },
   { episode_number: '336',
@@ -3405,7 +3405,7 @@
     date_published: 'July 6, 2007',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/336.jpg?itok=8TnxEzia',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/336.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/336.mp3',
     number_of_acts: 4,
     slug: '/336/Who Can You Save?' },
   { episode_number: '335',
@@ -3415,7 +3415,7 @@
     date_published: 'June 15, 2007',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/335.jpg?itok=1V5xTvJp',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/335.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/335.mp3',
     number_of_acts: 4,
     slug: '/335/Big Wide World' },
   { episode_number: '334',
@@ -3425,7 +3425,7 @@
     date_published: 'June 1, 2007',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/334.jpg?itok=NqmQvK3A',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/334.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/334.mp3',
     number_of_acts: 3,
     slug: '/334/Duty Calls' },
   { episode_number: '333',
@@ -3435,7 +3435,7 @@
     date_published: 'May 25, 2007',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/333.jpg?itok=MJGDV5kx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/333.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/333.mp3',
     number_of_acts: 5,
     slug: '/333/The Center for Lessons Learned' },
   { episode_number: '332',
@@ -3445,7 +3445,7 @@
     date_published: 'May 4, 2007',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/332.jpg?itok=rMuQM_Lw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/332.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/332.mp3',
     number_of_acts: 9,
     slug: '/332/The Ten Commandments' },
   { episode_number: '331',
@@ -3455,7 +3455,7 @@
     date_published: 'April 27, 2007',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/331.jpg?itok=Z3ZhD3bm',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/331.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/331.mp3',
     number_of_acts: 4,
     slug: '/331/Habeas Schmabeas (2007)' },
   { episode_number: '330',
@@ -3464,7 +3464,7 @@
     date_published: 'April 13, 2007',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/330.jpg?itok=OJX7XKVB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/330.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/330.mp3',
     number_of_acts: 3,
     slug: '/330/My Reputation' },
   { episode_number: '329',
@@ -3473,7 +3473,7 @@
     date_published: 'April 6, 2007',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/329.jpg?itok=hxA3k3nF',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/329.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/329.mp3',
     number_of_acts: 5,
     slug: '/329/Nice Work If You Can Get It' },
   { episode_number: '328',
@@ -3483,7 +3483,7 @@
     date_published: 'March 16, 2007',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/328.jpg?itok=NkSGdyyA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/328.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/328.mp3',
     number_of_acts: 5,
     slug: '/328/What I Learned from Television' },
   { episode_number: '327',
@@ -3492,7 +3492,7 @@
     date_published: 'March 9, 2007',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/327.jpg?itok=CMEDZlMf',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/327.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/327.mp3',
     number_of_acts: 4,
     slug: '/327/By Proxy' },
   { episode_number: '326',
@@ -3501,7 +3501,7 @@
     date_published: 'February 16, 2007',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/326.jpg?itok=yIX_Uwmn',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/326.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/326.mp3',
     number_of_acts: 4,
     slug: '/326/Quiz Show' },
   { episode_number: '325',
@@ -3510,7 +3510,7 @@
     date_published: 'February 2, 2007',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/325.jpg?itok=cLZJPPcl',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/325.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/325.mp3',
     number_of_acts: 4,
     slug: '/325/Houses of Ill Repute' },
   { episode_number: '324',
@@ -3520,7 +3520,7 @@
     date_published: 'January 26, 2007',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/324.jpg?itok=t-MIxlhb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/324.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/324.mp3',
     number_of_acts: 3,
     slug: '/324/My Brilliant Plan' },
   { episode_number: '323',
@@ -3529,7 +3529,7 @@
     date_published: 'January 5, 2007',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/323.jpg?itok=u9JqLhJk',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/323.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/323.mp3',
     number_of_acts: 4,
     slug: '/323/The Super' },
   { episode_number: '322',
@@ -3539,7 +3539,7 @@
     date_published: 'December 15, 2006',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/322.jpg?itok=jhfVZ0Tu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/322.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/322.mp3',
     number_of_acts: 3,
     slug: '/322/Shouting Across the Divide' },
   { episode_number: '321',
@@ -3549,7 +3549,7 @@
     date_published: 'December 1, 2006',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/321.jpg?itok=8ZiXwmFF',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/321.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/321.mp3',
     number_of_acts: 4,
     slug: '/321/Sink or Swim' },
   { episode_number: '320',
@@ -3559,7 +3559,7 @@
     date_published: 'November 3, 2006',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/320.jpg?itok=4wU0kQNj',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/320.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/320.mp3',
     number_of_acts: 4,
     slug: '/320/What’s In A Number? — 2006 Edition' },
   { episode_number: '319',
@@ -3569,7 +3569,7 @@
     date_published: 'October 27, 2006',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/319.jpg?itok=_Qi5Jx5u',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/319.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/319.mp3',
     number_of_acts: 5,
     slug: '/319/And the Call Was Coming from the Basement' },
   { episode_number: '318',
@@ -3578,7 +3578,7 @@
     date_published: 'October 6, 2006',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/318.jpg?itok=1bFIJlkR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/318.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/318.mp3',
     number_of_acts: 4,
     slug: '/318/With Great Power' },
   { episode_number: '317',
@@ -3588,7 +3588,7 @@
     date_published: 'September 15, 2006',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/317.jpg?itok=EQ_TRHEu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/317.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/317.mp3',
     number_of_acts: 3,
     slug: '/317/Unconditional Love' },
   { episode_number: '316',
@@ -3597,7 +3597,7 @@
     date_published: 'August 18, 2006',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/316.jpg?itok=_F_OPtpd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/316.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/316.mp3',
     number_of_acts: 5,
     slug: '/316/The Cat Came Back' },
   { episode_number: '315',
@@ -3606,7 +3606,7 @@
     date_published: 'July 21, 2006',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/315.jpg?itok=j2h5WtKG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/315.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/315.mp3',
     number_of_acts: 4,
     slug: '/315/The Parrot and the Potbellied Pig' },
   { episode_number: '314',
@@ -3616,7 +3616,7 @@
     date_published: 'June 23, 2006',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/314.jpg?itok=4PIBm7vW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/314.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/314.mp3',
     number_of_acts: 5,
     slug: '/314/It\'s Never Over' },
   { episode_number: '313',
@@ -3626,7 +3626,7 @@
     date_published: 'May 19, 2006',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/313.jpg?itok=kDLN1inb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/313.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/313.mp3',
     number_of_acts: 4,
     slug: '/313/Parental Guidance Suggested' },
   { episode_number: '312',
@@ -3636,7 +3636,7 @@
     date_published: 'May 12, 2006',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/312.jpg?itok=MOnIWqkD',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/312.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/312.mp3',
     number_of_acts: 3,
     slug: '/312/How We Talked Back Then' },
   { episode_number: '311',
@@ -3646,7 +3646,7 @@
     date_published: 'April 14, 2006',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/311.jpg?itok=-YEqMcwG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/311.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/311.mp3',
     number_of_acts: 5,
     slug: '/311/A Better Mousetrap (2006)' },
   { episode_number: '310',
@@ -3656,7 +3656,7 @@
     date_published: 'March 10, 2006',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/310.jpg?itok=9Nahm0mg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/310.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/310.mp3',
     number_of_acts: 4,
     slug: '/310/Habeas Schmabeas (2006)' },
   { episode_number: '309',
@@ -3665,7 +3665,7 @@
     date_published: 'February 24, 2006',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/309.jpg?itok=f-UP6km_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/309.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/309.mp3',
     number_of_acts: 5,
     slug: '/309/Cat and Mouse' },
   { episode_number: '308',
@@ -3674,7 +3674,7 @@
     date_published: 'February 10, 2006',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/308.jpg?itok=W6lIbj2c',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/308.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/308.mp3',
     number_of_acts: 4,
     slug: '/308/Star-Crossed Love' },
   { episode_number: '307',
@@ -3683,7 +3683,7 @@
     date_published: 'February 3, 2006',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/307.jpg?itok=7Lz2tp49',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/307.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/307.mp3',
     number_of_acts: 4,
     slug: '/307/In the Shadow of the City' },
   { episode_number: '306',
@@ -3692,7 +3692,7 @@
      'A girl signs up for a class. A couple hires an accountant. A group of co-workers decides to pool their money and buy a couple of lottery tickets. In the beginning, they\'re full of hope and optimism...and then something turns. Stories of good ideas gone bad.',
     date_published: 'January 13, 2006',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/306.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/306.mp3',
     number_of_acts: 5,
     slug: '/306/Seemed Like A Good Idea at the Time' },
   { episode_number: '305',
@@ -3701,7 +3701,7 @@
     date_published: 'December 23, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/305.jpg?itok=zAMSWHnB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/305.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/305.mp3',
     number_of_acts: 7,
     slug: '/305/The This American Life Holiday Spectacular' },
   { episode_number: '304',
@@ -3710,7 +3710,7 @@
      'The story of Reverend Carlton Pearson, a rising star in the evangelical movement, who cast aside the idea of hell, and with it everything he\'d worked for over his entire life.',
     date_published: 'December 16, 2005',
     image: undefined,
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/304.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/304.mp3',
     number_of_acts: 3,
     slug: '/304/Heretics' },
   { episode_number: '303',
@@ -3719,7 +3719,7 @@
     date_published: 'December 2, 2005',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/303.jpg?itok=Lw-qylhg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/303.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/303.mp3',
     number_of_acts: 4,
     slug: '/303/David and Goliath' },
   { episode_number: '302',
@@ -3728,7 +3728,7 @@
     date_published: 'November 18, 2005',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/302.jpg?itok=kbTnwY1H',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/302.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/302.mp3',
     number_of_acts: 3,
     slug: '/302/Strangers in a Strange Land' },
   { episode_number: '301',
@@ -3738,7 +3738,7 @@
     date_published: 'November 11, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/301.jpg?itok=E68BGQ_Y',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/301.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/301.mp3',
     number_of_acts: 3,
     slug: '/301/Settling the Score' },
   { episode_number: '300',
@@ -3747,7 +3747,7 @@
     date_published: 'October 28, 2005',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/300.jpg?itok=zDRB4Hf2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/300.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/300.mp3',
     number_of_acts: 4,
     slug: '/300/What’s In A Number?' },
   { episode_number: '299',
@@ -3756,7 +3756,7 @@
     date_published: 'October 7, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/299.jpg?itok=QJNv7V3k',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/299.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/299.mp3',
     number_of_acts: 3,
     slug: '/299/Back from the Dead' },
   { episode_number: '298',
@@ -3765,7 +3765,7 @@
     date_published: 'September 23, 2005',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/298.jpg?itok=ViV5l3_Q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/298.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/298.mp3',
     number_of_acts: 4,
     slug: '/298/Getting and Spending' },
   { episode_number: '297',
@@ -3775,7 +3775,7 @@
     date_published: 'September 16, 2005',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/297.jpg?itok=Uj5Vg9fr',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/297.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/297.mp3',
     number_of_acts: 6,
     slug: '/297/This Is Not My Beautiful House' },
   { episode_number: '296',
@@ -3785,7 +3785,7 @@
     date_published: 'September 9, 2005',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/296.jpg?itok=esvNuz36',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/296.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/296.mp3',
     number_of_acts: 6,
     slug: '/296/After the Flood' },
   { episode_number: '295',
@@ -3794,7 +3794,7 @@
     date_published: 'August 26, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/295.jpg?itok=_iQQTdnD',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/295.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/295.mp3',
     number_of_acts: 3,
     slug: '/295/Not What I Signed Up For' },
   { episode_number: '294',
@@ -3803,7 +3803,7 @@
     date_published: 'August 5, 2005',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/294.jpg?itok=A-RTa2aM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/294.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/294.mp3',
     number_of_acts: 4,
     slug: '/294/Image Makers' },
   { episode_number: '293',
@@ -3812,7 +3812,7 @@
     date_published: 'July 22, 2005',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/293.jpg?itok=bedH-rPB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/293.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/293.mp3',
     number_of_acts: 5,
     slug: '/293/A Little Bit of Knowledge' },
   { episode_number: '292',
@@ -3822,7 +3822,7 @@
     date_published: 'July 8, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/292.jpg?itok=keOzmKfu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/292.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/292.mp3',
     number_of_acts: 3,
     slug: '/292/The Arms Trader (2005)' },
   { episode_number: '291',
@@ -3832,7 +3832,7 @@
     date_published: 'July 1, 2005',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/291.jpg?itok=YHHaW8qB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/291.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/291.mp3',
     number_of_acts: 4,
     slug: '/291/Reunited (And It Feels So Good)' },
   { episode_number: '290',
@@ -3841,7 +3841,7 @@
     date_published: 'June 3, 2005',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/290.jpg?itok=q9Ry0DpN',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/290.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/290.mp3',
     number_of_acts: 3,
     slug: '/290/Godless America' },
   { episode_number: '289',
@@ -3851,7 +3851,7 @@
     date_published: 'May 13, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/289_sub.jpg?itok=89FcmE22',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/289.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/289.mp3',
     number_of_acts: 3,
     slug: '/289/Go Ask Your Father' },
   { episode_number: '288',
@@ -3861,7 +3861,7 @@
     date_published: 'May 6, 2005',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/288.jpg?itok=LNd3BmzO',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/288.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/288.mp3',
     number_of_acts: 4,
     slug: '/288/Not What I Meant' },
   { episode_number: '287',
@@ -3871,7 +3871,7 @@
     date_published: 'April 15, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/287.jpg?itok=41HPQZ2-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/287.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/287.mp3',
     number_of_acts: 4,
     slug: '/287/Backed Into A Corner' },
   { episode_number: '286',
@@ -3881,7 +3881,7 @@
     date_published: 'April 8, 2005',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/286.jpg?itok=EzzDZYCf',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/286.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/286.mp3',
     number_of_acts: 3,
     slug: '/286/Mind Games (2005)' },
   { episode_number: '285',
@@ -3891,7 +3891,7 @@
     date_published: 'March 25, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/285.jpg?itok=tslrJejK',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/285.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/285.mp3',
     number_of_acts: 4,
     slug: '/285/Know Your Enemy' },
   { episode_number: '284',
@@ -3900,7 +3900,7 @@
     date_published: 'March 11, 2005',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/284.jpg?itok=omMszgRn',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/284.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/284.mp3',
     number_of_acts: 4,
     slug: '/284/Should I Stay or Should I Go?' },
   { episode_number: '283',
@@ -3909,7 +3909,7 @@
     date_published: 'February 25, 2005',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/283.jpg?itok=oWW73o1-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/283.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/283.mp3',
     number_of_acts: 4,
     slug: '/283/Remember Me' },
   { episode_number: '282',
@@ -3919,7 +3919,7 @@
     date_published: 'February 11, 2005',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/282.jpg?itok=LsK9dsIa',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/282.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/282.mp3',
     number_of_acts: 3,
     slug: '/282/DIY' },
   { episode_number: '281',
@@ -3928,7 +3928,7 @@
     date_published: 'January 21, 2005',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/281.jpg?itok=zZ6sFvq2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/281.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/281.mp3',
     number_of_acts: 4,
     slug: '/281/My Big Break' },
   { episode_number: '280',
@@ -3937,7 +3937,7 @@
     date_published: 'January 7, 2005',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/280.jpg?itok=CJBXhgv6',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/280.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/280.mp3',
     number_of_acts: 3,
     slug: '/280/In Country' },
   { episode_number: '279',
@@ -3946,7 +3946,7 @@
     date_published: 'December 10, 2004',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/279.jpg?itok=wtM6pNMR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/279.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/279.mp3',
     number_of_acts: 6,
     slug: '/279/Auto Show' },
   { episode_number: '278',
@@ -3955,7 +3955,7 @@
     date_published: 'November 19, 2004',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/278.jpg?itok=WkYb1m1b',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/278.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/278.mp3',
     number_of_acts: 5,
     slug: '/278/Spies Like Us' },
   { episode_number: '277',
@@ -3965,7 +3965,7 @@
     date_published: 'November 5, 2004',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/277-portrait.jpg?itok=ZF9zAG36',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/277.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/277.mp3',
     number_of_acts: 4,
     slug: '/277/Apology' },
   { episode_number: '276',
@@ -3974,7 +3974,7 @@
     date_published: 'October 29, 2004',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/276.jpg?itok=w1vvNuDx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/276.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/276.mp3',
     number_of_acts: 5,
     slug: '/276/Swing Set' },
   { episode_number: '275',
@@ -3983,7 +3983,7 @@
     date_published: 'October 15, 2004',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/275.jpg?itok=PrMIZDhm',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/275.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/275.mp3',
     number_of_acts: 3,
     slug: '/275/Two Steps Back' },
   { episode_number: '274',
@@ -3993,7 +3993,7 @@
     date_published: 'October 8, 2004',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/274.jpg?itok=sUUXnCJJ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/274.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/274.mp3',
     number_of_acts: 5,
     slug: '/274/Enemy Camp (2004)' },
   { episode_number: '273',
@@ -4002,7 +4002,7 @@
     date_published: 'September 24, 2004',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/273.jpg?itok=Br1mI2QG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/273.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/273.mp3',
     number_of_acts: 4,
     slug: '/273/Put Your Heart In It' },
   { episode_number: '272',
@@ -4011,7 +4011,7 @@
     date_published: 'September 10, 2004',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/272.jpg?itok=v-9dcS_x',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/272.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/272.mp3',
     number_of_acts: 5,
     slug: '/272/Big Tent' },
   { episode_number: '271',
@@ -4021,7 +4021,7 @@
     date_published: 'August 20, 2004',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/271.jpg?itok=QByvHbgt',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/271.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/271.mp3',
     number_of_acts: 3,
     slug: '/271/Best Interests' },
   { episode_number: '270',
@@ -4031,7 +4031,7 @@
     date_published: 'August 6, 2004',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/270.jpg?itok=QVwWRhob',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/270.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/270.mp3',
     number_of_acts: 4,
     slug: '/270/Family Legend' },
   { episode_number: '269',
@@ -4040,7 +4040,7 @@
     date_published: 'July 16, 2004',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/269.jpg?itok=FyTM6vha',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/269.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/269.mp3',
     number_of_acts: 4,
     slug: '/269/Someone to Watch Over Me' },
   { episode_number: '268',
@@ -4050,7 +4050,7 @@
     date_published: 'June 25, 2004',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/268.jpg?itok=GAbEXs2_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/268.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/268.mp3',
     number_of_acts: 3,
     slug: '/268/My Experimental Phase' },
   { episode_number: '267',
@@ -4060,7 +4060,7 @@
     date_published: 'June 11, 2004',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/267.jpg?itok=T_ahXPlM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/267.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/267.mp3',
     number_of_acts: 4,
     slug: '/267/Propriety' },
   { episode_number: '266',
@@ -4070,7 +4070,7 @@
     date_published: 'June 4, 2004',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/266.jpg?itok=vtJD4El7',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/266.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/266.mp3',
     number_of_acts: 8,
     slug: '/266/I\'m From the Private Sector and I\'m Here to Help' },
   { episode_number: '265',
@@ -4080,7 +4080,7 @@
     date_published: 'May 21, 2004',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/265.jpg?itok=HJc2tBNf',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/265.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/265.mp3',
     number_of_acts: 5,
     slug: '/265/Fake Science' },
   { episode_number: '264',
@@ -4089,7 +4089,7 @@
     date_published: 'May 7, 2004',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/264.jpg?itok=QCpjFTeC',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/264.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/264.mp3',
     number_of_acts: 5,
     slug: '/264/Special Treatment' },
   { episode_number: '263',
@@ -4099,7 +4099,7 @@
     date_published: 'April 16, 2004',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/263.jpg?itok=RaD9Cvmm',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/263.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/263.mp3',
     number_of_acts: 5,
     slug: '/263/Desperate Measures' },
   { episode_number: '262',
@@ -4109,7 +4109,7 @@
     date_published: 'April 2, 2004',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/262.jpg?itok=llF9cw54',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/262.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/262.mp3',
     number_of_acts: 3,
     slug: '/262/Miracle Cures' },
   { episode_number: '261',
@@ -4119,7 +4119,7 @@
     date_published: 'March 26, 2004',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/261.jpg?itok=6z2PkbIS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/261.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/261.mp3',
     number_of_acts: 4,
     slug: '/261/The Sanctity of Marriage' },
   { episode_number: '260',
@@ -4128,7 +4128,7 @@
     date_published: 'March 12, 2004',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/260.jpg?itok=zy54sD7V',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/260.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/260.mp3',
     number_of_acts: 3,
     slug: '/260/The Facts Don’t Matter' },
   { episode_number: '259',
@@ -4138,7 +4138,7 @@
     date_published: 'February 20, 2004',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/259.jpg?itok=vKDylo3R',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/259.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/259.mp3',
     number_of_acts: 4,
     slug: '/259/Promised Land' },
   { episode_number: '258',
@@ -4148,7 +4148,7 @@
     date_published: 'January 30, 2004',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/258.jpg?itok=1vYtiTLX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/258.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/258.mp3',
     number_of_acts: 4,
     slug: '/258/Leaving the Fold' },
   { episode_number: '257',
@@ -4158,7 +4158,7 @@
     date_published: 'January 16, 2004',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/257.jpg?itok=V9gOdK8W',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/257.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/257.mp3',
     number_of_acts: 5,
     slug: '/257/What I Should’ve Said' },
   { episode_number: '256',
@@ -4168,7 +4168,7 @@
     date_published: 'January 9, 2004',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/256.jpg?itok=O6y1jm8l',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/256.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/256.mp3',
     number_of_acts: 5,
     slug: '/256/Living Without (2004)' },
   { episode_number: '255',
@@ -4177,7 +4177,7 @@
     date_published: 'December 19, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/255.jpg?itok=3dxkpNNR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/255.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/255.mp3',
     number_of_acts: 4,
     slug: '/255/This American Life’s Holiday Gift-Giving Guide' },
   { episode_number: '254',
@@ -4187,7 +4187,7 @@
     date_published: 'December 12, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/254.jpg?itok=qtkwoNgR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/254.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/254.mp3',
     number_of_acts: 3,
     slug: '/254/Teenage Embed, Part Two' },
   { episode_number: '253',
@@ -4197,7 +4197,7 @@
     date_published: 'December 5, 2003',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/253.jpg?itok=xMhKUbRi',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/253.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/253.mp3',
     number_of_acts: 3,
     slug: '/253/The Middle of Nowhere' },
   { episode_number: '252',
@@ -4207,7 +4207,7 @@
     date_published: 'November 28, 2003',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/252.jpg?itok=Eo81nO6G',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/252.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/252.mp3',
     number_of_acts: 5,
     slug: '/252/Poultry Slam 2003' },
   { episode_number: '251',
@@ -4217,7 +4217,7 @@
     date_published: 'November 21, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/251.jpg?itok=-2hbvXPg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/251.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/251.mp3',
     number_of_acts: 4,
     slug: '/251/Brother’s Keeper' },
   { episode_number: '250',
@@ -4226,7 +4226,7 @@
     date_published: 'November 7, 2003',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/250.jpg?itok=w33lZ42q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/250.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/250.mp3',
     number_of_acts: 4,
     slug: '/250/The Annoying Gap Between Theory...and Practice' },
   { episode_number: '249',
@@ -4236,7 +4236,7 @@
     date_published: 'October 31, 2003',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/249.jpg?itok=7xcC6UwV',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/249.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/249.mp3',
     number_of_acts: 4,
     slug: '/249/Garbage' },
   { episode_number: '248',
@@ -4245,7 +4245,7 @@
     date_published: 'October 24, 2003',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/248.jpg?itok=tyO6zv-t',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/248.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/248.mp3',
     number_of_acts: 5,
     slug: '/248/Like It or Not' },
   { episode_number: '247',
@@ -4255,7 +4255,7 @@
     date_published: 'September 19, 2003',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/247.jpg?itok=IOaAw8Sf',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/247.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/247.mp3',
     number_of_acts: 4,
     slug: '/247/What Is This Thing?' },
   { episode_number: '246',
@@ -4265,7 +4265,7 @@
     date_published: 'September 12, 2003',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/246.jpg?itok=8-CDotH0',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/246.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/246.mp3',
     number_of_acts: 3,
     slug: '/246/My Pen Pal' },
   { episode_number: '245',
@@ -4275,7 +4275,7 @@
     date_published: 'September 5, 2003',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/245.jpg?itok=ouw2bAaM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/245.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/245.mp3',
     number_of_acts: 5,
     slug: '/245/Allure of the Mean Friend' },
   { episode_number: '244',
@@ -4285,7 +4285,7 @@
     date_published: 'August 15, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/244.jpg?itok=AiD8QbJO',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/244.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/244.mp3',
     number_of_acts: 5,
     slug: '/244/MacGyver' },
   { episode_number: '243',
@@ -4295,7 +4295,7 @@
     date_published: 'July 25, 2003',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/243.jpg?itok=f3ztJMkO',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/243.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/243.mp3',
     number_of_acts: 4,
     slug: '/243/Later That Same Day' },
   { episode_number: '242',
@@ -4305,7 +4305,7 @@
     date_published: 'July 18, 2003',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/242.jpg?itok=idlJb9xY',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/242.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/242.mp3',
     number_of_acts: 5,
     slug: '/242/Enemy Camp' },
   { episode_number: '241',
@@ -4315,7 +4315,7 @@
     date_published: 'July 11, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/20_acts_in_60_minutes_-_tomi_um.jpg?itok=LD4aAhZL',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/241.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/241.mp3',
     number_of_acts: 21,
     slug: '/241/20 Acts in 60 Minutes' },
   { episode_number: '240',
@@ -4324,7 +4324,7 @@
     date_published: 'June 20, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/240.jpg?itok=YRzUFYtW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/240.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/240.mp3',
     number_of_acts: 4,
     slug: '/240/I’m In Charge Now' },
   { episode_number: '239',
@@ -4334,7 +4334,7 @@
     date_published: 'June 6, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/lost_in_america3.png?itok=au_Sdh3F',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/239.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/239.mp3',
     number_of_acts: 4,
     slug: '/239/Lost in America' },
   { episode_number: '238',
@@ -4343,7 +4343,7 @@
     date_published: 'May 30, 2003',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/238.jpg?itok=-f60d0TT',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/238.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/238.mp3',
     number_of_acts: 4,
     slug: '/238/Lost in Translation' },
   { episode_number: '237',
@@ -4353,7 +4353,7 @@
     date_published: 'April 18, 2003',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/237.jpg?itok=FQhRp_au',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/237.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/237.mp3',
     number_of_acts: 4,
     slug: '/237/Regime Change' },
   { episode_number: '236',
@@ -4362,7 +4362,7 @@
     date_published: 'April 11, 2003',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/236.jpg?itok=bS2MFLVA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/236.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/236.mp3',
     number_of_acts: 4,
     slug: '/236/My Two Cents' },
   { episode_number: '235',
@@ -4372,7 +4372,7 @@
     date_published: 'March 21, 2003',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/235.jpg?itok=EiJZOTLX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/235.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/235.mp3',
     number_of_acts: 7,
     slug: '/235/The Balloon Goes Up' },
   { episode_number: '234',
@@ -4382,7 +4382,7 @@
     date_published: 'March 14, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/234.jpg?itok=xEMESJkW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/234.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/234.mp3',
     number_of_acts: 5,
     slug: '/234/Say Anything' },
   { episode_number: '233',
@@ -4392,7 +4392,7 @@
     date_published: 'March 7, 2003',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/233.jpg?itok=JHSReQfh',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/233.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/233.mp3',
     number_of_acts: 4,
     slug: '/233/Starting From Scratch' },
   { episode_number: '232',
@@ -4402,7 +4402,7 @@
     date_published: 'February 14, 2003',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/232.jpg?itok=qrfuAxio',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/232.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/232.mp3',
     number_of_acts: 4,
     slug: '/232/The Real Story' },
   { episode_number: '231',
@@ -4412,7 +4412,7 @@
     date_published: 'February 7, 2003',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/231.jpg?itok=RnKOD_Bj',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/231.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/231.mp3',
     number_of_acts: 5,
     slug: '/231/Time to Save the World' },
   { episode_number: '230',
@@ -4422,7 +4422,7 @@
     date_published: 'January 31, 2003',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/230.jpg?itok=kJeHSlRu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/230.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/230.mp3',
     number_of_acts: 2,
     slug: '/230/Come Back to Afghanistan' },
   { episode_number: '229',
@@ -4431,7 +4431,7 @@
     date_published: 'January 10, 2003',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/229.jpg?itok=9fjg_yQl',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/229.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/229.mp3',
     number_of_acts: 4,
     slug: '/229/Secret Government' },
   { episode_number: '228',
@@ -4441,7 +4441,7 @@
     date_published: 'January 3, 2003',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/228.jpg?itok=bC7R5IpZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/228.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/228.mp3',
     number_of_acts: 3,
     slug: '/228/You Are So Beautiful…To Me' },
   { episode_number: '227',
@@ -4450,7 +4450,7 @@
     date_published: 'December 20, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/227.jpg?itok=2h_64DCD',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/227.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/227.mp3',
     number_of_acts: 5,
     slug: '/227/Why We Fight' },
   { episode_number: '226',
@@ -4460,7 +4460,7 @@
     date_published: 'December 6, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/226.jpg?itok=Mqb_Tnrp',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/226.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/226.mp3',
     number_of_acts: 4,
     slug: '/226/Reruns' },
   { episode_number: '225',
@@ -4469,7 +4469,7 @@
     date_published: 'November 8, 2002',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/225.jpg?itok=KiyMSV94',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/225.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/225.mp3',
     number_of_acts: 6,
     slug: '/225/Home Movies' },
   { episode_number: '224',
@@ -4478,7 +4478,7 @@
     date_published: 'October 25, 2002',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/224.jpg?itok=HaeGn4_R',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/224.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/224.mp3',
     number_of_acts: 4,
     slug: '/224/Middlemen' },
   { episode_number: '223',
@@ -4488,7 +4488,7 @@
     date_published: 'October 11, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/223.jpg?itok=1gM8J1IC',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/223.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/223.mp3',
     number_of_acts: 6,
     slug: '/223/Classifieds' },
   { episode_number: '222',
@@ -4497,7 +4497,7 @@
     date_published: 'September 27, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/222.jpg?itok=90h_vK6I',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/222.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/222.mp3',
     number_of_acts: 5,
     slug: '/222/Suckers' },
   { episode_number: '221',
@@ -4506,7 +4506,7 @@
     date_published: 'September 20, 2002',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/221.jpg?itok=8O3S-Gco',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/221.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/221.mp3',
     number_of_acts: 4,
     slug: '/221/Fake I.D.' },
   { episode_number: '220',
@@ -4516,7 +4516,7 @@
     date_published: 'August 30, 2002',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/220-landscape.jpg?itok=2eJKWqtg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/220.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/220.mp3',
     number_of_acts: 5,
     slug: '/220/Testosterone' },
   { episode_number: '219',
@@ -4525,7 +4525,7 @@
     date_published: 'August 16, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/219.jpg?itok=OfzxUgVz',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/219.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/219.mp3',
     number_of_acts: 3,
     slug: '/219/High Speed Chase' },
   { episode_number: '218',
@@ -4535,7 +4535,7 @@
     date_published: 'August 9, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/218-landscape.jpg?itok=A865FEVa',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/218.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/218.mp3',
     number_of_acts: 3,
     slug: '/218/Act V' },
   { episode_number: '217',
@@ -4544,7 +4544,7 @@
     date_published: 'August 2, 2002',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/217.jpg?itok=fe9Wjt1T',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/217.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/217.mp3',
     number_of_acts: 4,
     slug: '/217/Give It to Them' },
   { episode_number: '216',
@@ -4554,7 +4554,7 @@
     date_published: 'July 12, 2002',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/216.jpg?itok=6jf80f04',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/216.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/216.mp3',
     number_of_acts: 6,
     slug: '/216/Give the People What They Want' },
   { episode_number: '215',
@@ -4564,7 +4564,7 @@
     date_published: 'June 14, 2002',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/215.jpg?itok=2SvG39zy',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/215.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/215.mp3',
     number_of_acts: 3,
     slug: '/215/Ask An Expert' },
   { episode_number: '214',
@@ -4574,7 +4574,7 @@
     date_published: 'May 31, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/214-1200.jpg?itok=CZLaeell',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/214.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/214.mp3',
     number_of_acts: 4,
     slug: '/214/Family Physics' },
   { episode_number: '213',
@@ -4583,7 +4583,7 @@
     date_published: 'May 24, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/213.png?itok=qSozShRE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/213.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/213.mp3',
     number_of_acts: 4,
     slug: '/213/Devil on My Shoulder' },
   { episode_number: '212',
@@ -4592,7 +4592,7 @@
     date_published: 'May 10, 2002',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/212.jpg?itok=FGZ7p1Ae',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/212.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/212.mp3',
     number_of_acts: 4,
     slug: '/212/The Other Man' },
   { episode_number: '211',
@@ -4601,7 +4601,7 @@
     date_published: 'May 3, 2002',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/211.jpg?itok=hiPuKyl1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/211.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/211.mp3',
     number_of_acts: 4,
     slug: '/211/Naming Names' },
   { episode_number: '210',
@@ -4610,7 +4610,7 @@
     date_published: 'April 19, 2002',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/210.jpg?itok=tk7lIS25',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/210.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/210.mp3',
     number_of_acts: 3,
     slug: '/210/Perfect Evidence' },
   { episode_number: '209',
@@ -4620,7 +4620,7 @@
     date_published: 'March 29, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/209.jpg?itok=CsnZID01',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/209.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/209.mp3',
     number_of_acts: 3,
     slug: '/209/Didn’t Ask to Be Born' },
   { episode_number: '208',
@@ -4629,7 +4629,7 @@
     date_published: 'March 15, 2002',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/208.jpg?itok=QMtRsews',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/208.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/208.mp3',
     number_of_acts: 4,
     slug: '/208/Office Politics' },
   { episode_number: '207',
@@ -4638,7 +4638,7 @@
     date_published: 'March 8, 2002',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/207.jpg?itok=ypkIXq4G',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/207.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/207.mp3',
     number_of_acts: 4,
     slug: '/207/Special Ed' },
   { episode_number: '206',
@@ -4648,7 +4648,7 @@
     date_published: 'March 1, 2002',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/206.jpg?itok=AI4lKjIE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/206.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/206.mp3',
     number_of_acts: 8,
     slug: '/206/Somewhere in the Arabian Sea' },
   { episode_number: '205',
@@ -4658,7 +4658,7 @@
     date_published: 'February 1, 2002',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/205.jpg?itok=C7mj7Dwt',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/205.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/205.mp3',
     number_of_acts: 6,
     slug: '/205/Plan B' },
   { episode_number: '204',
@@ -4668,7 +4668,7 @@
     date_published: 'January 18, 2002',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/thumbnail_img_6075.jpg?itok=hFTO7jpN',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/204.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/204.mp3',
     number_of_acts: 3,
     slug: '/204/81 Words' },
   { episode_number: '203',
@@ -4678,7 +4678,7 @@
     date_published: 'January 11, 2002',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/203.jpg?itok=YdpRBC5c',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/203.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/203.mp3',
     number_of_acts: 5,
     slug: '/203/Recordings for Someone' },
   { episode_number: '202',
@@ -4687,7 +4687,7 @@
     date_published: 'December 21, 2001',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/202.jpg?itok=YlNGK4kC',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/202.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/202.mp3',
     number_of_acts: 5,
     slug: '/202/Faith' },
   { episode_number: '201',
@@ -4697,7 +4697,7 @@
     date_published: 'December 7, 2001',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/201.jpg?itok=p10v5MGK',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/201.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/201.mp3',
     number_of_acts: 4,
     slug: '/201/Them' },
   { episode_number: '200',
@@ -4706,7 +4706,7 @@
     date_published: 'November 30, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/200.jpg?itok=6wGbP9hn',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/200.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/200.mp3',
     number_of_acts: 3,
     slug: '/200/Hearts and Minds' },
   { episode_number: '199',
@@ -4716,7 +4716,7 @@
     date_published: 'November 16, 2001',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/loon_lake_8-ep_page-sub.jpg?itok=eaKALPUh',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/199.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/199.mp3',
     number_of_acts: 3,
     slug: '/199/House on Loon Lake' },
   { episode_number: '198',
@@ -4726,7 +4726,7 @@
     date_published: 'November 2, 2001',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/198.jpg?itok=fJw0U2yd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/198.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/198.mp3',
     number_of_acts: 5,
     slug: '/198/How to Win Friends and Influence People' },
   { episode_number: '197',
@@ -4735,7 +4735,7 @@
     date_published: 'October 26, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/197.jpg?itok=6NuU16Sr',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/197.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/197.mp3',
     number_of_acts: 5,
     slug: '/197/Before It Had A Name' },
   { episode_number: '196',
@@ -4745,7 +4745,7 @@
     date_published: 'October 5, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/196.jpg?itok=2F7cULQ1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/196.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/196.mp3',
     number_of_acts: 4,
     slug: '/196/Rashomon' },
   { episode_number: '195',
@@ -4754,7 +4754,7 @@
     date_published: 'September 28, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/195.jpg?itok=QnNiOWto',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/195.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/195.mp3',
     number_of_acts: 5,
     slug: '/195/War Stories' },
   { episode_number: '194',
@@ -4763,7 +4763,7 @@
     date_published: 'September 21, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/194.jpg?itok=zqv_WcSJ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/194.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/194.mp3',
     number_of_acts: 6,
     slug: '/194/Before and After' },
   { episode_number: '193',
@@ -4772,7 +4772,7 @@
     date_published: 'September 14, 2001',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/193.jpg?itok=gQo6lbrn',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/193.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/193.mp3',
     number_of_acts: 4,
     slug: '/193/Stories of Loss' },
   { episode_number: '192',
@@ -4782,7 +4782,7 @@
     date_published: 'August 31, 2001',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/192.jpg?itok=VXtLrrtf',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/192.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/192.mp3',
     number_of_acts: 4,
     slug: '/192/Meet the Pros' },
   { episode_number: '191',
@@ -4791,7 +4791,7 @@
     date_published: 'August 17, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/191.jpg?itok=hCV-BMwe',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/191.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/191.mp3',
     number_of_acts: 4,
     slug: '/191/I Know What You Did This Summer' },
   { episode_number: '190',
@@ -4800,7 +4800,7 @@
     date_published: 'August 3, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/190.jpg?itok=JhVwgiGs',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/190.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/190.mp3',
     number_of_acts: 4,
     slug: '/190/Living the Dream' },
   { episode_number: '189',
@@ -4810,7 +4810,7 @@
     date_published: 'July 13, 2001',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/189.jpg?itok=shVsGcB2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/189.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/189.mp3',
     number_of_acts: 3,
     slug: '/189/Hitler’s Yacht' },
   { episode_number: '188',
@@ -4820,7 +4820,7 @@
     date_published: 'June 22, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/188.jpg?itok=DOIHbAtm',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/188.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/188.mp3',
     number_of_acts: 5,
     slug: '/188/Kid Logic (2001)' },
   { episode_number: '187',
@@ -4830,7 +4830,7 @@
     date_published: 'June 15, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/187.jpg?itok=vt9kWQMI',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/187.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/187.mp3',
     number_of_acts: 4,
     slug: '/187/Father\'s Day \'01' },
   { episode_number: '186',
@@ -4840,7 +4840,7 @@
     date_published: 'June 8, 2001',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/186.jpg?itok=kl40H447',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/186.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/186.mp3',
     number_of_acts: 5,
     slug: '/186/Prom' },
   { episode_number: '185',
@@ -4849,7 +4849,7 @@
     date_published: 'May 25, 2001',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/185.jpg?itok=9zSDlnDv',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/185.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/185.mp3',
     number_of_acts: 4,
     slug: '/185/Golden Calf' },
   { episode_number: '184',
@@ -4858,7 +4858,7 @@
     date_published: 'May 11, 2001',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/184.jpg?itok=litrkrP1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/184.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/184.mp3',
     number_of_acts: 4,
     slug: '/184/Neighbors' },
   { episode_number: '183',
@@ -4868,7 +4868,7 @@
     date_published: 'April 20, 2001',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/183.jpg?itok=pJxzUvAB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/183.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/183.mp3',
     number_of_acts: 5,
     slug: '/183/The Missing Parents Bureau' },
   { episode_number: '182',
@@ -4877,7 +4877,7 @@
     date_published: 'April 13, 2001',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/182.jpg?itok=lSxKhFB2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/182.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/182.mp3',
     number_of_acts: 5,
     slug: '/182/Cringe' },
   { episode_number: '181',
@@ -4886,7 +4886,7 @@
     date_published: 'April 6, 2001',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/181.jpg?itok=TtLd6iYw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/181.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/181.mp3',
     number_of_acts: 5,
     slug: '/181/The Friendly Man' },
   { episode_number: '180',
@@ -4896,7 +4896,7 @@
     date_published: 'March 23, 2001',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/180.jpg?itok=A-QrJee7',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/180.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/180.mp3',
     number_of_acts: 5,
     slug: '/180/Return to Childhood 2001' },
   { episode_number: '179',
@@ -4906,7 +4906,7 @@
     date_published: 'March 16, 2001',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/179.jpg?itok=M0Tufn5_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/179.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/179.mp3',
     number_of_acts: 5,
     slug: '/179/Cicero' },
   { episode_number: '178',
@@ -4916,7 +4916,7 @@
     date_published: 'February 23, 2001',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/superpowers_show_image.png?itok=D8VTGoPu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/178.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/178.mp3',
     number_of_acts: 5,
     slug: '/178/Superpowers' },
   { episode_number: '177',
@@ -4926,7 +4926,7 @@
     date_published: 'February 9, 2001',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/177.jpeg?itok=RYkYbbHL',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/177.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/177.mp3',
     number_of_acts: 4,
     slug: '/177/American Limbo' },
   { episode_number: '176',
@@ -4936,7 +4936,7 @@
     date_published: 'January 26, 2001',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/176.jpg?itok=2dhML4CZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/176.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/176.mp3',
     number_of_acts: 6,
     slug: '/176/Two Nations, One President' },
   { episode_number: '175',
@@ -4946,7 +4946,7 @@
     date_published: 'January 5, 2001',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/ben_wiseman_babysiter_final_16x9.jpg?itok=vPsktpy_',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/175.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/175.mp3',
     number_of_acts: 4,
     slug: '/175/Babysitting' },
   { episode_number: '174',
@@ -4956,7 +4956,7 @@
     date_published: 'December 29, 2000',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/174.jpg?itok=cBE6Xtzu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/174.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/174.mp3',
     number_of_acts: 5,
     slug: '/174/Birthdays, Anniversaries, and Milestones' },
   { episode_number: '173',
@@ -4966,7 +4966,7 @@
     date_published: 'December 15, 2000',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/173.jpg?itok=gvwMiYv-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/173.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/173.mp3',
     number_of_acts: 4,
     slug: '/173/Three Kinds of Deception' },
   { episode_number: '172',
@@ -4976,7 +4976,7 @@
     date_published: 'November 17, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/golden-apple-steve-connell.jpg?itok=ePMBU8hL',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/172.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/172.mp3',
     number_of_acts: 2,
     slug: '/172/24 Hours at the Golden Apple' },
   { episode_number: '171',
@@ -4985,7 +4985,7 @@
     date_published: 'November 3, 2000',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/171.jpg?itok=s02k-C5F',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/171.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/171.mp3',
     number_of_acts: 4,
     slug: '/171/Election' },
   { episode_number: '170',
@@ -4995,7 +4995,7 @@
     date_published: 'October 13, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/170.jpg?itok=yoYJ-GOU',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/170.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/170.mp3',
     number_of_acts: 4,
     slug: '/170/Immigration' },
   { episode_number: '169',
@@ -5004,7 +5004,7 @@
     date_published: 'September 29, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/169.jpg?itok=T1nX7Yus',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/169.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/169.mp3',
     number_of_acts: 5,
     slug: '/169/Pursuit of Happiness' },
   { episode_number: '168',
@@ -5014,7 +5014,7 @@
     date_published: 'September 15, 2000',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/168.jpg?itok=UYta1P_O',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/168.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/168.mp3',
     number_of_acts: 3,
     slug: '/168/The Fix Is In' },
   { episode_number: '167',
@@ -5024,7 +5024,7 @@
     date_published: 'September 8, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/167.png?itok=FvNsEDCo',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/167.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/167.mp3',
     number_of_acts: 4,
     slug: '/167/Memo to the People of the Future' },
   { episode_number: '166',
@@ -5033,7 +5033,7 @@
     date_published: 'August 11, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/166.png?itok=IlwSGlNS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/166.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/166.mp3',
     number_of_acts: 4,
     slug: '/166/Nobody\'s Family Is Going to Change' },
   { episode_number: '165',
@@ -5043,7 +5043,7 @@
     date_published: 'July 28, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/americans_in_paris.jpg?itok=9AtxPEcM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/165.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/165.mp3',
     number_of_acts: 4,
     slug: '/165/Americans In Paris' },
   { episode_number: '164',
@@ -5053,7 +5053,7 @@
     date_published: 'July 7, 2000',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/gettyimages-879398070_episode.jpg?itok=rEfCmpcH',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/164.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/164.mp3',
     number_of_acts: 5,
     slug: '/164/Crime Scene (2000)' },
   { episode_number: '163',
@@ -5063,7 +5063,7 @@
     date_published: 'June 30, 2000',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/163.jpg?itok=5yNrkG3R',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/163.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/163.mp3',
     number_of_acts: 3,
     slug: '/163/Can You Fight City Hall…If You Are City Hall?' },
   { episode_number: '162',
@@ -5072,7 +5072,7 @@
     date_published: 'June 23, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/162.jpg?itok=7c6bs5xK',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/162.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/162.mp3',
     number_of_acts: 4,
     slug: '/162/Moving' },
   { episode_number: '161',
@@ -5081,7 +5081,7 @@
     date_published: 'June 2, 2000',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/161.jpg?itok=O0Dbz62z',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/161.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/161.mp3',
     number_of_acts: 8,
     slug: '/161/Million Bubbles' },
   { episode_number: '160',
@@ -5091,7 +5091,7 @@
     date_published: 'May 19, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/160.png?itok=ce760V75',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/160.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/160.mp3',
     number_of_acts: 6,
     slug: '/160/Character Assassination' },
   { episode_number: '159',
@@ -5100,7 +5100,7 @@
     date_published: 'May 12, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/159.jpg?itok=onOfVyIe',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/159.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/159.mp3',
     number_of_acts: 4,
     slug: '/159/Mother’s Day' },
   { episode_number: '158',
@@ -5109,7 +5109,7 @@
     date_published: 'May 5, 2000',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/158.jpg?itok=TMGGY-Ef',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/158.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/158.mp3',
     number_of_acts: 4,
     slug: '/158/Mob Mentality' },
   { episode_number: '157',
@@ -5118,7 +5118,7 @@
     date_published: 'April 14, 2000',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/157.jpg?itok=-Fcqrf5n',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/157.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/157.mp3',
     number_of_acts: 6,
     slug: '/157/Secret Life of Daytime' },
   { episode_number: '156',
@@ -5127,7 +5127,7 @@
     date_published: 'March 31, 2000',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/156.jpg?itok=NjqKymsM',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/156.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/156.mp3',
     number_of_acts: 4,
     slug: '/156/What Remains' },
   { episode_number: '155',
@@ -5137,7 +5137,7 @@
     date_published: 'March 17, 2000',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/155.jpg?itok=ue3W9VYb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/155.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/155.mp3',
     number_of_acts: 4,
     slug: '/155/Hoaxing Yourself (2000)' },
   { episode_number: '154',
@@ -5147,7 +5147,7 @@
     date_published: 'March 10, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/154_2018_2.jpg?itok=K1YTAljb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/154.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/154.mp3',
     number_of_acts: 4,
     slug: '/154/In Dog We Trust (2000)' },
   { episode_number: '153',
@@ -5156,7 +5156,7 @@
     date_published: 'March 3, 2000',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/153.jpg?itok=Cw9UPE1w',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/153.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/153.mp3',
     number_of_acts: 4,
     slug: '/153/Dolls' },
   { episode_number: '152',
@@ -5165,7 +5165,7 @@
     date_published: 'February 11, 2000',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/152.jpg?itok=qQ1tU6vP',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/152.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/152.mp3',
     number_of_acts: 4,
     slug: '/152/Crush' },
   { episode_number: '151',
@@ -5174,7 +5174,7 @@
     date_published: 'January 28, 2000',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/151.png?itok=NNJ20wko',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/151.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/151.mp3',
     number_of_acts: 4,
     slug: '/151/Primary' },
   { episode_number: '150',
@@ -5183,7 +5183,7 @@
     date_published: 'January 21, 2000',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/150.jpg?itok=0wIWDP9L',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/150.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/150.mp3',
     number_of_acts: 5,
     slug: '/150/Kids As Adults' },
   { episode_number: '149',
@@ -5193,7 +5193,7 @@
     date_published: 'January 14, 2000',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/149.jpg?itok=7p4-XPGt',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/149.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/149.mp3',
     number_of_acts: 5,
     slug: '/149/Bedside Diplomacy' },
   { episode_number: '148',
@@ -5202,7 +5202,7 @@
     date_published: 'December 24, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/148.jpg?itok=mQlw0G55',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/148.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/148.mp3',
     number_of_acts: 6,
     slug: '/148/The Angels Wanna Wear My Red Suit' },
   { episode_number: '147',
@@ -5212,7 +5212,7 @@
     date_published: 'December 17, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/147.jpg?itok=mbKUlxR8',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/147.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/147.mp3',
     number_of_acts: 8,
     slug: '/147/A Teenager\'s Guide to God' },
   { episode_number: '146',
@@ -5221,7 +5221,7 @@
     date_published: 'December 10, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/146.jpg?itok=J33d98jk',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/146.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/146.mp3',
     number_of_acts: 6,
     slug: '/146/Urban Nature' },
   { episode_number: '145',
@@ -5230,7 +5230,7 @@
     date_published: 'November 26, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/145.jpg?itok=devxhNPS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/145.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/145.mp3',
     number_of_acts: 5,
     slug: '/145/Poultry Slam 1999' },
   { episode_number: '144',
@@ -5239,7 +5239,7 @@
     date_published: 'November 5, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/144.jpg?itok=EdeqqiPd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/144.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/144.mp3',
     number_of_acts: 4,
     slug: '/144/Where Words Fail' },
   { episode_number: '143',
@@ -5249,7 +5249,7 @@
     date_published: 'October 22, 1999',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/143.jpg?itok=dCw8MPRw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/143.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/143.mp3',
     number_of_acts: 5,
     slug: '/143/Sentencing' },
   { episode_number: '142',
@@ -5259,7 +5259,7 @@
     date_published: 'October 15, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/142.jpg?itok=hTCORZCK',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/142.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/142.mp3',
     number_of_acts: 3,
     slug: '/142/Barbara' },
   { episode_number: '141',
@@ -5269,7 +5269,7 @@
     date_published: 'October 1, 1999',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/141.jpg?itok=bKCZQtdY',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/141.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/141.mp3',
     number_of_acts: 5,
     slug: '/141/Invisible Worlds' },
   { episode_number: '140',
@@ -5279,7 +5279,7 @@
     date_published: 'September 24, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/140.jpg?itok=zMXTfD17',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/140.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/140.mp3',
     number_of_acts: 5,
     slug: '/140/Family Business' },
   { episode_number: '139',
@@ -5288,7 +5288,7 @@
     date_published: 'September 3, 1999',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/139.jpg?itok=MNpGBF6D',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/139.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/139.mp3',
     number_of_acts: 5,
     slug: '/139/Ghosts of Elections Past' },
   { episode_number: '138',
@@ -5298,7 +5298,7 @@
     date_published: 'August 27, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/138.jpg?itok=ZZF_wg9J',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/138.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/138.mp3',
     number_of_acts: 5,
     slug: '/138/The Real Thing' },
   { episode_number: '137',
@@ -5308,7 +5308,7 @@
     date_published: 'August 20, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/137.jpg?itok=cgpSTJ7a',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/137.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/137.mp3',
     number_of_acts: 5,
     slug: '/137/The Book That Changed Your Life' },
   { episode_number: '136',
@@ -5317,7 +5317,7 @@
     date_published: 'August 6, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/136.jpg?itok=7QN9-t6p',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/136.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/136.mp3',
     number_of_acts: 4,
     slug: '/136/You Are Here' },
   { episode_number: '135',
@@ -5326,7 +5326,7 @@
     date_published: 'July 23, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/135.jpg?itok=C7egS6aN',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/135.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/135.mp3',
     number_of_acts: 4,
     slug: '/135/Allure of Crime' },
   { episode_number: '134',
@@ -5336,7 +5336,7 @@
     date_published: 'July 9, 1999',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/134.jpg?itok=TJMjDAAg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/134.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/134.mp3',
     number_of_acts: 5,
     slug: '/134/We Didn’t' },
   { episode_number: '133',
@@ -5345,7 +5345,7 @@
     date_published: 'June 25, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/133.jpg?itok=Kup5P3cd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/133.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/133.mp3',
     number_of_acts: 5,
     slug: '/133/Sales' },
   { episode_number: '132',
@@ -5354,7 +5354,7 @@
     date_published: 'June 18, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/132.jpg?itok=OhAduRlE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/132.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/132.mp3',
     number_of_acts: 4,
     slug: '/132/Father’s Day ‘99' },
   { episode_number: '131',
@@ -5363,7 +5363,7 @@
     date_published: 'June 4, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/131.jpg?itok=LVoN7uZW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/131.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/131.mp3',
     number_of_acts: 5,
     slug: '/131/The Kids Are Alright' },
   { episode_number: '130',
@@ -5372,7 +5372,7 @@
     date_published: 'May 21, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/130.jpg?itok=swH9Rlcb',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/130.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/130.mp3',
     number_of_acts: 3,
     slug: '/130/Away From Home' },
   { episode_number: '129',
@@ -5381,7 +5381,7 @@
     date_published: 'May 14, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/129.jpg?itok=6PS9WxZD',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/129.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/129.mp3',
     number_of_acts: 4,
     slug: '/129/Advice' },
   { episode_number: '128',
@@ -5390,7 +5390,7 @@
     date_published: 'April 30, 1999',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/128.jpg?itok=eMQ8-zXF',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/128.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/128.mp3',
     number_of_acts: 5,
     slug: '/128/Four Corners' },
   { episode_number: '127',
@@ -5400,7 +5400,7 @@
     date_published: 'April 16, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/127.jpg?itok=cNU3ixmg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/127.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/127.mp3',
     number_of_acts: 3,
     slug: '/127/Pimp Anthropology' },
   { episode_number: '126',
@@ -5410,7 +5410,7 @@
     date_published: 'April 9, 1999',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/126.jpg?itok=yBMwOjsw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/126.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/126.mp3',
     number_of_acts: 3,
     slug: '/126/Do-Gooders' },
   { episode_number: '125',
@@ -5419,7 +5419,7 @@
     date_published: 'April 2, 1999',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/125.jpg?itok=zcKBZflV',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/125.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/125.mp3',
     number_of_acts: 5,
     slug: '/125/Apocalypse' },
   { episode_number: '124',
@@ -5428,7 +5428,7 @@
     date_published: 'March 19, 1999',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/124.jpg?itok=v7w5Xnq1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/124.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/124.mp3',
     number_of_acts: 3,
     slug: '/124/Welcome to America' },
   { episode_number: '123',
@@ -5437,7 +5437,7 @@
     date_published: 'February 26, 1999',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/123.jpg?itok=n9auoylg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/123.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/123.mp3',
     number_of_acts: 4,
     slug: '/123/High Cost of Living' },
   { episode_number: '122',
@@ -5446,7 +5446,7 @@
     date_published: 'February 12, 1999',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/122.jpg?itok=cueETiXR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/122.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/122.mp3',
     number_of_acts: 3,
     slug: '/122/Valentine’s Day ’99' },
   { episode_number: '121',
@@ -5456,7 +5456,7 @@
     date_published: 'January 29, 1999',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/121.jpg?itok=jba_mHex',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/121.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/121.mp3',
     number_of_acts: 3,
     slug: '/121/Twentieth Century Man' },
   { episode_number: '120',
@@ -5465,7 +5465,7 @@
     date_published: 'January 22, 1999',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/120.jpg?itok=tcNQ-vEl',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/120.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/120.mp3',
     number_of_acts: 4,
     slug: '/120/Be Careful Who You Pretend to Be' },
   { episode_number: '119',
@@ -5475,7 +5475,7 @@
     date_published: 'January 8, 1999',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/119.jpg?itok=NfiKDk5x',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/119.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/119.mp3',
     number_of_acts: 6,
     slug: '/119/Lockup' },
   { episode_number: '118',
@@ -5485,7 +5485,7 @@
     date_published: 'December 18, 1998',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/118.jpg?itok=aps7qbFR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/118.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/118.mp3',
     number_of_acts: 4,
     slug: '/118/What You Lookin’ At?' },
   { episode_number: '117',
@@ -5495,7 +5495,7 @@
     date_published: 'December 11, 1998',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/117.jpg?itok=pMfw8DYS',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/117.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/117.mp3',
     number_of_acts: 4,
     slug: '/117/You Gonna Eat That?' },
   { episode_number: '116',
@@ -5504,7 +5504,7 @@
     date_published: 'November 27, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/116.jpg?itok=Clkyyvn7',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/116.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/116.mp3',
     number_of_acts: 5,
     slug: '/116/Poultry Slam 1998' },
   { episode_number: '115',
@@ -5514,7 +5514,7 @@
     date_published: 'November 13, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/510-landscape.jpg?itok=0VlVkg-X',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/115.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/115.mp3',
     number_of_acts: 5,
     slug: '/115/First Day' },
   { episode_number: '114',
@@ -5523,7 +5523,7 @@
     date_published: 'October 23, 1998',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/114.jpg?itok=T-JBRENJ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/114.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/114.mp3',
     number_of_acts: 7,
     slug: '/114/Last Words' },
   { episode_number: '113',
@@ -5533,7 +5533,7 @@
     date_published: 'October 16, 1998',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/113.jpg?itok=YUnaYMUX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/113.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/113.mp3',
     number_of_acts: 5,
     slug: '/113/Windfall' },
   { episode_number: '112',
@@ -5542,7 +5542,7 @@
     date_published: 'October 2, 1998',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/112.jpg?itok=fv7u3ycY',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/112.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/112.mp3',
     number_of_acts: 6,
     slug: '/112/Ladies and Germs' },
   { episode_number: '111',
@@ -5552,7 +5552,7 @@
     date_published: 'September 11, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/111.jpg?itok=9h7zwfiy',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/111.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/111.mp3',
     number_of_acts: 3,
     slug: '/111/Adventures in the Simple Life' },
   { episode_number: '110',
@@ -5562,7 +5562,7 @@
     date_published: 'September 4, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/110.jpg?itok=JRvBpJQB',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/110.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/110.mp3',
     number_of_acts: 6,
     slug: '/110/Mapping' },
   { episode_number: '109',
@@ -5572,7 +5572,7 @@
     date_published: 'August 28, 1998',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/michela_buttignol_tal_notes_on_camp_final.jpg?itok=UHliFxLl',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/109.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/109.mp3',
     number_of_acts: 7,
     slug: '/109/Notes on Camp' },
   { episode_number: '108',
@@ -5581,7 +5581,7 @@
     date_published: 'August 7, 1998',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/108.jpg?itok=ey8_lVaN',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/108.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/108.mp3',
     number_of_acts: 3,
     slug: '/108/Truth and Lies at Age Ten' },
   { episode_number: '107',
@@ -5591,7 +5591,7 @@
     date_published: 'July 3, 1998',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/107.jpg?itok=0RUNcRnX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/107.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/107.mp3',
     number_of_acts: 3,
     slug: '/107/Trail of Tears' },
   { episode_number: '106',
@@ -5600,7 +5600,7 @@
     date_published: 'June 19, 1998',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/106.jpg?itok=6-kdcTd9',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/106.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/106.mp3',
     number_of_acts: 5,
     slug: '/106/Father’s Day ‘98' },
   { episode_number: '105',
@@ -5610,7 +5610,7 @@
     date_published: 'June 12, 1998',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/cedricspeech.png?itok=fKUnPhzI',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/105.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/105.mp3',
     number_of_acts: 3,
     slug: '/105/Take A Negro Home' },
   { episode_number: '104',
@@ -5619,7 +5619,7 @@
     date_published: 'June 5, 1998',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/104.jpg?itok=KTiXsqOx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/104.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/104.mp3',
     number_of_acts: 4,
     slug: '/104/Music Lessons' },
   { episode_number: '103',
@@ -5628,7 +5628,7 @@
     date_published: 'May 29, 1998',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/103.jpg?itok=qdmDPhsW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/103.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/103.mp3',
     number_of_acts: 2,
     slug: '/103/Scenes from A Transplant' },
   { episode_number: '102',
@@ -5637,7 +5637,7 @@
     date_published: 'May 22, 1998',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/102.jpg?itok=Fqseb0aw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/102.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/102.mp3',
     number_of_acts: 5,
     slug: '/102/Road Trip!' },
   { episode_number: '101',
@@ -5647,7 +5647,7 @@
     date_published: 'May 1, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/101.jpg?itok=K5zRRYe-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/101.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/101.mp3',
     number_of_acts: 2,
     slug: '/101/Niagara' },
   { episode_number: '100',
@@ -5657,7 +5657,7 @@
     date_published: 'April 24, 1998',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/100.jpg?itok=A4KxnDHy',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/100.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/100.mp3',
     number_of_acts: 5,
     slug: '/100/Radio' },
   { episode_number: '99',
@@ -5666,7 +5666,7 @@
     date_published: 'April 10, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/99.jpg?itok=I3RphCiR',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/99.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/99.mp3',
     number_of_acts: 5,
     slug: '/99/I Enjoy Being A Girl, Sort Of' },
   { episode_number: '98',
@@ -5675,7 +5675,7 @@
     date_published: 'March 27, 1998',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/98.jpg?itok=T0Ffdfjh',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/98.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/98.mp3',
     number_of_acts: 4,
     slug: '/98/Throwing the First Punch' },
   { episode_number: '97',
@@ -5684,7 +5684,7 @@
     date_published: 'March 20, 1998',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/97.jpg?itok=PG8OUfF8',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/97.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/97.mp3',
     number_of_acts: 7,
     slug: '/97/Death to Wacky' },
   { episode_number: '96',
@@ -5693,7 +5693,7 @@
     date_published: 'March 13, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/96.jpg?itok=GGbimRP5',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/96.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/96.mp3',
     number_of_acts: 3,
     slug: '/96/Pinned by History' },
   { episode_number: '95',
@@ -5703,7 +5703,7 @@
     date_published: 'March 6, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/95.jpg?itok=VqFtynra',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/95.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/95.mp3',
     number_of_acts: 4,
     slug: '/95/Monogamy' },
   { episode_number: '94',
@@ -5713,7 +5713,7 @@
     date_published: 'February 27, 1998',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/94.jpg?itok=dZ8oy4OT',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/94.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/94.mp3',
     number_of_acts: 4,
     slug: '/94/How To' },
   { episode_number: '93',
@@ -5723,7 +5723,7 @@
     date_published: 'February 13, 1998',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/93.jpg?itok=ftZf2COm',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/93.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/93.mp3',
     number_of_acts: 4,
     slug: '/93/Valentine’s Day ’98 ' },
   { episode_number: '92',
@@ -5733,7 +5733,7 @@
     date_published: 'February 6, 1998',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/92.jpg?itok=KRN2j9EG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/92.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/92.mp3',
     number_of_acts: 4,
     slug: '/92/Leave the Mask On' },
   { episode_number: '91',
@@ -5742,7 +5742,7 @@
     date_published: 'January 30, 1998',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/91.jpg?itok=ywhycW7b',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/91.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/91.mp3',
     number_of_acts: 3,
     slug: '/91/Escape the Box' },
   { episode_number: '90',
@@ -5751,7 +5751,7 @@
     date_published: 'January 16, 1998',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/90.jpg?itok=tFxX1iKW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/90.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/90.mp3',
     number_of_acts: 4,
     slug: '/90/Telephone' },
   { episode_number: '89',
@@ -5760,7 +5760,7 @@
     date_published: 'January 9, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/89.jpg?itok=jozIWxTy',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/89.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/89.mp3',
     number_of_acts: 5,
     slug: '/89/Sibling Rivalry' },
   { episode_number: '88',
@@ -5770,7 +5770,7 @@
     date_published: 'January 2, 1998',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/88.jpg?itok=anY1RnH6',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/88.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/88.mp3',
     number_of_acts: 6,
     slug: '/88/Numbers' },
   { episode_number: '87',
@@ -5779,7 +5779,7 @@
     date_published: 'December 19, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/87.jpg?itok=CR2oblGs',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/87.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/87.mp3',
     number_of_acts: 4,
     slug: '/87/A Very Special Sedaris Christmas' },
   { episode_number: '86',
@@ -5789,7 +5789,7 @@
     date_published: 'December 12, 1997',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/86.jpg?itok=VSfN3hnx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/86.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/86.mp3',
     number_of_acts: 3,
     slug: '/86/How to Take Money from Strangers' },
   { episode_number: '85',
@@ -5798,7 +5798,7 @@
     date_published: 'December 5, 1997',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/85.jpg?itok=AX12nZcg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/85.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/85.mp3',
     number_of_acts: 5,
     slug: '/85/Poultry Slam 1997' },
   { episode_number: '84',
@@ -5808,7 +5808,7 @@
     date_published: 'November 21, 1997',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/84.jpg?itok=YWL3r9Fx',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/84.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/84.mp3',
     number_of_acts: 3,
     slug: '/84/Harold' },
   { episode_number: '83',
@@ -5817,7 +5817,7 @@
     date_published: 'November 14, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/83.jpg?itok=w2-iM7jQ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/83.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/83.mp3',
     number_of_acts: 4,
     slug: '/83/One of Us' },
   { episode_number: '82',
@@ -5827,7 +5827,7 @@
     date_published: 'October 31, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/82.jpg?itok=5_b6aSBk',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/82.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/82.mp3',
     number_of_acts: 5,
     slug: '/82/Haunted' },
   { episode_number: '81',
@@ -5837,7 +5837,7 @@
     date_published: 'October 24, 1997',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/61-portrait-b.jpg?itok=u_5y33WO',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/81.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/81.mp3',
     number_of_acts: 6,
     slug: '/81/Guns' },
   { episode_number: '80',
@@ -5846,7 +5846,7 @@
     date_published: 'October 17, 1997',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/80.jpg?itok=CqMYW-gV',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/80.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/80.mp3',
     number_of_acts: 3,
     slug: '/80/Running After Antelope' },
   { episode_number: '79',
@@ -5856,7 +5856,7 @@
     date_published: 'October 10, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/79.jpg?itok=VxSob8oG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/79.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/79.mp3',
     number_of_acts: 6,
     slug: '/79/Stuck in the Wrong Decade' },
   { episode_number: '78',
@@ -5865,7 +5865,7 @@
     date_published: 'October 3, 1997',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/78.jpg?itok=WN1iEmwf',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/78.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/78.mp3',
     number_of_acts: 5,
     slug: '/78/How Bad Is Bad?' },
   { episode_number: '77',
@@ -5875,7 +5875,7 @@
     date_published: 'September 26, 1997',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/77.jpg?itok=elsoXT6Q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/77.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/77.mp3',
     number_of_acts: 3,
     slug: '/77/Pray' },
   { episode_number: '76',
@@ -5885,7 +5885,7 @@
     date_published: 'September 19, 1997',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/76.jpg?itok=JWla1S5-',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/76.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/76.mp3',
     number_of_acts: 4,
     slug: '/76/Mob' },
   { episode_number: '75',
@@ -5895,7 +5895,7 @@
     date_published: 'September 12, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/75.jpg?itok=6HuQzkca',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/75.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/75.mp3',
     number_of_acts: 5,
     slug: '/75/Kindness of Strangers' },
   { episode_number: '74',
@@ -5905,7 +5905,7 @@
     date_published: 'August 29, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/74.jpg?itok=g6SVvlNw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/74.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/74.mp3',
     number_of_acts: 4,
     slug: '/74/Conventions' },
   { episode_number: '73',
@@ -5915,7 +5915,7 @@
     date_published: 'August 22, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/73.jpg?itok=sY5u2RJE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/73.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/73.mp3',
     number_of_acts: 5,
     slug: '/73/Blame It on Art' },
   { episode_number: '72',
@@ -5925,7 +5925,7 @@
     date_published: 'August 8, 1997',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/72.jpg?itok=2hOAXF-n',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/72.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/72.mp3',
     number_of_acts: 3,
     slug: '/72/Trek' },
   { episode_number: '71',
@@ -5934,7 +5934,7 @@
     date_published: 'August 1, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/71.jpg?itok=79_WCMZl',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/71.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/71.mp3',
     number_of_acts: 4,
     slug: '/71/Defying Sickness' },
   { episode_number: '70',
@@ -5943,7 +5943,7 @@
     date_published: 'July 25, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/70.jpg?itok=LKoe9yEh',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/70.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/70.mp3',
     number_of_acts: 5,
     slug: '/70/Other People\'s Mail' },
   { episode_number: '69',
@@ -5952,7 +5952,7 @@
     date_published: 'July 18, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/69.jpg?itok=xKrZCABd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/69.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/69.mp3',
     number_of_acts: 3,
     slug: '/69/Dream House' },
   { episode_number: '68',
@@ -5961,7 +5961,7 @@
     date_published: 'July 4, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/68.jpg?itok=6EjHNPVc',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/68.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/68.mp3',
     number_of_acts: 5,
     slug: '/68/Lincoln\'s Second Inaugural' },
   { episode_number: '67',
@@ -5971,7 +5971,7 @@
     date_published: 'June 27, 1997',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/67.jpg?itok=zj0vGSBk',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/67.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/67.mp3',
     number_of_acts: 5,
     slug: '/67/Your Dream, My Nightmare' },
   { episode_number: '66',
@@ -5980,7 +5980,7 @@
     date_published: 'June 6, 1997',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/66.jpg?itok=dmsmnM0g',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/66.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/66.mp3',
     number_of_acts: 0,
     slug: '/66/Tales from the Net' },
   { episode_number: '65',
@@ -5990,7 +5990,7 @@
     date_published: 'May 30, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/65.jpg?itok=GDvgDjJq',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/65.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/65.mp3',
     number_of_acts: 5,
     slug: '/65/Who\'s Canadian?' },
   { episode_number: '64',
@@ -6000,7 +6000,7 @@
     date_published: 'May 23, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/64.jpg?itok=eac_yu3v',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/64.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/64.mp3',
     number_of_acts: 3,
     slug: '/64/Summer' },
   { episode_number: '63',
@@ -6009,7 +6009,7 @@
     date_published: 'May 9, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/63.jpg?itok=vfBcc0DV',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/63.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/63.mp3',
     number_of_acts: 5,
     slug: '/63/One Thing' },
   { episode_number: '62',
@@ -6019,7 +6019,7 @@
     date_published: 'May 2, 1997',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/62-portrait.png?itok=fQWKDh9R',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/62.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/62.mp3',
     number_of_acts: 5,
     slug: '/62/Something for Nothing' },
   { episode_number: '61',
@@ -6029,7 +6029,7 @@
     date_published: 'April 25, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/fiasco-2-portrait.jpg?itok=5h2p3MWw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/61.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/61.mp3',
     number_of_acts: 4,
     slug: '/61/Fiasco!' },
   { episode_number: '60',
@@ -6038,7 +6038,7 @@
     date_published: 'April 18, 1997',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/60.jpg?itok=arNkc0OP',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/60.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/60.mp3',
     number_of_acts: 6,
     slug: '/60/Business of Death' },
   { episode_number: '59',
@@ -6047,7 +6047,7 @@
     date_published: 'April 11, 1997',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/59.jpg?itok=0yBGdK8q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/59.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/59.mp3',
     number_of_acts: 5,
     slug: '/59/Fire' },
   { episode_number: '58',
@@ -6056,7 +6056,7 @@
     date_published: 'April 4, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/58.jpg?itok=bUER_S_P',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/58.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/58.mp3',
     number_of_acts: 4,
     slug: '/58/Small Towns' },
   { episode_number: '57',
@@ -6066,7 +6066,7 @@
     date_published: 'March 14, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/57.jpg?itok=R9IJaC7u',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/57.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/57.mp3',
     number_of_acts: 6,
     slug: '/57/Delivery' },
   { episode_number: '56',
@@ -6076,7 +6076,7 @@
     date_published: 'March 7, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/56-portrait.jpg?itok=FdOBIbNG',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/56.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/56.mp3',
     number_of_acts: 5,
     slug: '/56/Name Change' },
   { episode_number: '55',
@@ -6085,7 +6085,7 @@
     date_published: 'February 28, 1997',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/55.jpg?itok=wCaH7N1E',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/55.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/55.mp3',
     number_of_acts: 3,
     slug: '/55/Three Women and the Sex Industry' },
   { episode_number: '54',
@@ -6094,7 +6094,7 @@
     date_published: 'February 21, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/54.JPG?itok=ltO5RaLC',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/54.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/54.mp3',
     number_of_acts: 6,
     slug: '/54/Sinatra' },
   { episode_number: '53',
@@ -6104,7 +6104,7 @@
     date_published: 'February 7, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/landscape-53.jpg?itok=CUXsC0jo',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/53.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/53.mp3',
     number_of_acts: 6,
     slug: '/53/Valentine’s Day ‘97' },
   { episode_number: '52',
@@ -6113,7 +6113,7 @@
     date_published: 'January 31, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/52.jpg?itok=oVK44VuO',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/52.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/52.mp3',
     number_of_acts: 5,
     slug: '/52/Edge of Sanity' },
   { episode_number: '51',
@@ -6123,7 +6123,7 @@
     date_published: 'January 24, 1997',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/51.jpg?itok=FI32NiI3',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/51.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/51.mp3',
     number_of_acts: 5,
     slug: '/51/Animals Die, People Ponder' },
   { episode_number: '50',
@@ -6133,7 +6133,7 @@
     date_published: 'January 17, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/50.jpg?itok=z1QKXqbH',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/50.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/50.mp3',
     number_of_acts: 6,
     slug: '/50/Shoulda Been Dead' },
   { episode_number: '49',
@@ -6142,7 +6142,7 @@
     date_published: 'January 10, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/49.jpg?itok=jFHJ9otZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/49.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/49.mp3',
     number_of_acts: 4,
     slug: '/49/Animals' },
   { episode_number: '48',
@@ -6151,7 +6151,7 @@
     date_published: 'January 3, 1997',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/48.jpg?itok=4ivtDtxj',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/48.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/48.mp3',
     number_of_acts: 3,
     slug: '/48/Justice' },
   { episode_number: '47',
@@ -6161,7 +6161,7 @@
     date_published: 'December 20, 1996',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/47-portrait.jpg?itok=myTfexyw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/47.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/47.mp3',
     number_of_acts: 4,
     slug: '/47/Christmas and Commerce' },
   { episode_number: '46',
@@ -6171,7 +6171,7 @@
     date_published: 'December 13, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/46.jpg?itok=iUkxoXjn',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/46.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/46.mp3',
     number_of_acts: 4,
     slug: '/46/Sissies' },
   { episode_number: '45',
@@ -6181,7 +6181,7 @@
     date_published: 'December 6, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/45-landscape.jpg?itok=0mr5P1x0',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/45.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/45.mp3',
     number_of_acts: 4,
     slug: '/45/Media Fringe' },
   { episode_number: '44',
@@ -6191,7 +6191,7 @@
     date_published: 'November 29, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/44.jpg?itok=BrREKxf4',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/44.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/44.mp3',
     number_of_acts: 6,
     slug: '/44/Poultry Slam 1996' },
   { episode_number: '43',
@@ -6200,7 +6200,7 @@
     date_published: 'November 22, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/43.jpg?itok=j5ZSKc5F',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/43.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/43.mp3',
     number_of_acts: 5,
     slug: '/43/Faustian Bargains' },
   { episode_number: '42',
@@ -6210,7 +6210,7 @@
     date_published: 'November 15, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/42-portrait.jpg?itok=knrC7e9W',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/42.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/42.mp3',
     number_of_acts: 3,
     slug: '/42/Get Over It!' },
   { episode_number: '41',
@@ -6219,7 +6219,7 @@
     date_published: 'November 8, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/41.jpg?itok=hmtwPFY7',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/41.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/41.mp3',
     number_of_acts: 4,
     slug: '/41/Politics' },
   { episode_number: '40',
@@ -6228,7 +6228,7 @@
     date_published: 'November 1, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/40.jpg?itok=QGoDw17L',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/40.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/40.mp3',
     number_of_acts: 4,
     slug: '/40/Lessons' },
   { episode_number: '39',
@@ -6237,7 +6237,7 @@
     date_published: 'October 25, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/39.jpg?itok=Hbv5NM5i',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/39.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/39.mp3',
     number_of_acts: 7,
     slug: '/39/Halloween' },
   { episode_number: '38',
@@ -6246,7 +6246,7 @@
     date_published: 'October 11, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/38.jpg?itok=qe9RfFAd',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/38.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/38.mp3',
     number_of_acts: 4,
     slug: '/38/Simulated Worlds' },
   { episode_number: '37',
@@ -6256,7 +6256,7 @@
     date_published: 'September 27, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/37-portrait.jpg?itok=DBl3v2yZ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/37.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/37.mp3',
     number_of_acts: 5,
     slug: '/37/The Job That Takes Over Your Life' },
   { episode_number: '36',
@@ -6266,7 +6266,7 @@
     date_published: 'September 20, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/36.jpg?itok=3iKkk0_k',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/36.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/36.mp3',
     number_of_acts: 1,
     slug: '/36/Letters' },
   { episode_number: '35',
@@ -6275,7 +6275,7 @@
     date_published: 'September 6, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/35.jpg?itok=8fU7d-SX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/35.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/35.mp3',
     number_of_acts: 5,
     slug: '/35/Fall Clearance Sale' },
   { episode_number: '34',
@@ -6284,7 +6284,7 @@
     date_published: 'August 30, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/34.jpg?itok=s2K4n36m',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/34.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/34.mp3',
     number_of_acts: 5,
     slug: '/34/Democratic Convention' },
   { episode_number: '33',
@@ -6293,7 +6293,7 @@
     date_published: 'August 23, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/33.jpg?itok=6Kh_C82J',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/33.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/33.mp3',
     number_of_acts: 5,
     slug: '/33/A Night at the Wiener Circle' },
   { episode_number: '32',
@@ -6303,7 +6303,7 @@
     date_published: 'August 16, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/32.jpg?itok=-xUNgCDz',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/32.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/32.mp3',
     number_of_acts: 3,
     slug: '/32/Republican Convention' },
   { episode_number: '31',
@@ -6312,7 +6312,7 @@
     date_published: 'August 9, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/31.jpg?itok=oMenNnKK',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/31.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/31.mp3',
     number_of_acts: 4,
     slug: '/31/When You Talk About Music' },
   { episode_number: '30',
@@ -6322,7 +6322,7 @@
     date_published: 'July 26, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/30.jpg?itok=NsO7cBOA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/30.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/30.mp3',
     number_of_acts: 4,
     slug: '/30/Obsession' },
   { episode_number: '29',
@@ -6331,7 +6331,7 @@
     date_published: 'July 19, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/29.jpg?itok=Nr0DGFkW',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/29.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/29.mp3',
     number_of_acts: 4,
     slug: '/29/Bob Dole' },
   { episode_number: '28',
@@ -6340,7 +6340,7 @@
     date_published: 'July 12, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/28.jpg?itok=RbBHdPHu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/28.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/28.mp3',
     number_of_acts: 3,
     slug: '/28/Detectives' },
   { episode_number: '27',
@@ -6350,7 +6350,7 @@
     date_published: 'June 21, 1996',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/ping_zhu_cruelty_of_children_final.jpg?itok=MhNi2wYe',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/27.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/27.mp3',
     number_of_acts: 4,
     slug: '/27/The Cruelty of Children' },
   { episode_number: '26',
@@ -6360,7 +6360,7 @@
     date_published: 'June 14, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/26-landscape.jpg?itok=bJqz33ph',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/26.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/26.mp3',
     number_of_acts: 4,
     slug: '/26/Father\'s Day \'96' },
   { episode_number: '25',
@@ -6369,7 +6369,7 @@
     date_published: 'June 7, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/25.jpg?itok=WlAFp9GX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/25.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/25.mp3',
     number_of_acts: 5,
     slug: '/25/Basketball' },
   { episode_number: '24',
@@ -6378,7 +6378,7 @@
     date_published: 'May 24, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/24.jpg?itok=ImZ-7E_m',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/24.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/24.mp3',
     number_of_acts: 4,
     slug: '/24/Teenaged Girls' },
   { episode_number: '23',
@@ -6387,7 +6387,7 @@
     date_published: 'May 10, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/23-portrait.jpg?itok=mFR7G3EQ',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/23.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/23.mp3',
     number_of_acts: 5,
     slug: '/23/Drama Bug' },
   { episode_number: '22',
@@ -6396,7 +6396,7 @@
     date_published: 'May 3, 1996',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/22.jpg?itok=Er8lmLX1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/22.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/22.mp3',
     number_of_acts: 4,
     slug: '/22/Adult Children' },
   { episode_number: '21',
@@ -6405,7 +6405,7 @@
     date_published: 'April 26, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/21.jpg?itok=VmWPSkyu',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/21.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/21.mp3',
     number_of_acts: 3,
     slug: '/21/Factions' },
   { episode_number: '20',
@@ -6414,7 +6414,7 @@
     date_published: 'April 19, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/20.jpg?itok=MlDGoCx3',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/20.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/20.mp3',
     number_of_acts: 4,
     slug: '/20/From A Distance' },
   { episode_number: '19',
@@ -6423,7 +6423,7 @@
     date_published: 'April 12, 1996',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/19.jpg?itok=89qzEPxw',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/19.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/19.mp3',
     number_of_acts: 4,
     slug: '/19/Rich Guys' },
   { episode_number: '18',
@@ -6432,7 +6432,7 @@
     date_published: 'March 28, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/18.jpg?itok=qm1mz5Ve',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/18.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/18.mp3',
     number_of_acts: 2,
     slug: '/18/Liars' },
   { episode_number: '17',
@@ -6441,7 +6441,7 @@
     date_published: 'March 21, 1996',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/17.jpg?itok=N1Y6lBP1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/17.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/17.mp3',
     number_of_acts: 4,
     slug: '/17/Name Change / No Theme' },
   { episode_number: '16',
@@ -6450,7 +6450,7 @@
     date_published: 'March 14, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/16.jpg?itok=DNntli1m',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/16.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/16.mp3',
     number_of_acts: 4,
     slug: '/16/Economy' },
   { episode_number: '15',
@@ -6460,7 +6460,7 @@
     date_published: 'February 28, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/15.jpg?itok=L9Hb1H2O',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/15.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/15.mp3',
     number_of_acts: 3,
     slug: '/15/Dawn' },
   { episode_number: '14',
@@ -6469,7 +6469,7 @@
     date_published: 'February 21, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/14.jpg?itok=ZK1jc5P1',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/14.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/14.mp3',
     number_of_acts: 4,
     slug: '/14/Accidental Documentaries' },
   { episode_number: '13',
@@ -6478,7 +6478,7 @@
     date_published: 'February 7, 1996',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/13.jpg?itok=QEYymoiT',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/13.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/13.mp3',
     number_of_acts: 4,
     slug: '/13/Love' },
   { episode_number: '12',
@@ -6488,7 +6488,7 @@
     date_published: 'January 31, 1996',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/12.jpg?itok=bqbj4249',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/12.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/12.mp3',
     number_of_acts: 4,
     slug: '/12/Animals' },
   { episode_number: '11',
@@ -6497,7 +6497,7 @@
     date_published: 'January 24, 1996',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/11.jpg?itok=_0htmZc2',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/11.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/11.mp3',
     number_of_acts: 4,
     slug: '/11/Enemies' },
   { episode_number: '10',
@@ -6506,7 +6506,7 @@
     date_published: 'January 17, 1996',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/10.jpg?itok=Gvl8neVA',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/10.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/10.mp3',
     number_of_acts: 5,
     slug: '/10/Double Lives' },
   { episode_number: '9',
@@ -6515,7 +6515,7 @@
     date_published: 'January 10, 1996',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/9.jpg?itok=fM6yRKt8',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/9.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/9.mp3',
     number_of_acts: 3,
     slug: '/9/Julia Sweeney' },
   { episode_number: '8',
@@ -6524,7 +6524,7 @@
     date_published: 'January 3, 1996',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/square/public/episodes/images/8.jpg?itok=_HZZFO-q',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/8.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/8.mp3',
     number_of_acts: 4,
     slug: '/8/New Year' },
   { episode_number: '7',
@@ -6534,7 +6534,7 @@
     date_published: 'December 29, 1995',
     image:
      'https://hw4.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/7.jpg?itok=wDX7iSRg',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/7.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/7.mp3',
     number_of_acts: 5,
     slug: '/7/Quitting' },
   { episode_number: '6',
@@ -6543,7 +6543,7 @@
     date_published: 'December 22, 1995',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/6.jpg?itok=It_0F4da',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/6.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/6.mp3',
     number_of_acts: 4,
     slug: '/6/Christmas' },
   { episode_number: '5',
@@ -6553,7 +6553,7 @@
     date_published: 'December 15, 1995',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/5.jpg?itok=NIE30CIF',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/5.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/5.mp3',
     number_of_acts: 6,
     slug: '/5/Anger and Forgiveness' },
   { episode_number: '4',
@@ -6563,7 +6563,7 @@
     date_published: 'December 8, 1995',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/4.jpg?itok=uoNt5PRE',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/4.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/4.mp3',
     number_of_acts: 3,
     slug: '/4/Vacations' },
   { episode_number: '3',
@@ -6573,7 +6573,7 @@
     date_published: 'December 1, 1995',
     image:
      'https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/3.jpg?itok=mtIRcyvt',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/3.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/3.mp3',
     number_of_acts: 6,
     slug: '/3/Poultry Slam 1995' },
   { episode_number: '2',
@@ -6582,7 +6582,7 @@
     date_published: 'November 24, 1995',
     image:
      'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/2.jpg?itok=4c_Z70uX',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/2.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/2.mp3',
     number_of_acts: 4,
     slug: '/2/Small Scale Sin' },
   { episode_number: '1',
@@ -6591,6 +6591,6 @@
     date_published: 'November 17, 1995',
     image:
      'https://hw2.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/1.jpg?itok=zoom9Rja',
-    podcast_url: 'http://assets.thisamericanlife.co/podcasts/1.mp3',
+    podcast_url: 'https://podcast.thisamericanlife.org/podcast/1.mp3',
     number_of_acts: 5,
     slug: '/1/New Beginnings' } ]

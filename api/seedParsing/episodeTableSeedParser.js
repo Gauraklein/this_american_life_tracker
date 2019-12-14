@@ -14,7 +14,7 @@ extractEpisodeinfo = (individualEpisode) => {
         episode_description: individualEpisode.description,
         date_published: individualEpisode.date,
         image: individualEpisode.image,
-        podcast_url: "http://assets.thisamericanlife.co/podcasts/" + individualEpisode.number + ".mp3",
+        podcast_url: "https://podcast.thisamericanlife.org/podcast/" + individualEpisode.number + ".mp3",
         number_of_acts: individualEpisode.acts.length,
         slug: '/' + individualEpisode.number + '/' + individualEpisode.title
     }

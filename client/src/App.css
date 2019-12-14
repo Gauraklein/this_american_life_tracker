@@ -499,3 +499,23 @@ html.sr .widget {
 .episodeMetadataImg {
   max-width: 200px;
 }
+
+.episodeMetadataModalBody {
+  height: 80%;
+  width: 50%;
+  border: solid 3px black;
+  z-index: 1;
+  background: grey;
+  overflow: auto;
+  position: absolute;
+  align-self: center;
+  margin-top: 100px;;
+  border-radius: 10px;
+  opacity: .9;
+}
+
+.episodeMetadataContainerRendered {
+
+  display: flex;
+  flex-direction: column;
+}
