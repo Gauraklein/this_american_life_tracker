@@ -3,9 +3,9 @@ const initState = {
        
     ],
     isLoading: false,
-    isLoginOpen: false,
+    modal: null,
     isUserLoggedIn: false,
-    isEpisodeMetadataOpen: false
+    episodeMetadata: []
 }
 
 const rootReducer = (state = initState, action) => {
@@ -31,18 +31,18 @@ const rootReducer = (state = initState, action) => {
     if (action.type === "TOGGLE_LOGIN") {
         // console.log('login action has been called')
 
-        if (!state.isLoginOpen) {
+        if (state.modal !== 'login') {
             // console.log(state, 'reducer')
             return {
                 ...state,
-                isLoginOpen: true
+                modal: 'login'
             }
 
         } else {
             // console.log(state, 'reducer')
             return {
                 ...state,
-                isLoginOpen: false
+                modal: null
             }
         }
     }
@@ -72,15 +72,23 @@ const rootReducer = (state = initState, action) => {
     if (action.type === "VIEW_EPISODE_METADATA") {
         console.log('Episode metadata toggle')
         
-        if (state.isEpisodeMetadataOpen) {
+        if (state.modal !== 'episodeMetadata') {
+            console.log(state, 'reducer')
+
             return {
                 ...state,
-                isEpisodeMetadataOpen: false
+                modal: 'episodeMetadata',
+                episodeMetadata: action.payload
             }
         } else {
+            console.log(state, 'reducer')
+
             return {
+                
                 ...state,
-                isEpisodeMetadataOpen: true
+                modal: null,
+                episodeMetadata: []
+                
             }
         }
     }

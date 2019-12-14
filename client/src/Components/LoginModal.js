@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './LoginModal.css'
+// import styles from './LoginModal.css'
 
 
 // console.log(styles.modalBody)
@@ -31,7 +31,7 @@ export const LoginModal = (props) => {
 
 function checkLogin (props) {
   // console.log('checklogin is running')
-  if (props.isLoginOpen === true) {
+  if (props.modal == 'login') {
     return ""
   } else {
     return "hidden"

@@ -495,3 +495,7 @@ html.sr .widget {
 .hidden {
   display: none;
 }
+
+.episodeMetadataImg {
+  max-width: 200px;
+}

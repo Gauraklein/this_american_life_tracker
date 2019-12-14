@@ -1,9 +1,7 @@
-// const bcrypt = require("bcrypt");
-// const saltRounds = 10;
+
 
 export const toggleLoginModal = () => {
-    // console.log('login action triggered')
-    // console.log(props)
+   
     return (dispatch) => {
        
             dispatch({

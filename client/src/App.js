@@ -12,7 +12,8 @@ import { toggleLoginModal, loginUser, logoutUser } from './actions/LoginModalAct
 import { EpisodeContainer } from './Components/EpisodeContainer'
 import { Nav } from './Components/Nav'
 import { Footer } from './Components/Footer'
-import { LoginModal } from './Components/LoginModal/LoginModal'
+import { LoginModal } from './Components/LoginModal'
+import { EpisodeMetadataModal } from './Components/EpisodeMetadataModal'
 
 
 
@@ -35,6 +36,8 @@ class App extends Component {
 
             <LoginModal {...this.props} />
 
+            <EpisodeMetadataModal {...this.props} />
+
             <EpisodeContainer {...this.props} />
 
            
@@ -50,9 +53,9 @@ const mapStateToProps = (state) => {
   return {
     allEpisodesArray: state.allEpisodesArray,
     isLoading: state.isLoading,
-    isLoginOpen: state.isLoginOpen,
+    modal: state.modal,
     isUserLoggedIn: state.isUserLoggedIn,
-    isEpisodeMetadataOpen: state.isEpisodeMetadataOpen
+    episodeMetadata: state.episodeMetadata
 
   }
 }
