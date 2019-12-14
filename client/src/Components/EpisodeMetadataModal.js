@@ -25,6 +25,8 @@ function renderEpisode (episodeMetadata, props) {
             "MMM Do YYYY"
           );
 
+        let episodeUrl = "https://podcast.thisamericanlife.org/podcast/" + episodeMetadata[0].episode_number + ".mp3"
+
     return (
     <div className="episodeMetadataContainerRendered">
 
@@ -39,7 +41,8 @@ function renderEpisode (episodeMetadata, props) {
         <h1>{episodeMetadata[0].episode_title}</h1>
         <br/>
         <p>{episodeMetadata[0].episode_description}</p>
-        <audio src={"https://podcast.thisamericanlife.org/podcast/" + episodeMetadata[0].episode_number + ".mp3"} type="audio/mpeg" controls autoPlay>audio</audio>
+        
+        <button onClick={props.playEpisode.bind(this, episodeUrl)}>Play Episode</button>
 
         <br/>
         <div className="episodeMetadataImgContainer">

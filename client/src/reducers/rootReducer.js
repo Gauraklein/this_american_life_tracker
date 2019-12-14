@@ -5,15 +5,14 @@ const initState = {
     isLoading: false,
     modal: null,
     isUserLoggedIn: false,
-    episodeMetadata: []
+    episodeMetadata: [],
+    shouldAudioPlay: false,
+    episodePlayUrl: null
 }
 
 const rootReducer = (state = initState, action) => {
 
     console.log(action.type, '----- action type')
-
-    
-
 
     // LOADS EPISODES
 
@@ -90,6 +89,17 @@ const rootReducer = (state = initState, action) => {
                 episodeMetadata: []
                 
             }
+        }
+    }
+
+    // EPISODE PLAY
+
+    if (action.type === 'PLAY_EPISODE') {
+        console.log(state)
+        return {
+            ...state,
+            shouldAudioPlay: true,
+            episodePlayUrl: action.payload
         }
     }
     // this is the original state

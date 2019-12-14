@@ -4,14 +4,17 @@ import './App.css';
 import 'redux'
 
 import { connect } from 'react-redux'
+
+// Actions
 import { callApiAction, handleEpisodeClick} from './actions/episodeActions'
 import { toggleLoginModal, loginUser, logoutUser } from './actions/LoginModalActions'
+import {playEpisode} from './actions/playEpisodeActions'
 
 
 // COMPONENTS 
 import { EpisodeContainer } from './Components/EpisodeContainer'
 import { Nav } from './Components/Nav'
-import { Footer } from './Components/Footer'
+import { AudioFooter } from './Components/Footer'
 import { LoginModal } from './Components/LoginModal'
 import { EpisodeMetadataModal } from './Components/EpisodeMetadataModal'
 
@@ -40,9 +43,7 @@ class App extends Component {
 
             <EpisodeContainer {...this.props} />
 
-           
-
-          <Footer />
+          <AudioFooter {...this.props} />
       </div>
     )
   }
@@ -55,7 +56,9 @@ const mapStateToProps = (state) => {
     isLoading: state.isLoading,
     modal: state.modal,
     isUserLoggedIn: state.isUserLoggedIn,
-    episodeMetadata: state.episodeMetadata
+    episodeMetadata: state.episodeMetadata,
+    shouldAudioPlay: state.shouldAudioPlay,
+    episodePlayUrl: state.episodePlayUrl
 
   }
 }
@@ -65,7 +68,8 @@ const mapStateToProps = (state) => {
     toggleLoginModal: () => dispatch(toggleLoginModal()),
     loginUser: () => dispatch(loginUser()),
     logoutUser: () => dispatch(logoutUser()),
-    handleEpisodeClick: (id) => dispatch(handleEpisodeClick(id))
+    handleEpisodeClick: (id) => dispatch(handleEpisodeClick(id)),
+    playEpisode: (url) => dispatch(playEpisode(url))
    };
   }
 
