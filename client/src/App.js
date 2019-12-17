@@ -6,7 +6,7 @@ import 'redux'
 import { connect } from 'react-redux'
 
 // Actions
-import { callApiAction, handleEpisodeClick} from './actions/episodeActions'
+import { callApiAction, handleEpisodeClick, backToAllEpisodes} from './actions/episodeActions'
 import { toggleLoginModal, loginUser, logoutUser } from './actions/LoginModalActions'
 import {playEpisode} from './actions/playEpisodeActions'
 
@@ -40,7 +40,7 @@ class App extends Component {
 
             <LoginModal {...this.props} />
 
-            <EpisodeMetadataModal {...this.props} />
+            {/* <EpisodeMetadataModal {...this.props} /> */}
 
             {/* <Intro /> */}
 
@@ -73,7 +73,8 @@ const mapStateToProps = (state) => {
     loginUser: () => dispatch(loginUser()),
     logoutUser: () => dispatch(logoutUser()),
     handleEpisodeClick: (id) => dispatch(handleEpisodeClick(id)),
-    playEpisode: (url) => dispatch(playEpisode(url))
+    playEpisode: (url) => dispatch(playEpisode(url)),
+    backToAllEpisodes: () => dispatch(backToAllEpisodes())
    };
   }
 

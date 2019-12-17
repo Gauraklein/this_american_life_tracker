@@ -31,6 +31,14 @@ export const handleEpisodeClick = (episodeId) => {
   }
 }
 
+export const backToAllEpisodes = () => {
+  return (dispatch) => {
+    dispatch({
+      type: "BACK_TO_ALL_EPISODES"
+    })
+  }
+}
+
 // function callAPI () {
 //     fetch("http://localhost:9000/allEpisodes")
 //     .then(res => res.json())

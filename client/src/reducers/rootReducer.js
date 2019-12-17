@@ -67,7 +67,7 @@ const rootReducer = (state = initState, action) => {
         }
     }
 
-    // EPISODE VIEW TOGGLE
+    // SINGLE EPISODE VIEW 
 
     if (action.type === "VIEW_EPISODE_METADATA") {
         console.log('Episode metadata toggle')
@@ -92,6 +92,21 @@ const rootReducer = (state = initState, action) => {
             }
         }
     }
+
+    // BACK TO ALL EPISODES 
+
+    if (action.type === "BACK_TO_ALL_EPISODES") {
+        if (state.singleEpisodeView) {
+            return {
+                
+                ...state,
+                singleEpisodeView: false,
+                episodeMetadata: []
+                
+            }
+        }
+    }
+
 
     // EPISODE PLAY
 

@@ -101,15 +101,14 @@ li {
 
 /* CONTENT  */
 
+/* CARDS CARDS CARDS  */
+
 .episodeCardContainer {
     overflow: scroll;
     background: #F0F0F0;
 }
 
-.SingleEpisodeContainer {
-  overflow: scroll;
-  background: #F0F0F0;
-}
+
 
 .episodeCard {
    border: 3px solid black;
@@ -130,6 +129,57 @@ li {
 }
 
 
+/* SINGLE EPISODE SINGLE EPISODE SINGLE EPISODE  */
+
+.SingleEpisodeContainer {
+  overflow: scroll;
+  background: #F0F0F0;
+}
+
+.episodeMetaSticky {
+  /* position: absolute; */
+}
+
+.episodeMetaScroll {
+  /* position: relative; */
+}
+
+.episodeMetaStickyTopRow {
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.singleEpisodeBackButton {
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.singleEpisodePlayAndTitle {
+  padding: 10px;
+}
+
+.playEpisodeButton {
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+ hr {
+   width: 80%;
+   -webkit-box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
+ }
+
+ .episodeMetadataImg {
+  max-width: 50%;
+  border-radius: 30px;
+  -webkit-box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
+}
+
+.singleEpisodeActs {
+  margin: 10px;
+}
 /* INTRO INTRO INTRO INTRO INTRO  */
 
 h2 {
@@ -524,10 +574,6 @@ html.sr .widget {
 
 .hidden {
   display: none;
-}
-
-.episodeMetadataImg {
-  max-width: 200px;
 }
 
 .episodeMetadataModalBody {

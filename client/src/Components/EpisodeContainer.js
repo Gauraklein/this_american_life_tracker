@@ -28,7 +28,7 @@ export const EpisodeContainer = (props) => {
 
       return (
 
-        <div className="SingleEpisodeContainer flex8 flex-column">
+        <div className="SingleEpisodeContainer flex8">
           {renderEpisode(props.episodeMetadata, props)}
           </div>
           
@@ -49,28 +49,42 @@ function renderEpisode (episodeMetadata, props) {
       let episodeUrl = "https://podcast.thisamericanlife.org/podcast/" + episodeMetadata[0].episode_number + ".mp3"
 
   return (
-  <div className="episodeMetadataContainer">
+  <div className="SingleEpisodeMetadataContainer flex-column">
 
-      <p>
-          Episode {episodeMetadata[0].episode_number} -- {publishDate}
-      </p>
+    <div className="episodeMetaSticky flex-column flex1">
 
-      <button className="closeEpisodeMetadataButton">Close</button>
+      <div className="episodeMetaStickyTopRow flex-row">
 
-      <br/>
+        <button onClick={props.backToAllEpisodes.bind(this)} className="singleEpisodeBackButton">Back</button>
 
-      <h1>{episodeMetadata[0].episode_title}</h1>
-      <br/>
-      <p>{episodeMetadata[0].episode_description}</p>
-      
-      <button onClick={props.playEpisode.bind(this, episodeUrl)}>Play Episode</button>
-
-      <br/>
-      <div className="episodeMetadataImgContainer">
-      <img className="episodeMetadataImg"src={episodeMetadata[0].image} alt=""/>
+        <p>
+            Episode {episodeMetadata[0].episode_number} -- {publishDate}
+        </p>
+ 
+      </div>
+          
+      <div className="episeodeMetaBottomRow flex-column centered">
+        <div className="singleEpisodePlayAndTitle flex-row">
+          <button className="playEpisodeButton" onClick={props.playEpisode.bind(this, episodeUrl)}>Play Episode</button>
+          <h1>{episodeMetadata[0].episode_title}</h1>
+        </div>
+          <hr/>
+          <p>{episodeMetadata[0].episode_description}</p>
+          
       </div>
 
-      {episodeMetadata.map(RenderAct)}
+    </div>
+
+    <div className="episodeMetaScroll flex9 flex-column">
+
+      <div className="episodeMetadataImgContainer centered">
+        <img className="episodeMetadataImg"src={episodeMetadata[0].image} alt=""/>
+      </div>
+
+      <div className="singleEpisodeActs">
+        {episodeMetadata.map(RenderAct)}
+      </div>
+    </div>
   </div>
   )
   }
@@ -85,18 +99,18 @@ function RenderAct(act) {
       actNumberName = "Prologue"
   } else {
       let actNumberForRendering = act.act_number.charAt(act.act_number.length - 1)
-      actNumberName = "Act" + actNumberForRendering
+      actNumberName = "Act " + actNumberForRendering
   }
 
 
   return (
       <div className="actContainer">
           <h3>{actNumberName}: {act.act_title}</h3> 
-          <br/>
+          
           <p><i>{act.producers}</i></p>
-          <br/>
+          
           <p>{act.act_description}</p>
-          <br/>
+          
           {renderSong(act)}
 
       </div>
@@ -110,7 +124,7 @@ function renderSong (act) {
       let actSong = act.act_song
 
       return (
-          <p>Song: {actSong}</p>
+          <p><i>Song: {actSong}</i></p>
       )
   }
 }
