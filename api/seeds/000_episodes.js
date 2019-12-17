@@ -4,7 +4,17 @@ exports.seed = function(knex) {
   return knex('episodes').del()
     .then(function () {
       // Inserts seed entries
-      return knex('episodes').insert([ { episode_number: '688',
+      return knex('episodes').insert([ { episode_number: '689',
+      episode_title: 'Digging Up the Bones ',
+      episode_description:
+       'There\'s a lot that can be gained from unearthing the past -- learning about oneself, learning about others. But, it doesn\'t always go how you\'d expect.',
+      date_published: 'December 6, 2019',
+      image:
+       'https://hw1.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/digging_up_the_bones_ping_zhu.jpg?itok=98gMoTBo',
+      podcast_url: 'https://podcast.thisamericanlife.org/podcast/689.mp3',
+      number_of_acts: 5,
+      slug: '/689/Digging Up the Bones ' },
+        { episode_number: '688',
       episode_title: 'The Out Crowd',
       episode_description:
        'Reports from the frontlines of the Trump administration\'s "Remain in Mexico" asylum policy. We hear from asylum seekers waiting across the border in Mexico, in a makeshift refugee camp,  and from the officers who sent them there to wait in the first place. ',

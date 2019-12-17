@@ -1,4 +1,6 @@
 const allEpisodeData = require("./allEpisodeData")
+const newestEpisode = require("../newestEpisode")
+
 
 // console.log(allEpisodeData.allEpisodeData[0])
 
@@ -23,7 +25,9 @@ extractEpisodeinfo = (individualEpisode) => {
 
 }
 
-allEpisodeData.allEpisodeData.map(extractEpisodeinfo)
+// allEpisodeData.allEpisodeData.map(extractEpisodeinfo)
+
+extractEpisodeinfo(newestEpisode.newestEpisode)
 
 console.dir(episodeSeedData, {depth: null, maxArrayLength: null})
 

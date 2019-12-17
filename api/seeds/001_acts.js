@@ -5,7 +5,47 @@ exports.seed = function(knex) {
     .then(function () {
       // Inserts seed entries
       return knex('acts').insert(
-        [ { episode_number: '688',
+        [ { episode_number: '689',
+        episode_title: 'Digging Up the Bones ',
+        act_number: '689.0',
+        act_title: 'Prologue',
+        producers: '',
+        act_description:
+         'Host Ira talks with producer Emanuele Berry about the man who tried to find one of history’s -- and literature’s -- most storied cities. (8 minutes)',
+        act_song: '' },
+      { episode_number: '689',
+        episode_title: 'Digging Up the Bones ',
+        act_number: '689.1',
+        act_title: 'Family Plot',
+        producers: 'Lina Misitzis',
+        act_description:
+         'Producer Lina Misitzis travels to Greece with her family to exhume the bones of her dead grandmother. (20 minutes)',
+        act_song: '' },
+      { episode_number: '689',
+        episode_title: 'Digging Up the Bones ',
+        act_number: '689.2',
+        act_title: 'Next of Kindle',
+        producers: 'Bim Adewunmi',
+        act_description:
+         'After his mother passes, a man unearths her book collection… and is surprised. (6 1/2 minutes)',
+        act_song: '“Buried Bones” by The Rough Shapes' },
+      { episode_number: '689',
+        episode_title: 'Digging Up the Bones ',
+        act_number: '689.3',
+        act_title: 'A Curious Bone',
+        producers: 'David Kestenbaum',
+        act_description:
+         'David Kestenbaum tells the story of a man on the verge of one of the greatest scientific discoveries of all time … right on the verge. (4 minutes) ',
+        act_song: '' },
+      { episode_number: '689',
+        episode_title: 'Digging Up the Bones ',
+        act_number: '689.4',
+        act_title: 'Revision Quest',
+        producers: 'Susan Burton',
+        act_description:
+         'In her forties, Jill Ciment wrote about the love of her life. Twenty years later, she’s writing something new about the exact same thing. (15 minutes)',
+        act_song: '“Diggin Up Bones” by Tony Jackson' },
+          { episode_number: '688',
     episode_title: 'The Out Crowd',
     act_number: '688.0',
     act_title: 'Prologue',

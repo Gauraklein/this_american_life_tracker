@@ -1,13 +1,20 @@
 const allEpisodeData = require("./allEpisodeData")
+const newestEpisode = require("../newestEpisode")
 
 // console.log(allEpisodeData.allEpisodeData[0])
 
 let actSeedData = []
 let producerSeedData = []
 
-allEpisodeData.allEpisodeData.map(extractActData)
+// allEpisodeData.allEpisodeData.map(extractActData)
 
-console.dir(producerSeedData, {depth: null, maxArrayLength: null})
+// console.log(newestEpisode)
+
+extractActData(newestEpisode.newestEpisode)
+
+// console.dir(producerSeedData, {depth: null, maxArrayLength: null})
+console.dir(actSeedData, {depth: null, maxArrayLength: null})
+
 
 function extractActData (individualEpisode) {
 
