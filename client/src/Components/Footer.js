@@ -9,8 +9,8 @@ export const AudioFooter = (props) => {
     console.log('audio player is true')
     //for Audio Player
     let episodeInfo = [{
-      src: props.episodePlayUrl,
-      title: props.episodeMetadata[0].episode_number + ':' + props.episodeMetadata[0].episode_title
+      src: props.playingEpisodeObject.playingUrl,
+      title: props.playingEpisodeObject.playingNumber + ':' + props.playingEpisodeObject.playingTitle
     }]
 
     let rearrangedPlayer = [
@@ -38,7 +38,7 @@ export const AudioFooter = (props) => {
     ]
 
     let playingImgStyle = {
-      backgroundImage: "url(" + props.episodeMetadata[0].image + ")",
+      backgroundImage: "url(" + props.playingEpisodeObject.playingImage + ")",
       backgroundSize: "cover",
       backgroundPosition: "center",
       width:"10%",

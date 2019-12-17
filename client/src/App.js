@@ -69,7 +69,7 @@ const mapStateToProps = (state) => {
     isUserLoggedIn: state.isUserLoggedIn,
     episodeMetadata: state.episodeMetadata,
     shouldAudioPlay: state.shouldAudioPlay,
-    episodePlayUrl: state.episodePlayUrl
+    playingEpisodeObject: state.playingEpisodeObject
 
   }
 }
@@ -80,7 +80,7 @@ const mapStateToProps = (state) => {
     loginUser: () => dispatch(loginUser()),
     logoutUser: () => dispatch(logoutUser()),
     handleEpisodeClick: (id) => dispatch(handleEpisodeClick(id)),
-    playEpisode: (url) => dispatch(playEpisode(url)),
+    playEpisode: (playingEpisodeObject) => dispatch(playEpisode(playingEpisodeObject)),
     backToAllEpisodes: () => dispatch(backToAllEpisodes())
    };
   }
