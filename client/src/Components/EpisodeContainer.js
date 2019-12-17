@@ -133,14 +133,6 @@ function renderSong (act) {
   }
 }
 
-function checkEpisodeMetadata (props) {
-  // console.log('checklogin is running')
-  if (props.modal == 'episodeMetadata') {
-    return ""
-  } else {
-    return "hidden"
-  }
-}
 
 //function to render episode card
 
