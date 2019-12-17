@@ -56,23 +56,24 @@ function renderEpisode (episodeMetadata, props) {
 
       <div className="episodeMetaStickyTopRow flex-row">
 
-      <i className="fa fa-thumbs-up"></i>
+      <a onClick={props.backToAllEpisodes.bind(this)} className="blackLink"><i  className="fas fa-2x fa-angle-double-left"></i></a>
 
-        <button onClick={props.backToAllEpisodes.bind(this)} className="singleEpisodeBackButton">Back</button>
+        {/* <button  className="singleEpisodeBackButton">Back</button> */}
 
-        <p>
-            Episode {episodeMetadata[0].episode_number} -- {publishDate}
+        <p id="singleEpisodeDateText">
+            <i>Episode {episodeMetadata[0].episode_number} | {publishDate}</i>
         </p>
  
       </div>
           
       <div className="episeodeMetaBottomRow flex-column centered">
         <div className="singleEpisodePlayAndTitle flex-row">
-          <button className="playEpisodeButton" onClick={props.playEpisode.bind(this, episodeUrl)}>Play Episode</button>
-          <h1>{episodeMetadata[0].episode_title}</h1>
+          <a onClick={props.playEpisode.bind(this, episodeUrl)} className="blackLink"><i id="playIcon" class="far fa-2x fa-play-circle"></i></a>
+          
+          <h1 id="singleEpisodeTitle">{episodeMetadata[0].episode_title}</h1>
         </div>
           <hr/>
-          <p>{episodeMetadata[0].episode_description}</p>
+          <p className="singleEpisodeText">{episodeMetadata[0].episode_description}</p>
           
       </div>
 
@@ -84,7 +85,7 @@ function renderEpisode (episodeMetadata, props) {
         <img className="episodeMetadataImg"src={episodeMetadata[0].image} alt=""/>
       </div>
 
-      <div className="singleEpisodeActs">
+      <div className="singleEpisodeActs flex-column">
         {episodeMetadata.map(RenderAct)}
       </div>
     </div>
@@ -108,11 +109,11 @@ function RenderAct(act) {
 
   return (
       <div className="actContainer">
-          <h3>{actNumberName}: {act.act_title}</h3> 
+          <h3><strong>{actNumberName}: </strong>{act.act_title}</h3> 
           
-          <p><i>{act.producers}</i></p>
+          <p className="singleEpisodeText"><i>{act.producers}</i></p>
           
-          <p>{act.act_description}</p>
+          <p className="singleEpisodeText">{act.act_description}</p>
           
           {renderSong(act)}
 
@@ -127,7 +128,7 @@ function renderSong (act) {
       let actSong = act.act_song
 
       return (
-          <p><i>Song: {actSong}</i></p>
+          <p className="singleEpisodeText"><i>Song: {actSong}</i></p>
       )
   }
 }

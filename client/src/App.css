@@ -155,10 +155,27 @@ li {
   padding-right: 10px;
 }
 
+#singleEpisodeDateText {
+  font-size: 10px;
+}
 .singleEpisodePlayAndTitle {
   padding: 10px;
+  align-items: center;
 }
 
+#singleEpisodeTitle{
+  font-size: 24px;
+}
+
+.singleEpisodeText {
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 80%;
+  font-size: 12px;
+}
+#playIcon {
+  margin-right: 10px;
+}
 .playEpisodeButton {
   margin-right: 10px;
   border-radius: 10px;
@@ -179,10 +196,30 @@ li {
 
 .singleEpisodeActs {
   margin: 10px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.actContainer {
+  width: 80%;
+}
+
+.blackLink {
+  color: black;
+}
+
+.blackLink:hover {
+  cursor: pointer;
 }
 /* INTRO INTRO INTRO INTRO INTRO  */
 
 h2 {
+  font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+}
+
+h3 {
   font-family: "Open Sans", sans-serif;
     font-weight: 500;
 }
