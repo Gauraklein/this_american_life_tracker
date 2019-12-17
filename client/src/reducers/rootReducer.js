@@ -8,7 +8,7 @@ const initState = {
     isUserLoggedIn: false,
     episodeMetadata: [],
     shouldAudioPlay: false,
-    episodePlayUrl: null
+    playingEpisodeObject: {}
 }
 
 const rootReducer = (state = initState, action) => {
@@ -115,7 +115,7 @@ const rootReducer = (state = initState, action) => {
         return {
             ...state,
             shouldAudioPlay: true,
-            episodePlayUrl: action.payload
+            playingEpisodeObject: action.payload
         }
     }
     // this is the original state

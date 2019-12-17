@@ -1,10 +1,10 @@
-export const playEpisode = (url) => {
-    console.log('clicked play episode', url)
+export const playEpisode = (playingEpisodeObject) => {
+    console.log('clicked play episode', playingEpisodeObject)
     return (dispatch) => {
         console.log('this is dispatch')
         dispatch({
             type: "PLAY_EPISODE",
-            payload: url
+            payload: playingEpisodeObject
         })
     }
 

@@ -49,6 +49,12 @@ function renderEpisode (episodeMetadata, props) {
 
       let episodeUrl = "https://podcast.thisamericanlife.org/podcast/" + episodeMetadata[0].episode_number + ".mp3"
 
+      let playingEpisodeObject = {
+        playingUrl: episodeUrl,
+        playingNumber: episodeMetadata[0].episode_number,
+        playingTitle: episodeMetadata[0].episode_title,
+        playingImage: episodeMetadata[0].image 
+      }
   return (
   <div className="SingleEpisodeMetadataContainer flex-column">
 
@@ -68,7 +74,10 @@ function renderEpisode (episodeMetadata, props) {
           
       <div className="episeodeMetaBottomRow flex-column centered">
         <div className="singleEpisodePlayAndTitle flex-row">
-          <a onClick={props.playEpisode.bind(this, episodeUrl)} className="blackLink"><i id="playIcon" class="far fa-2x fa-play-circle"></i></a>
+
+          {/* PLAY EPISODE  */}
+
+          <a onClick={props.playEpisode.bind(this, playingEpisodeObject)} className="blackLink"><i id="playIcon" class="far fa-2x fa-play-circle"></i></a>
           
           <h1 id="singleEpisodeTitle">{episodeMetadata[0].episode_title}</h1>
         </div>
