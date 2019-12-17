@@ -6,7 +6,7 @@ import logo from './../talLogo.png';
 export const Nav = (props) => {
   // console.log(props, 'nav props')
     return (
-      <nav className="navBar flex1 flex-row">
+      <nav className="navBar flex-row">
   
         <div className="nav-left flex1 centered flex-column">
             <img className="navLogo"  src={logo} alt="This American life logo" />

@@ -4,6 +4,7 @@ const initState = {
     ],
     isLoading: false,
     modal: null,
+    singleEpisodeView: false,
     isUserLoggedIn: false,
     episodeMetadata: [],
     shouldAudioPlay: false,
@@ -66,17 +67,17 @@ const rootReducer = (state = initState, action) => {
         }
     }
 
-    // EPISODE METADATA TOGGLE
+    // EPISODE VIEW TOGGLE
 
     if (action.type === "VIEW_EPISODE_METADATA") {
         console.log('Episode metadata toggle')
         
-        if (state.modal !== 'episodeMetadata') {
+        if (!state.singleEpisodeView) {
             console.log(state, 'reducer')
 
             return {
                 ...state,
-                modal: 'episodeMetadata',
+                singleEpisodeView: true,
                 episodeMetadata: action.payload
             }
         } else {
@@ -85,7 +86,7 @@ const rootReducer = (state = initState, action) => {
             return {
                 
                 ...state,
-                modal: null,
+                singleEpisodeView: false,
                 episodeMetadata: []
                 
             }

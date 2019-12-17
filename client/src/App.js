@@ -17,6 +17,7 @@ import { Nav } from './Components/Nav'
 import { AudioFooter } from './Components/Footer'
 import { LoginModal } from './Components/LoginModal'
 import { EpisodeMetadataModal } from './Components/EpisodeMetadataModal'
+import { Intro }  from './Components/Intro'
 
 
 
@@ -41,6 +42,8 @@ class App extends Component {
 
             <EpisodeMetadataModal {...this.props} />
 
+            {/* <Intro /> */}
+
             <EpisodeContainer {...this.props} />
 
           <AudioFooter {...this.props} />
@@ -55,6 +58,7 @@ const mapStateToProps = (state) => {
     allEpisodesArray: state.allEpisodesArray,
     isLoading: state.isLoading,
     modal: state.modal,
+    singleEpisodeView: state.singleEpisodeView,
     isUserLoggedIn: state.isUserLoggedIn,
     episodeMetadata: state.episodeMetadata,
     shouldAudioPlay: state.shouldAudioPlay,

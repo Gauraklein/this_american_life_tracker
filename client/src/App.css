@@ -6,7 +6,7 @@
     font-family: 'Libre Baskerville', serif;
     background: rgb(236, 0, 0);
     /* background: linear-gradient(180deg, rgba(236,0,0,1) 35%, rgba(255,255,255,1) 26%); */
-    color: white;
+    color: black;
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -14,7 +14,8 @@
 }
 
 #footer {
-  background: rgb(236, 0, 0);
+  /* background: rgb(236, 0, 0); */
+  background: #F0F0F0;
   width: 100%;
 }
 
@@ -57,27 +58,27 @@ li {
 }
 
 .flex1 {
-    flex: 1;
+    flex: 10;
 }
 
 .flex2 {
-    flex: 2;
+    flex: 20;
 }
 
 .flex4 {
-    flex: 4;
+    flex: 40;
 }
 
 .flex6 {
-    flex: 6;
+    flex: 60;
 }
 
 .flex8 {
-    flex: 8;
+    flex: 80;
 }
 
 .flex9 {
-    flex: 9;
+    flex: 90;
 }
 
 /* NAV SECTION  */
@@ -86,16 +87,28 @@ li {
     align-items: center;
     justify-content: center;
     text-align: center;
+    flex: 5;
 }
 
 .navLogo {
-    max-width: 96px;
+    max-width: 64px;
+}
+
+.App {
+  margin: 0px;
+  padding: 0px;
 }
 
 /* CONTENT  */
 
 .episodeCardContainer {
     overflow: scroll;
+    background: #F0F0F0;
+}
+
+.SingleEpisodeContainer {
+  overflow: scroll;
+  background: #F0F0F0;
 }
 
 .episodeCard {
@@ -116,6 +129,22 @@ li {
     font-size: .5em;
 }
 
+
+/* INTRO INTRO INTRO INTRO INTRO  */
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+
+}
+
+#introComponent {
+  text-align: center;
+}
 
 
 
@@ -152,10 +181,10 @@ h1 {
 
 .card {
   float: left;
-  padding: 0 1.7rem;
+  padding: 0 1rem;
   width: 50%;
   margin: 10px;
-  max-width:500px;
+  max-width:300px;
 }
 
 .card .menu-content {
@@ -194,7 +223,7 @@ h1 {
 
 .card .wrapper {
   background-color: black;
-  min-height: 540px;
+  min-height: 360px;
   position: relative;
   overflow: hidden;
   -webkit-box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
@@ -253,17 +282,18 @@ h1 {
 }
 
 .card .author {
-  font-size: 12px;
+  font-size: 10px;
   color: black;
   text-align: left;
-  float: left;
+  /* float: left; */
   margin: 5px;
-  margin-left: 10px;
+  margin-left: -65px;
 }
 
 .card .title {
   margin-top: 20px;
   text-align: center;
+  font-size: 20px;
   
 
 }
@@ -272,7 +302,7 @@ h1 {
   height: 70px;
   margin: 0;
   color: black;
-  font-size: .9em;
+  font-size: .7em;
   overflow: auto;
 }
 
@@ -296,7 +326,7 @@ h1 {
   left: 0;
   background-color: #77d7b9;
   color: #fff;
-  padding: 0.8em;
+  padding: 0.6em;
   border-radius: 0 1px 10px 1px;
 }
 
@@ -307,7 +337,7 @@ h1 {
 
 .episodeCardStyle .date .day {
   font-weight: 700;
-  font-size: 24px;
+  font-size: 20px;
   text-shadow: 2px 3px 2px rgba(0, 0, 0, 0.18);
 }
 
@@ -413,7 +443,7 @@ h1 {
   /* margin-right: 20px; */
   float: right;
   text-align: center;
-  font-size: 12px;
+  font-size: 10px;
   /* color: black; */
   line-height: 1;
   position: relative;
