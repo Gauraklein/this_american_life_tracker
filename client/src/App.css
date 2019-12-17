@@ -176,6 +176,22 @@ li {
 #playIcon {
   margin-right: 10px;
 }
+
+#play-icon {
+  height: 3rem !important;
+}
+
+.audio-player {
+  display: flex;
+  flex-direction: row;
+  /* background-color: #cfcccc; */
+  /* padding: 0.2rem; */
+  /* border: solid 1px; */
+  /* box-shadow: 2px 2px 15px black; */
+  justify-content: center;
+  align-items: center;
+}
+
 .playEpisodeButton {
   margin-right: 10px;
   border-radius: 10px;

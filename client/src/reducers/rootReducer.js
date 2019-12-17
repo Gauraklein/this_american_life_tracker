@@ -86,8 +86,8 @@ const rootReducer = (state = initState, action) => {
             return {
                 
                 ...state,
-                singleEpisodeView: false,
-                episodeMetadata: []
+                singleEpisodeView: false
+                
                 
             }
         }
@@ -100,8 +100,8 @@ const rootReducer = (state = initState, action) => {
             return {
                 
                 ...state,
-                singleEpisodeView: false,
-                episodeMetadata: []
+                singleEpisodeView: false
+                
                 
             }
         }
