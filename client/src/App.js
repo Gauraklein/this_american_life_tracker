@@ -29,6 +29,13 @@ class App extends Component {
 
   componentDidMount() {
     this.props.callAPI();
+    window.onpopstate = (event, props) => {
+      // console.log(event, this.props)
+      if (this.props.singleEpisodeView) {
+        this.props.backToAllEpisodes()
+      }
+      // goBackIfNeeded
+    }
     // console.log(this.state, 'this is the state')
   }
 

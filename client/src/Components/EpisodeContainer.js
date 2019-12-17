@@ -29,6 +29,7 @@ export const EpisodeContainer = (props) => {
       return (
 
         <div className="SingleEpisodeContainer flex8">
+          
           {renderEpisode(props.episodeMetadata, props)}
           </div>
           
@@ -54,6 +55,8 @@ function renderEpisode (episodeMetadata, props) {
     <div className="episodeMetaSticky flex-column flex1">
 
       <div className="episodeMetaStickyTopRow flex-row">
+
+      <i className="fa fa-thumbs-up"></i>
 
         <button onClick={props.backToAllEpisodes.bind(this)} className="singleEpisodeBackButton">Back</button>
 
