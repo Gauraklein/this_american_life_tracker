@@ -1,9 +1,9 @@
-## The Unofficial 'This American Life' Tracker
-*A full stack web application that allows users to mark which episodes of 'This American Life' they have listened to as well as rate the episodes*
+## The Unofficial 'This American Life' App
+*Currently in development. A full stack web application that allows users to mark which episodes of 'This American Life' they have listened to as well as rate the episodes*
 
 ---
 
-(Screenshot/gif)
+![alt text](Talgif.gif)
 
 ---
 
@@ -20,6 +20,7 @@ Wanted a simple way to track which episodes of 'This American Life' I've already
 
 ### Features
 
+- Play episodes while navigating 
 - Mark which episodes you have listened to
 - Rate episodes
 - Get recommended episodes based on user rating
