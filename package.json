@@ -12,7 +12,7 @@
   "author": "Gaura Klein",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mustache": "^3.1.0",
     "nodemon": "^1.19.3"
   },
